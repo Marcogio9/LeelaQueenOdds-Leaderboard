@@ -275,6 +275,12 @@
         "last_game": "2024.08.13",
         "BOT": false
     },
+    "V3Cor": {
+        "rating": 1637.5713682360165,
+        "games": 4,
+        "last_game": "2024.11.04",
+        "BOT": false
+    },
     "miyad": {
         "rating": 1637.279981783074,
         "games": 1,
@@ -4559,15 +4565,9 @@
         "last_game": "2024.11.03",
         "BOT": false
     },
-    "V3Cor": {
-        "rating": 1600,
-        "games": 2,
-        "last_game": "2024.11.04",
-        "BOT": false
-    },
     "metadata": {
         "rating": 0,
-        "date": 1730760848682,
+        "date": 1730761148936,
         "malus_date": 1730242800000.0
     }
 }
