@@ -147,7 +147,7 @@ while 1:
     with open("leaderboard.json", "r") as fi:
         lead = json.load(fi)
     
-        since_date = int(lead['metadata']['date'])-61000 # -61sec
+        since_date = int(lead['metadata']['date'])-299000 # -299sec
         until_date = int(datetime.now().timestamp()*1000)
         
         lead = update(lead, since_date, until_date)
@@ -157,7 +157,7 @@ while 1:
         
        
     
-    time.sleep(60)
+    time.sleep(300)
     print('-'*80)
 
 
