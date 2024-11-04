@@ -12,8 +12,8 @@
         "BOT": true
     },
     "nn1133": {
-        "rating": 2314.9084535447696,
-        "games": 6106,
+        "rating": 2324.5018562184505,
+        "games": 6107,
         "last_game": "2024.11.04",
         "BOT": false
     },
@@ -108,8 +108,8 @@
         "BOT": true
     },
     "Clydevil": {
-        "rating": 1887.738587962457,
-        "games": 284,
+        "rating": 1896.68709960821,
+        "games": 286,
         "last_game": "2024.11.04",
         "BOT": false
     },
@@ -138,8 +138,8 @@
         "BOT": false
     },
     "baki1989": {
-        "rating": 1825.6055998908962,
-        "games": 27,
+        "rating": 1819.3150777347903,
+        "games": 28,
         "last_game": "2024.11.04",
         "BOT": false
     },
@@ -246,8 +246,8 @@
         "BOT": false
     },
     "Rowburt": {
-        "rating": 1657.3331053851139,
-        "games": 4,
+        "rating": 1656.2947899536584,
+        "games": 5,
         "last_game": "2024.11.04",
         "BOT": false
     },
@@ -681,12 +681,6 @@
         "rating": 1600.0241079850064,
         "games": 1,
         "last_game": "2024.10.13",
-        "BOT": false
-    },
-    "ChessMarcogio": {
-        "rating": 1600,
-        "games": 25,
-        "last_game": "2024.11.04",
         "BOT": false
     },
     "Hissha": {
@@ -3353,6 +3347,12 @@
         "last_game": "2024.07.05",
         "BOT": false
     },
+    "ChessMarcogio": {
+        "rating": 1600,
+        "games": 25,
+        "last_game": "2024.11.04",
+        "BOT": false
+    },
     "UnbelievableShocker": {
         "rating": 1600,
         "games": 1,
@@ -4561,7 +4561,7 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730754086670,
+        "date": 1730756434775,
         "malus_date": 1730242800000.0
     }
 }
