@@ -4553,9 +4553,15 @@
         "last_game": "2024.11.03",
         "BOT": false
     },
+    "Rowburt": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.11.04",
+        "BOT": false
+    },
     "metadata": {
         "rating": 0,
-        "date": 1730752885591,
+        "date": 1730753486168,
         "malus_date": 1730242800000.0
     }
 }
