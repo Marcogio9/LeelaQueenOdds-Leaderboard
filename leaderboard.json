@@ -12,8 +12,8 @@
         "BOT": true
     },
     "nn1133": {
-        "rating": 2298.2289455851997,
-        "games": 6088,
+        "rating": 2306.3463109870713,
+        "games": 6101,
         "last_game": "2024.11.04",
         "BOT": false
     },
@@ -95,6 +95,12 @@
         "last_game": null,
         "BOT": true
     },
+    "Brunetticus": {
+        "rating": 1917.2753338947696,
+        "games": 36,
+        "last_game": "2024.11.04",
+        "BOT": false
+    },
     "LeelaQueenOdds as black 15+10 (Reference)": {
         "rating": 1905.2075391319004,
         "games": 0,
@@ -104,12 +110,6 @@
     "Clydevil": {
         "rating": 1887.738587962457,
         "games": 284,
-        "last_game": "2024.11.04",
-        "BOT": false
-    },
-    "Brunetticus": {
-        "rating": 1887.393801933921,
-        "games": 24,
         "last_game": "2024.11.04",
         "BOT": false
     },
@@ -257,6 +257,12 @@
         "last_game": "2024.10.10",
         "BOT": false
     },
+    "waitdarn": {
+        "rating": 1638.7535626541382,
+        "games": 11,
+        "last_game": "2024.11.04",
+        "BOT": false
+    },
     "Siebenschlaf": {
         "rating": 1637.8261780616442,
         "games": 10,
@@ -275,6 +281,12 @@
         "last_game": "2024.11.04",
         "BOT": false
     },
+    "Dynomitez": {
+        "rating": 1636.6649685235304,
+        "games": 2,
+        "last_game": "2024.11.04",
+        "BOT": false
+    },
     "serge_vw1": {
         "rating": 1636.3089934004647,
         "games": 2,
@@ -285,6 +297,12 @@
         "rating": 1635.611817316883,
         "games": 1,
         "last_game": "2024.10.31",
+        "BOT": false
+    },
+    "Psyman2": {
+        "rating": 1635.548803467168,
+        "games": 6,
+        "last_game": "2024.11.04",
         "BOT": false
     },
     "umousemehawk": {
@@ -321,6 +339,12 @@
         "rating": 1627.408427137599,
         "games": 7,
         "last_game": "2024.10.29",
+        "BOT": false
+    },
+    "tzar_bomba": {
+        "rating": 1627.30568115513,
+        "games": 32,
+        "last_game": "2024.11.04",
         "BOT": false
     },
     "MattLevine": {
@@ -399,12 +423,6 @@
         "rating": 1618.3840351697215,
         "games": 2,
         "last_game": "2024.10.24",
-        "BOT": false
-    },
-    "tzar_bomba": {
-        "rating": 1617.5986474309107,
-        "games": 28,
-        "last_game": "2024.11.02",
         "BOT": false
     },
     "Es-tactic": {
@@ -635,12 +653,6 @@
         "last_game": "2024.09.25",
         "BOT": false
     },
-    "ChessMarcogio": {
-        "rating": 1601.6073145508599,
-        "games": 21,
-        "last_game": "2024.11.04",
-        "BOT": false
-    },
     "Ta3-e3": {
         "rating": 1601.3808530186075,
         "games": 1,
@@ -663,6 +675,12 @@
         "rating": 1600.0241079850064,
         "games": 1,
         "last_game": "2024.10.13",
+        "BOT": false
+    },
+    "ChessMarcogio": {
+        "rating": 1600,
+        "games": 25,
+        "last_game": "2024.11.04",
         "BOT": false
     },
     "Hissha": {
@@ -4181,12 +4199,6 @@
         "last_game": "2024.10.05",
         "BOT": false
     },
-    "waitdarn": {
-        "rating": 1600,
-        "games": 8,
-        "last_game": "2024.10.28",
-        "BOT": false
-    },
     "SY_Khalil": {
         "rating": 1600,
         "games": 1,
@@ -4543,7 +4555,7 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730722055340,
+        "date": 1730746781156,
         "malus_date": 1730242800000.0
     }
 }
