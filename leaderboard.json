@@ -245,6 +245,12 @@
         "last_game": "2024.11.02",
         "BOT": false
     },
+    "Rowburt": {
+        "rating": 1657.3331053851139,
+        "games": 4,
+        "last_game": "2024.11.04",
+        "BOT": false
+    },
     "TurTurm": {
         "rating": 1651.2041226031445,
         "games": 6,
@@ -423,12 +429,6 @@
         "rating": 1618.3840351697215,
         "games": 2,
         "last_game": "2024.10.24",
-        "BOT": false
-    },
-    "Rowburt": {
-        "rating": 1618.3775186183304,
-        "games": 3,
-        "last_game": "2024.11.04",
         "BOT": false
     },
     "Es-tactic": {
@@ -4561,7 +4561,7 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730753786388,
+        "date": 1730754086670,
         "malus_date": 1730242800000.0
     }
 }
