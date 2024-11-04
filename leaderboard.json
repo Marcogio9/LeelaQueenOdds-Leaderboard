@@ -1,0 +1,4549 @@
+{
+    "LeelaQueenOdds as white 1+0 (Reference)": {
+        "rating": 2411.848315666685,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "LeelaQueenOdds as black 1+0 (Reference)": {
+        "rating": 2361.848315666685,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "nn1133": {
+        "rating": 2298.2289455851997,
+        "games": 6088,
+        "last_game": "2024.11.04",
+        "BOT": false
+    },
+    "LeelaQueenOdds as white 1+1 (Reference)": {
+        "rating": 2261.045577253242,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "LeelaQueenOdds as white 3+0 (Reference)": {
+        "rating": 2247.0564723664684,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "LeelaQueenOdds as black 1+1 (Reference)": {
+        "rating": 2211.045577253242,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "LeelaQueenOdds as black 3+0 (Reference)": {
+        "rating": 2197.0564723664684,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "Catecan": {
+        "rating": 2190.687406655403,
+        "games": 272,
+        "last_game": "2024.11.04",
+        "BOT": false
+    },
+    "LeelaQueenOdds as white 3+2 (Reference)": {
+        "rating": 2149.5588676718235,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "LeelaQueenOdds as black 3+2 (Reference)": {
+        "rating": 2099.5588676718235,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "LeelaQueenOdds as white 5+3 (Reference)": {
+        "rating": 2091.444273680713,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "KentGoulding": {
+        "rating": 2080.84173253893,
+        "games": 207,
+        "last_game": "2024.10.30",
+        "BOT": false
+    },
+    "LeelaQueenOdds as black 5+3 (Reference)": {
+        "rating": 2041.4442736807132,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "LeelaQueenOdds as white 10+5 (Reference)": {
+        "rating": 2010.9392869678304,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "LeelaQueenOdds as black 10+5 (Reference)": {
+        "rating": 1960.9392869678304,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "LeelaQueenOdds as white 15+10 (Reference)": {
+        "rating": 1955.2075391319004,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "LeelaQueenOdds as black 15+10 (Reference)": {
+        "rating": 1905.2075391319004,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "Clydevil": {
+        "rating": 1887.738587962457,
+        "games": 284,
+        "last_game": "2024.11.04",
+        "BOT": false
+    },
+    "Brunetticus": {
+        "rating": 1887.393801933921,
+        "games": 24,
+        "last_game": "2024.11.04",
+        "BOT": false
+    },
+    "Traag": {
+        "rating": 1873.7276894759057,
+        "games": 385,
+        "last_game": "2024.10.12",
+        "BOT": false
+    },
+    "W3Z2fv4o6ipbnak8u7": {
+        "rating": 1871.1971546901038,
+        "games": 274,
+        "last_game": "2024.11.02",
+        "BOT": false
+    },
+    "BvAR2": {
+        "rating": 1860.1067394612444,
+        "games": 2935,
+        "last_game": "2024.11.04",
+        "BOT": false
+    },
+    "ltvr": {
+        "rating": 1856.656919059411,
+        "games": 93,
+        "last_game": "2024.06.26",
+        "BOT": false
+    },
+    "baki1989": {
+        "rating": 1825.6055998908962,
+        "games": 27,
+        "last_game": "2024.11.04",
+        "BOT": false
+    },
+    "Zqf5502l": {
+        "rating": 1813.3001629512978,
+        "games": 282,
+        "last_game": "2024.08.05",
+        "BOT": false
+    },
+    "OptimumPrime": {
+        "rating": 1804.3421671939398,
+        "games": 135,
+        "last_game": "2024.11.04",
+        "BOT": false
+    },
+    "CaleaspreVictorie": {
+        "rating": 1753.0505556955188,
+        "games": 54,
+        "last_game": "2024.06.18",
+        "BOT": false
+    },
+    "AsheliaXII": {
+        "rating": 1744.1758641423066,
+        "games": 5,
+        "last_game": "2024.11.03",
+        "BOT": false
+    },
+    "HUNTERBABA": {
+        "rating": 1736.3435908370416,
+        "games": 30,
+        "last_game": "2024.10.16",
+        "BOT": false
+    },
+    "sandals": {
+        "rating": 1721.602260944015,
+        "games": 6,
+        "last_game": "2024.10.12",
+        "BOT": false
+    },
+    "nonAs": {
+        "rating": 1714.847756045641,
+        "games": 20,
+        "last_game": "2024.10.23",
+        "BOT": false
+    },
+    "edwardw21": {
+        "rating": 1697.9470208354683,
+        "games": 11,
+        "last_game": "2024.11.02",
+        "BOT": false
+    },
+    "qkxwsm": {
+        "rating": 1697.8938128589546,
+        "games": 5,
+        "last_game": "2024.11.03",
+        "BOT": false
+    },
+    "Jimena_Becerra": {
+        "rating": 1696.9978175396816,
+        "games": 19,
+        "last_game": "2024.10.22",
+        "BOT": false
+    },
+    "iamqueenup": {
+        "rating": 1689.861195122204,
+        "games": 48,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "haih": {
+        "rating": 1677.576901061488,
+        "games": 89,
+        "last_game": "2024.04.20",
+        "BOT": false
+    },
+    "emouret": {
+        "rating": 1670.1253686312757,
+        "games": 40,
+        "last_game": "2024.04.10",
+        "BOT": false
+    },
+    "yuzuMi": {
+        "rating": 1665.5352335977343,
+        "games": 3,
+        "last_game": "2024.11.01",
+        "BOT": false
+    },
+    "RubiPengui": {
+        "rating": 1663.6477004844066,
+        "games": 5,
+        "last_game": "2024.10.17",
+        "BOT": false
+    },
+    "Kamel_ohne_Hoecker": {
+        "rating": 1658.3550707428656,
+        "games": 4,
+        "last_game": "2024.10.29",
+        "BOT": false
+    },
+    "iyj": {
+        "rating": 1658.009557317436,
+        "games": 2,
+        "last_game": "2024.11.02",
+        "BOT": false
+    },
+    "TurTurm": {
+        "rating": 1651.2041226031445,
+        "games": 6,
+        "last_game": "2024.09.29",
+        "BOT": false
+    },
+    "cid7777": {
+        "rating": 1641.3995994821266,
+        "games": 6,
+        "last_game": "2024.10.10",
+        "BOT": false
+    },
+    "Siebenschlaf": {
+        "rating": 1637.8261780616442,
+        "games": 10,
+        "last_game": "2024.08.13",
+        "BOT": false
+    },
+    "miyad": {
+        "rating": 1637.279981783074,
+        "games": 1,
+        "last_game": "2024.11.01",
+        "BOT": false
+    },
+    "Virginio13": {
+        "rating": 1637.0790887074165,
+        "games": 1,
+        "last_game": "2024.11.04",
+        "BOT": false
+    },
+    "serge_vw1": {
+        "rating": 1636.3089934004647,
+        "games": 2,
+        "last_game": "2024.10.11",
+        "BOT": false
+    },
+    "MdShuvo79": {
+        "rating": 1635.611817316883,
+        "games": 1,
+        "last_game": "2024.10.31",
+        "BOT": false
+    },
+    "umousemehawk": {
+        "rating": 1635.4267089098287,
+        "games": 2,
+        "last_game": "2024.11.02",
+        "BOT": false
+    },
+    "Alexchess2050": {
+        "rating": 1634.4303303569234,
+        "games": 1,
+        "last_game": "2024.11.01",
+        "BOT": false
+    },
+    "Artin1900": {
+        "rating": 1633.947785872214,
+        "games": 5,
+        "last_game": "2024.10.30",
+        "BOT": false
+    },
+    "nderaj": {
+        "rating": 1628.909911556238,
+        "games": 1,
+        "last_game": "2024.10.30",
+        "BOT": false
+    },
+    "Za4ess": {
+        "rating": 1627.5677976996512,
+        "games": 5,
+        "last_game": "2024.10.14",
+        "BOT": false
+    },
+    "JkAkrite": {
+        "rating": 1627.408427137599,
+        "games": 7,
+        "last_game": "2024.10.29",
+        "BOT": false
+    },
+    "MattLevine": {
+        "rating": 1626.9273858074519,
+        "games": 2,
+        "last_game": "2024.10.13",
+        "BOT": false
+    },
+    "JordanianFisher": {
+        "rating": 1626.188073241274,
+        "games": 15,
+        "last_game": "2024.09.07",
+        "BOT": false
+    },
+    "Skorro": {
+        "rating": 1625.2829764389976,
+        "games": 1,
+        "last_game": "2024.10.29",
+        "BOT": false
+    },
+    "Lightlike": {
+        "rating": 1624.5394776032692,
+        "games": 1,
+        "last_game": "2024.10.27",
+        "BOT": false
+    },
+    "avpix": {
+        "rating": 1624.100017504668,
+        "games": 1,
+        "last_game": "2024.10.25",
+        "BOT": false
+    },
+    "KDMFan": {
+        "rating": 1622.9116204628174,
+        "games": 5,
+        "last_game": "2024.10.06",
+        "BOT": false
+    },
+    "Weaponized-Autism": {
+        "rating": 1622.9028748139563,
+        "games": 1,
+        "last_game": "2024.10.28",
+        "BOT": false
+    },
+    "aggressivemolerat122": {
+        "rating": 1622.1484073976094,
+        "games": 3,
+        "last_game": "2024.11.01",
+        "BOT": false
+    },
+    "Chrill": {
+        "rating": 1622.0228273781893,
+        "games": 1,
+        "last_game": "2024.10.28",
+        "BOT": false
+    },
+    "Garrett_Thompson": {
+        "rating": 1621.3808530186075,
+        "games": 1,
+        "last_game": "2024.10.23",
+        "BOT": false
+    },
+    "YuriGod9000": {
+        "rating": 1618.5554145484398,
+        "games": 3,
+        "last_game": "2024.10.23",
+        "BOT": false
+    },
+    "cinn_amon": {
+        "rating": 1618.468861473357,
+        "games": 1,
+        "last_game": "2024.10.27",
+        "BOT": false
+    },
+    "ilovejersey": {
+        "rating": 1618.3840351697215,
+        "games": 2,
+        "last_game": "2024.10.24",
+        "BOT": false
+    },
+    "tzar_bomba": {
+        "rating": 1617.5986474309107,
+        "games": 28,
+        "last_game": "2024.11.02",
+        "BOT": false
+    },
+    "Es-tactic": {
+        "rating": 1617.3702635980494,
+        "games": 15,
+        "last_game": "2024.10.22",
+        "BOT": false
+    },
+    "IronFever": {
+        "rating": 1615.6241266241043,
+        "games": 1,
+        "last_game": "2024.10.16",
+        "BOT": false
+    },
+    "Slowerest_Strategist": {
+        "rating": 1615.4600080811667,
+        "games": 4,
+        "last_game": "2024.10.17",
+        "BOT": false
+    },
+    "eatherquake": {
+        "rating": 1615.4600080811667,
+        "games": 1,
+        "last_game": "2024.10.19",
+        "BOT": false
+    },
+    "SupaMaggie70": {
+        "rating": 1615.2829764389976,
+        "games": 4,
+        "last_game": "2024.10.19",
+        "BOT": false
+    },
+    "LordSnek": {
+        "rating": 1614.094450605867,
+        "games": 1,
+        "last_game": "2024.10.19",
+        "BOT": false
+    },
+    "sphae": {
+        "rating": 1613.7039261882783,
+        "games": 1,
+        "last_game": "2024.10.17",
+        "BOT": false
+    },
+    "Naphthalin": {
+        "rating": 1613.4379802537999,
+        "games": 180,
+        "last_game": "2024.10.18",
+        "BOT": false
+    },
+    "aulip": {
+        "rating": 1613.1683786814776,
+        "games": 2,
+        "last_game": "2024.10.17",
+        "BOT": false
+    },
+    "totallynewplayer": {
+        "rating": 1613.0364959998935,
+        "games": 99,
+        "last_game": "2024.09.28",
+        "BOT": false
+    },
+    "Roie": {
+        "rating": 1613.0247130381883,
+        "games": 13,
+        "last_game": "2024.11.03",
+        "BOT": false
+    },
+    "bruce_willis": {
+        "rating": 1612.0228273781893,
+        "games": 1,
+        "last_game": "2024.10.18",
+        "BOT": false
+    },
+    "wcmatt": {
+        "rating": 1612.0228273781893,
+        "games": 1,
+        "last_game": "2024.10.20",
+        "BOT": false
+    },
+    "Kanapkozerca": {
+        "rating": 1611.0645938044388,
+        "games": 1,
+        "last_game": "2024.10.20",
+        "BOT": false
+    },
+    "Devildawg": {
+        "rating": 1610.8421028191626,
+        "games": 1,
+        "last_game": "2024.10.17",
+        "BOT": false
+    },
+    "MrMikeJJ": {
+        "rating": 1610.7545130728702,
+        "games": 5,
+        "last_game": "2024.10.12",
+        "BOT": false
+    },
+    "eimhess": {
+        "rating": 1609.4652504160706,
+        "games": 6,
+        "last_game": "2024.10.20",
+        "BOT": false
+    },
+    "moshe742": {
+        "rating": 1608.6541074240547,
+        "games": 1,
+        "last_game": "2024.10.18",
+        "BOT": false
+    },
+    "Kesavar": {
+        "rating": 1608.6088791528641,
+        "games": 2,
+        "last_game": "2024.09.29",
+        "BOT": false
+    },
+    "Hoffer1": {
+        "rating": 1608.3840351697215,
+        "games": 2,
+        "last_game": "2024.10.17",
+        "BOT": false
+    },
+    "IWishIWasFat": {
+        "rating": 1608.3840351697215,
+        "games": 1,
+        "last_game": "2024.10.20",
+        "BOT": false
+    },
+    "KingGadamer": {
+        "rating": 1607.3807343626777,
+        "games": 156,
+        "last_game": "2024.02.26",
+        "BOT": false
+    },
+    "Ayaan_Ahmed": {
+        "rating": 1607.1653645374918,
+        "games": 1,
+        "last_game": "2024.10.26",
+        "BOT": false
+    },
+    "spanik": {
+        "rating": 1607.0519568584102,
+        "games": 36,
+        "last_game": "2024.10.30",
+        "BOT": false
+    },
+    "wawawawaa": {
+        "rating": 1606.6287276104936,
+        "games": 32,
+        "last_game": "2024.10.26",
+        "BOT": false
+    },
+    "muqri_1": {
+        "rating": 1606.568433542929,
+        "games": 1,
+        "last_game": "2024.10.11",
+        "BOT": false
+    },
+    "Grumm31": {
+        "rating": 1605.9212339303838,
+        "games": 5,
+        "last_game": "2024.10.01",
+        "BOT": false
+    },
+    "Xemaros": {
+        "rating": 1605.76043567304,
+        "games": 1,
+        "last_game": "2024.10.14",
+        "BOT": false
+    },
+    "Broccoli_Inside": {
+        "rating": 1605.3767268609186,
+        "games": 3,
+        "last_game": "2024.09.28",
+        "BOT": false
+    },
+    "Vaibhav-Thirumal": {
+        "rating": 1605.2829764389976,
+        "games": 1,
+        "last_game": "2024.10.10",
+        "BOT": false
+    },
+    "klfo": {
+        "rating": 1605.2829764389976,
+        "games": 1,
+        "last_game": "2024.10.15",
+        "BOT": false
+    },
+    "TILTingBERSERKer": {
+        "rating": 1603.947785872214,
+        "games": 1,
+        "last_game": "2024.10.09",
+        "BOT": false
+    },
+    "Melih-Yasar": {
+        "rating": 1603.947785872214,
+        "games": 1,
+        "last_game": "2024.10.12",
+        "BOT": false
+    },
+    "Thisisnobody": {
+        "rating": 1603.7039261882783,
+        "games": 2,
+        "last_game": "2024.10.12",
+        "BOT": false
+    },
+    "invokermaster": {
+        "rating": 1603.7039261882783,
+        "games": 1,
+        "last_game": "2024.10.15",
+        "BOT": false
+    },
+    "Fire-work": {
+        "rating": 1602.9028748139563,
+        "games": 12,
+        "last_game": "2024.10.12",
+        "BOT": false
+    },
+    "ThePhenomenalOne_777": {
+        "rating": 1602.9028748139563,
+        "games": 1,
+        "last_game": "2024.10.09",
+        "BOT": false
+    },
+    "MyWayToGm": {
+        "rating": 1601.8602496414182,
+        "games": 7,
+        "last_game": "2024.09.25",
+        "BOT": false
+    },
+    "ChessMarcogio": {
+        "rating": 1601.6073145508599,
+        "games": 21,
+        "last_game": "2024.11.04",
+        "BOT": false
+    },
+    "Ta3-e3": {
+        "rating": 1601.3808530186075,
+        "games": 1,
+        "last_game": "2024.10.11",
+        "BOT": false
+    },
+    "maryAnnjones": {
+        "rating": 1600.8421028191626,
+        "games": 1,
+        "last_game": "2024.10.13",
+        "BOT": false
+    },
+    "Floran": {
+        "rating": 1600.8421028191626,
+        "games": 2,
+        "last_game": "2024.10.13",
+        "BOT": false
+    },
+    "MoveAndPray": {
+        "rating": 1600.0241079850064,
+        "games": 1,
+        "last_game": "2024.10.13",
+        "BOT": false
+    },
+    "Hissha": {
+        "rating": 1600,
+        "games": 19,
+        "last_game": "2024.01.29",
+        "BOT": false
+    },
+    "abrok83": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.01.22",
+        "BOT": false
+    },
+    "mfbnmf": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.01.24",
+        "BOT": false
+    },
+    "cosmobotany": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.01.31",
+        "BOT": false
+    },
+    "TchefuncteIncised": {
+        "rating": 1600,
+        "games": 24,
+        "last_game": "2024.03.29",
+        "BOT": false
+    },
+    "burnedmoments": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.01.29",
+        "BOT": false
+    },
+    "gorlor": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.01.25",
+        "BOT": false
+    },
+    "thunder_swift": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.01.25",
+        "BOT": false
+    },
+    "ARandqmPerson": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.01.26",
+        "BOT": false
+    },
+    "Oversave": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.01.26",
+        "BOT": false
+    },
+    "YJP": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.01.27",
+        "BOT": false
+    },
+    "quadkings": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.01.27",
+        "BOT": false
+    },
+    "gatsuu7": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.01.27",
+        "BOT": false
+    },
+    "whock": {
+        "rating": 1600,
+        "games": 25,
+        "last_game": "2024.09.23",
+        "BOT": false
+    },
+    "GalwayGroot": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.01.28",
+        "BOT": false
+    },
+    "AleLeva": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.01.28",
+        "BOT": false
+    },
+    "iplayeasy": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.01.29",
+        "BOT": false
+    },
+    "RODRIGOPAREJAP25": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.01.29",
+        "BOT": false
+    },
+    "kaimauer": {
+        "rating": 1600,
+        "games": 74,
+        "last_game": "2024.06.19",
+        "BOT": false
+    },
+    "Bad_attacks": {
+        "rating": 1600,
+        "games": 20,
+        "last_game": "2024.02.03",
+        "BOT": false
+    },
+    "Ira_Jed": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.01.31",
+        "BOT": false
+    },
+    "Philosophy-Prince_4": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.01.31",
+        "BOT": false
+    },
+    "MikhailTal4377": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.02.09",
+        "BOT": false
+    },
+    "TB-303": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.02.02",
+        "BOT": false
+    },
+    "CuxTraining": {
+        "rating": 1600,
+        "games": 10,
+        "last_game": "2024.02.03",
+        "BOT": false
+    },
+    "monikasupremacy": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.02",
+        "BOT": false
+    },
+    "SekiThisIs": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.02.06",
+        "BOT": false
+    },
+    "MaxwellsSilvrHammer": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.02.03",
+        "BOT": false
+    },
+    "PijusVa": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.03",
+        "BOT": false
+    },
+    "trist1": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.02.04",
+        "BOT": false
+    },
+    "Chakradhar55": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.05",
+        "BOT": false
+    },
+    "jmuzhen2": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.05",
+        "BOT": false
+    },
+    "NotAlpha0": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.02.05",
+        "BOT": false
+    },
+    "AbuBakrAlBaghdadi": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.05",
+        "BOT": false
+    },
+    "meme_gazer": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.02.06",
+        "BOT": false
+    },
+    "Guilford_Board1": {
+        "rating": 1600,
+        "games": 34,
+        "last_game": "2024.05.22",
+        "BOT": false
+    },
+    "SCP079": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.02.06",
+        "BOT": false
+    },
+    "Justamagic": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.09",
+        "BOT": false
+    },
+    "withoutaqueen": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.10",
+        "BOT": false
+    },
+    "acutedeath": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.10",
+        "BOT": false
+    },
+    "greatatche": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.02.18",
+        "BOT": false
+    },
+    "TBest": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.02.11",
+        "BOT": false
+    },
+    "whem_kyny": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.02.12",
+        "BOT": false
+    },
+    "LakshyaK_1": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.12",
+        "BOT": false
+    },
+    "ICatchTheLight": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.12",
+        "BOT": false
+    },
+    "world_Chess_rider": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.13",
+        "BOT": false
+    },
+    "Matt-Matt": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.14",
+        "BOT": false
+    },
+    "Leek_Wars": {
+        "rating": 1600,
+        "games": 33,
+        "last_game": "2024.06.07",
+        "BOT": false
+    },
+    "yChessNow": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.14",
+        "BOT": false
+    },
+    "traporeus": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.14",
+        "BOT": false
+    },
+    "jackiestackie": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.15",
+        "BOT": false
+    },
+    "jusleofas": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.15",
+        "BOT": false
+    },
+    "Ddeuxdquatre": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.15",
+        "BOT": false
+    },
+    "knowledge9": {
+        "rating": 1600,
+        "games": 7,
+        "last_game": "2024.03.08",
+        "BOT": false
+    },
+    "DaLameLlama": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.16",
+        "BOT": false
+    },
+    "zicksucker3000": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.02.16",
+        "BOT": false
+    },
+    "mathisderenne": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.16",
+        "BOT": false
+    },
+    "TuriMatto": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.04.03",
+        "BOT": false
+    },
+    "cptskullkeeta": {
+        "rating": 1600,
+        "games": 13,
+        "last_game": "2024.07.20",
+        "BOT": false
+    },
+    "AAA99AAA": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.07.24",
+        "BOT": false
+    },
+    "RukLift": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.02.18",
+        "BOT": false
+    },
+    "bdelpey": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.20",
+        "BOT": false
+    },
+    "VinuHarsith": {
+        "rating": 1600,
+        "games": 6,
+        "last_game": "2024.03.08",
+        "BOT": false
+    },
+    "berseker59": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.21",
+        "BOT": false
+    },
+    "josh_mitch": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.21",
+        "BOT": false
+    },
+    "rerecursing": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.02.25",
+        "BOT": false
+    },
+    "ar0ck": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.02.22",
+        "BOT": false
+    },
+    "spasst93": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.23",
+        "BOT": false
+    },
+    "yuri_31": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.03.01",
+        "BOT": false
+    },
+    "JoanFluvia": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.24",
+        "BOT": false
+    },
+    "ChenDanChess": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.02.25",
+        "BOT": false
+    },
+    "DrD8m": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.24",
+        "BOT": false
+    },
+    "Ard-galen": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.02.25",
+        "BOT": false
+    },
+    "arimaa_master": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.25",
+        "BOT": false
+    },
+    "MoreTeaVicar": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.25",
+        "BOT": false
+    },
+    "atharva5046": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.02.26",
+        "BOT": false
+    },
+    "VulgarExigencies": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.05.14",
+        "BOT": false
+    },
+    "BigSplat2020": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.02.27",
+        "BOT": false
+    },
+    "windfishballad": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.03.29",
+        "BOT": false
+    },
+    "RespettoMyFianchetto": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.28",
+        "BOT": false
+    },
+    "croflash": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.29",
+        "BOT": false
+    },
+    "Topoiogist": {
+        "rating": 1600,
+        "games": 74,
+        "last_game": "2024.06.27",
+        "BOT": false
+    },
+    "Tim-Grutter": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.29",
+        "BOT": false
+    },
+    "no4b": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.29",
+        "BOT": false
+    },
+    "Kurt22": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.03.02",
+        "BOT": false
+    },
+    "William_Blazkowicz": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.02.29",
+        "BOT": false
+    },
+    "ChessOLantern": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.02",
+        "BOT": false
+    },
+    "itfavor": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.03.05",
+        "BOT": false
+    },
+    "ryzor": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.02",
+        "BOT": false
+    },
+    "BristleThistle": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.02",
+        "BOT": false
+    },
+    "botanicalfanaticism": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.03",
+        "BOT": false
+    },
+    "susamogus1": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.03",
+        "BOT": false
+    },
+    "valente_04": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.04",
+        "BOT": false
+    },
+    "nicolaf78": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.03.04",
+        "BOT": false
+    },
+    "darkranger43": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.03.04",
+        "BOT": false
+    },
+    "CaptureEnCroissant": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.05",
+        "BOT": false
+    },
+    "Kuriiboh": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.03.06",
+        "BOT": false
+    },
+    "RealTopologist": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.03.12",
+        "BOT": false
+    },
+    "Glebvager24": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.07",
+        "BOT": false
+    },
+    "Prowwll": {
+        "rating": 1600,
+        "games": 6,
+        "last_game": "2024.03.07",
+        "BOT": false
+    },
+    "Kar_Chess": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.08",
+        "BOT": false
+    },
+    "Smushycu_II": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.03.08",
+        "BOT": false
+    },
+    "zbrasic": {
+        "rating": 1600,
+        "games": 6,
+        "last_game": "2024.03.11",
+        "BOT": false
+    },
+    "benit38": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.08",
+        "BOT": false
+    },
+    "letterss": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.03.09",
+        "BOT": false
+    },
+    "EssiKhal": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.09",
+        "BOT": false
+    },
+    "bpr15_pl": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.03.10",
+        "BOT": false
+    },
+    "sidfanDX": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.09",
+        "BOT": false
+    },
+    "Jonahcw07": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.09",
+        "BOT": false
+    },
+    "Kumi": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.09",
+        "BOT": false
+    },
+    "Puzzleman40": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.09",
+        "BOT": false
+    },
+    "Krisovski": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.09",
+        "BOT": false
+    },
+    "genos84": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.09",
+        "BOT": false
+    },
+    "mpsh88": {
+        "rating": 1600,
+        "games": 15,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "Adiasz": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.09",
+        "BOT": false
+    },
+    "Jackson-ka-Father": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.10",
+        "BOT": false
+    },
+    "SpringFox": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.10",
+        "BOT": false
+    },
+    "Dusiekk": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.10",
+        "BOT": false
+    },
+    "OfensywnyRondel3000": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.03.10",
+        "BOT": false
+    },
+    "Phil224": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.11",
+        "BOT": false
+    },
+    "Jegymaster": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.07.30",
+        "BOT": false
+    },
+    "Jackson-ka-CHACHA69": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.11",
+        "BOT": false
+    },
+    "szachmistrz2500": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.11",
+        "BOT": false
+    },
+    "JibiOfLight": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.12",
+        "BOT": false
+    },
+    "frankuku": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.12",
+        "BOT": false
+    },
+    "Bullionism": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.03.12",
+        "BOT": false
+    },
+    "Jurpi": {
+        "rating": 1600,
+        "games": 17,
+        "last_game": "2024.03.29",
+        "BOT": false
+    },
+    "Shanguito": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.12",
+        "BOT": false
+    },
+    "yeellow": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.12",
+        "BOT": false
+    },
+    "A_Dragon_Riding_King": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.26",
+        "BOT": false
+    },
+    "amir2909": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.26",
+        "BOT": false
+    },
+    "iPrimeSE": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.26",
+        "BOT": false
+    },
+    "Koenigsbaeuerchen": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.27",
+        "BOT": false
+    },
+    "chessp919": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.27",
+        "BOT": false
+    },
+    "Fisherandominator": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.03.27",
+        "BOT": false
+    },
+    "JesseRoelandt": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.03.27",
+        "BOT": false
+    },
+    "LiamCleryChess": {
+        "rating": 1600,
+        "games": 7,
+        "last_game": "2024.03.27",
+        "BOT": false
+    },
+    "vaasuS": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.27",
+        "BOT": false
+    },
+    "Rocketknight1": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.03.28",
+        "BOT": false
+    },
+    "TimeTraveller1894": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.27",
+        "BOT": false
+    },
+    "OstreDebiuty712": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.27",
+        "BOT": false
+    },
+    "Beyond-The-Black": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.04.10",
+        "BOT": false
+    },
+    "AliAEM": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.27",
+        "BOT": false
+    },
+    "NEWROMANTICS": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.03.27",
+        "BOT": false
+    },
+    "jposthuma": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.03.28",
+        "BOT": false
+    },
+    "new_player_123": {
+        "rating": 1600,
+        "games": 10,
+        "last_game": "2024.03.28",
+        "BOT": false
+    },
+    "Replicadoe": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.05.14",
+        "BOT": false
+    },
+    "Gryphos1": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.28",
+        "BOT": false
+    },
+    "dollyaaah": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.28",
+        "BOT": false
+    },
+    "munnabi": {
+        "rating": 1600,
+        "games": 52,
+        "last_game": "2024.10.14",
+        "BOT": false
+    },
+    "ovir": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.28",
+        "BOT": false
+    },
+    "PlixMax": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.28",
+        "BOT": false
+    },
+    "a14111": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.28",
+        "BOT": false
+    },
+    "simplecheese": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.28",
+        "BOT": false
+    },
+    "RookAndKnights": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.28",
+        "BOT": false
+    },
+    "Julian88888888": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.28",
+        "BOT": false
+    },
+    "eel9": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.29",
+        "BOT": false
+    },
+    "madoutsiderowboat": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.29",
+        "BOT": false
+    },
+    "Paul375": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.03.29",
+        "BOT": false
+    },
+    "Akarsh_2010": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.05.01",
+        "BOT": false
+    },
+    "sapsprite": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.29",
+        "BOT": false
+    },
+    "JoFluFri": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.29",
+        "BOT": false
+    },
+    "nizmo20": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.05.25",
+        "BOT": false
+    },
+    "flashironman": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.29",
+        "BOT": false
+    },
+    "darkblep": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.29",
+        "BOT": false
+    },
+    "techito": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.30",
+        "BOT": false
+    },
+    "Isak_Azagthoth": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.30",
+        "BOT": false
+    },
+    "bubb13tea": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.03.30",
+        "BOT": false
+    },
+    "zorororonoa22": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.03.30",
+        "BOT": false
+    },
+    "RoseDancer": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.03.30",
+        "BOT": false
+    },
+    "SahyadriRai": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.03.31",
+        "BOT": false
+    },
+    "Timmmmmmmmmmmmmmmmmm": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.03.30",
+        "BOT": false
+    },
+    "EvilNalu": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.03.30",
+        "BOT": false
+    },
+    "spryZEN2014": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.03.30",
+        "BOT": false
+    },
+    "Clynch4": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.30",
+        "BOT": false
+    },
+    "LeonExc": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.30",
+        "BOT": false
+    },
+    "ElRonnoc": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.03.30",
+        "BOT": false
+    },
+    "vrydrk": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.30",
+        "BOT": false
+    },
+    "danne_ek": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.30",
+        "BOT": false
+    },
+    "ilchess23571113": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.30",
+        "BOT": false
+    },
+    "Ardeiwann": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.31",
+        "BOT": false
+    },
+    "xJad_0": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.06.02",
+        "BOT": false
+    },
+    "menochetters": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.03.31",
+        "BOT": false
+    },
+    "LPDJ": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.31",
+        "BOT": false
+    },
+    "fortwentyblazeit": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.31",
+        "BOT": false
+    },
+    "Upshot": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.31",
+        "BOT": false
+    },
+    "lice": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.31",
+        "BOT": false
+    },
+    "Jojohacker": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.31",
+        "BOT": false
+    },
+    "Anwgeianos": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.03.31",
+        "BOT": false
+    },
+    "Trojan1111": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.03.31",
+        "BOT": false
+    },
+    "max_lee99": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.31",
+        "BOT": false
+    },
+    "sallallami": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.03.31",
+        "BOT": false
+    },
+    "ThatGuyFred": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.01",
+        "BOT": false
+    },
+    "DishantChess": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.01",
+        "BOT": false
+    },
+    "Rbd209": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.01",
+        "BOT": false
+    },
+    "marosho": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.01",
+        "BOT": false
+    },
+    "Nikitosik1708": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.04.02",
+        "BOT": false
+    },
+    "Prakash": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.01",
+        "BOT": false
+    },
+    "Finaltheone9727": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.04.02",
+        "BOT": false
+    },
+    "Proht": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.02",
+        "BOT": false
+    },
+    "PranitShaw": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.02",
+        "BOT": false
+    },
+    "Matt3010": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.03",
+        "BOT": false
+    },
+    "nikodem0": {
+        "rating": 1600,
+        "games": 38,
+        "last_game": "2024.04.29",
+        "BOT": false
+    },
+    "firestormchess": {
+        "rating": 1600,
+        "games": 15,
+        "last_game": "2024.04.03",
+        "BOT": false
+    },
+    "XBLAAAA": {
+        "rating": 1600,
+        "games": 16,
+        "last_game": "2024.09.22",
+        "BOT": false
+    },
+    "MoistvonLipwig": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.04",
+        "BOT": false
+    },
+    "aBhIsk123": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.04",
+        "BOT": false
+    },
+    "pftq": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.04",
+        "BOT": false
+    },
+    "DrDrunkensteinjrjr": {
+        "rating": 1600,
+        "games": 9,
+        "last_game": "2024.04.06",
+        "BOT": false
+    },
+    "franz_19": {
+        "rating": 1600,
+        "games": 9,
+        "last_game": "2024.04.24",
+        "BOT": false
+    },
+    "kshoggi": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.04",
+        "BOT": false
+    },
+    "RandomPlayer00": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.04",
+        "BOT": false
+    },
+    "Jon72": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.04",
+        "BOT": false
+    },
+    "Abnew123": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "Skraun": {
+        "rating": 1600,
+        "games": 14,
+        "last_game": "2024.04.07",
+        "BOT": false
+    },
+    "RishabDahal2008": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.05.27",
+        "BOT": false
+    },
+    "MentallyDeficient": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "Suspense0": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "deepburin": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "Goldbach": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "stohelit": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "KnotMate": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "HeavyPlates": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "toastysniper": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "gameagainstrebecca": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "aro1327": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "Elephants_Ear": {
+        "rating": 1600,
+        "games": 12,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "KisFefe1119": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "benseshi": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "chessnutstuffing": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "lobomoon": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "schokokugel": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.04.06",
+        "BOT": false
+    },
+    "TheJeromeGambit": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "PlayLikeNeverB4": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "kerel123": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.05",
+        "BOT": false
+    },
+    "SpaghetiMonstr": {
+        "rating": 1600,
+        "games": 129,
+        "last_game": "2024.06.20",
+        "BOT": false
+    },
+    "JomacChess1": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.05.05",
+        "BOT": false
+    },
+    "jrb93": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.06",
+        "BOT": false
+    },
+    "KingCountyMetro": {
+        "rating": 1600,
+        "games": 7,
+        "last_game": "2024.04.06",
+        "BOT": false
+    },
+    "cupboardy": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.04.13",
+        "BOT": false
+    },
+    "LudwigsNinth": {
+        "rating": 1600,
+        "games": 6,
+        "last_game": "2024.10.07",
+        "BOT": false
+    },
+    "chessman20015": {
+        "rating": 1600,
+        "games": 38,
+        "last_game": "2024.05.04",
+        "BOT": false
+    },
+    "MN_7216": {
+        "rating": 1600,
+        "games": 18,
+        "last_game": "2024.04.07",
+        "BOT": false
+    },
+    "Joslinmeister": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.07",
+        "BOT": false
+    },
+    "BlackAmericanCoffeee": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.04.07",
+        "BOT": false
+    },
+    "Chess-Network": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.07",
+        "BOT": false
+    },
+    "SelfControll": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.07",
+        "BOT": false
+    },
+    "avermielo": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.07",
+        "BOT": false
+    },
+    "pingulandia": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.09",
+        "BOT": false
+    },
+    "johnjohn153": {
+        "rating": 1600,
+        "games": 13,
+        "last_game": "2024.04.12",
+        "BOT": false
+    },
+    "jojolikestoboki": {
+        "rating": 1600,
+        "games": 6,
+        "last_game": "2024.09.03",
+        "BOT": false
+    },
+    "Muinaiset": {
+        "rating": 1600,
+        "games": 7,
+        "last_game": "2024.06.24",
+        "BOT": false
+    },
+    "LeXav35": {
+        "rating": 1600,
+        "games": 6,
+        "last_game": "2024.04.11",
+        "BOT": false
+    },
+    "wychcio": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.10",
+        "BOT": false
+    },
+    "mkdirnotwar": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.11",
+        "BOT": false
+    },
+    "ReinhardtC": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.09.08",
+        "BOT": false
+    },
+    "AHRocks187": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.11",
+        "BOT": false
+    },
+    "FireWorks": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.04.11",
+        "BOT": false
+    },
+    "iwanttoholdu2": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.04.17",
+        "BOT": false
+    },
+    "twingt": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.12",
+        "BOT": false
+    },
+    "Blabub": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.04.12",
+        "BOT": false
+    },
+    "Stonemilker": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.13",
+        "BOT": false
+    },
+    "chemawa": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.20",
+        "BOT": false
+    },
+    "theposer": {
+        "rating": 1600,
+        "games": 88,
+        "last_game": "2024.10.02",
+        "BOT": false
+    },
+    "MagoGG": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.13",
+        "BOT": false
+    },
+    "Hung-Hung": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.14",
+        "BOT": false
+    },
+    "magentamango": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.14",
+        "BOT": false
+    },
+    "NarwhalePete": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.04.21",
+        "BOT": false
+    },
+    "LSJ1283": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.16",
+        "BOT": false
+    },
+    "caaadaa": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.16",
+        "BOT": false
+    },
+    "rodme": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.16",
+        "BOT": false
+    },
+    "Ibschi": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.17",
+        "BOT": false
+    },
+    "recursi0n1": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.04.17",
+        "BOT": false
+    },
+    "Letsgo_Torch": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.17",
+        "BOT": false
+    },
+    "SpiritusSpei": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.17",
+        "BOT": false
+    },
+    "checkmatetrix": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.17",
+        "BOT": false
+    },
+    "PMethod": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.17",
+        "BOT": false
+    },
+    "checkyoself22": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.17",
+        "BOT": false
+    },
+    "mbadass": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.17",
+        "BOT": false
+    },
+    "GrobGobGlobGrod": {
+        "rating": 1600,
+        "games": 92,
+        "last_game": "2024.06.12",
+        "BOT": false
+    },
+    "Slopoke45": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.17",
+        "BOT": false
+    },
+    "xdaw": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.17",
+        "BOT": false
+    },
+    "SusKnight": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.17",
+        "BOT": false
+    },
+    "Bicameral_Mind": {
+        "rating": 1600,
+        "games": 13,
+        "last_game": "2024.04.17",
+        "BOT": false
+    },
+    "AnTaFi": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.17",
+        "BOT": false
+    },
+    "CannotBelieveInThis": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.18",
+        "BOT": false
+    },
+    "SzachowySzachista": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.18",
+        "BOT": false
+    },
+    "EggNote": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.18",
+        "BOT": false
+    },
+    "ZiTePi": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.04.18",
+        "BOT": false
+    },
+    "Blackisbadmkay": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.19",
+        "BOT": false
+    },
+    "Lampionis": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.19",
+        "BOT": false
+    },
+    "Dashology": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.04.19",
+        "BOT": false
+    },
+    "An0nymous3": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.05.01",
+        "BOT": false
+    },
+    "cpoc": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.19",
+        "BOT": false
+    },
+    "ze1337h4xx0rz": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.20",
+        "BOT": false
+    },
+    "uncleTomm": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.20",
+        "BOT": false
+    },
+    "LDR_Chess": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.21",
+        "BOT": false
+    },
+    "tafiniii": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.21",
+        "BOT": false
+    },
+    "Jaylizzle": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.04.22",
+        "BOT": false
+    },
+    "S1HT": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.22",
+        "BOT": false
+    },
+    "LUKA_11": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.22",
+        "BOT": false
+    },
+    "DikiyDrozd": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.22",
+        "BOT": false
+    },
+    "RiseoftheKing": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.04.24",
+        "BOT": false
+    },
+    "a31415926": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.04.23",
+        "BOT": false
+    },
+    "STM10": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.24",
+        "BOT": false
+    },
+    "betterthantheo": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.05.02",
+        "BOT": false
+    },
+    "ALLLCQ0": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.25",
+        "BOT": false
+    },
+    "adev3107": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.26",
+        "BOT": false
+    },
+    "xjcl": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.27",
+        "BOT": false
+    },
+    "dimk993": {
+        "rating": 1600,
+        "games": 10,
+        "last_game": "2024.04.28",
+        "BOT": false
+    },
+    "ayakkali": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.04.29",
+        "BOT": false
+    },
+    "PetersTestBot": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.29",
+        "BOT": false
+    },
+    "jurekchen": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.29",
+        "BOT": false
+    },
+    "Postman123": {
+        "rating": 1600,
+        "games": 11,
+        "last_game": "2024.09.28",
+        "BOT": false
+    },
+    "NotDRON": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.30",
+        "BOT": false
+    },
+    "hart21": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.30",
+        "BOT": false
+    },
+    "whatever": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.05.03",
+        "BOT": false
+    },
+    "LDawg": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.04.30",
+        "BOT": false
+    },
+    "kjoh03": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.04.30",
+        "BOT": false
+    },
+    "xDogezillax": {
+        "rating": 1600,
+        "games": 6,
+        "last_game": "2024.05.01",
+        "BOT": false
+    },
+    "AbhimanyuVV": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.02",
+        "BOT": false
+    },
+    "Aarcha": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.05.02",
+        "BOT": false
+    },
+    "nk1406": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.02",
+        "BOT": false
+    },
+    "johnduggan": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.05.23",
+        "BOT": false
+    },
+    "MahNeighGuh": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.02",
+        "BOT": false
+    },
+    "Wsmax": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.03",
+        "BOT": false
+    },
+    "JohnBlazeIt": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.05.03",
+        "BOT": false
+    },
+    "ColeDaFrank": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.03",
+        "BOT": false
+    },
+    "steam02142": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.04",
+        "BOT": false
+    },
+    "miranhafeliz": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.04",
+        "BOT": false
+    },
+    "Ocean-Madness": {
+        "rating": 1600,
+        "games": 23,
+        "last_game": "2024.05.05",
+        "BOT": false
+    },
+    "Kingnchess": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.05.05",
+        "BOT": false
+    },
+    "therealnih": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.05",
+        "BOT": false
+    },
+    "Tarwanikirat": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.05.05",
+        "BOT": false
+    },
+    "R538": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.05.05",
+        "BOT": false
+    },
+    "Schachmattador": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.05.06",
+        "BOT": false
+    },
+    "AlexClark": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.06",
+        "BOT": false
+    },
+    "hungry_joe": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.06",
+        "BOT": false
+    },
+    "U1CBC": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.05.08",
+        "BOT": false
+    },
+    "Yoshiharu-Habu-06": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.05.13",
+        "BOT": false
+    },
+    "e4e5chess": {
+        "rating": 1600,
+        "games": 6,
+        "last_game": "2024.07.03",
+        "BOT": false
+    },
+    "nvd_chess": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.08",
+        "BOT": false
+    },
+    "deezwhiz": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.09",
+        "BOT": false
+    },
+    "powerchess12345": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.10",
+        "BOT": false
+    },
+    "Manny52": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.07.31",
+        "BOT": false
+    },
+    "ghettoAizen": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.11",
+        "BOT": false
+    },
+    "Dialectician": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.12",
+        "BOT": false
+    },
+    "cheetomr": {
+        "rating": 1600,
+        "games": 9,
+        "last_game": "2024.06.06",
+        "BOT": false
+    },
+    "from_the_fog": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.09.06",
+        "BOT": false
+    },
+    "GW-ISR": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.05.13",
+        "BOT": false
+    },
+    "IshaanMS_ccs": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.05.21",
+        "BOT": false
+    },
+    "StephenPS": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.13",
+        "BOT": false
+    },
+    "Infinite_Way": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.05.14",
+        "BOT": false
+    },
+    "patapatajavileda": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.14",
+        "BOT": false
+    },
+    "FearMyPetBeaver": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.14",
+        "BOT": false
+    },
+    "BradleyDE14": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.05.14",
+        "BOT": false
+    },
+    "curcuse": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.05.14",
+        "BOT": false
+    },
+    "xAgent1": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.14",
+        "BOT": false
+    },
+    "LovePeaceHarmony": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.14",
+        "BOT": false
+    },
+    "sirprimal11": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.14",
+        "BOT": false
+    },
+    "VoiceInput": {
+        "rating": 1600,
+        "games": 16,
+        "last_game": "2024.05.14",
+        "BOT": false
+    },
+    "toyr99": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.14",
+        "BOT": false
+    },
+    "thefinchster22": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.15",
+        "BOT": false
+    },
+    "Yufry": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.15",
+        "BOT": false
+    },
+    "bdress": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.15",
+        "BOT": false
+    },
+    "MisterVain": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.15",
+        "BOT": false
+    },
+    "LocalGimp": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.15",
+        "BOT": false
+    },
+    "Alfred_Alzheimer": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.05.15",
+        "BOT": false
+    },
+    "TheTimon": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.15",
+        "BOT": false
+    },
+    "norla": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.15",
+        "BOT": false
+    },
+    "Ajile": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.16",
+        "BOT": false
+    },
+    "GoneSoul": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.16",
+        "BOT": false
+    },
+    "weale": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.05.17",
+        "BOT": false
+    },
+    "Dishusuteri": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.17",
+        "BOT": false
+    },
+    "etium": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.17",
+        "BOT": false
+    },
+    "KingOfShadows001": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.18",
+        "BOT": false
+    },
+    "loss2win": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.19",
+        "BOT": false
+    },
+    "prayuth29": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.19",
+        "BOT": false
+    },
+    "gnow": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.22",
+        "BOT": false
+    },
+    "ARJUNS8": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.22",
+        "BOT": false
+    },
+    "LeaveGranny": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.05.22",
+        "BOT": false
+    },
+    "somerapidplayer": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.23",
+        "BOT": false
+    },
+    "MasterOfChezz": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.23",
+        "BOT": false
+    },
+    "BoscoVIX": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.05.24",
+        "BOT": false
+    },
+    "strangerinmymind": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.05.24",
+        "BOT": false
+    },
+    "KINGFIsh10392": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.24",
+        "BOT": false
+    },
+    "seventhrank7": {
+        "rating": 1600,
+        "games": 9,
+        "last_game": "2024.05.25",
+        "BOT": false
+    },
+    "BigShadow49": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.07.17",
+        "BOT": false
+    },
+    "ErwinSmithM": {
+        "rating": 1600,
+        "games": 6,
+        "last_game": "2024.05.30",
+        "BOT": false
+    },
+    "diegofg83": {
+        "rating": 1600,
+        "games": 10,
+        "last_game": "2024.06.29",
+        "BOT": false
+    },
+    "BigB1ker": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.05.27",
+        "BOT": false
+    },
+    "crimsonneuron": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.29",
+        "BOT": false
+    },
+    "shamanevan": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.29",
+        "BOT": false
+    },
+    "efeaydin": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.30",
+        "BOT": false
+    },
+    "mang0sunr1s3": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.05.31",
+        "BOT": false
+    },
+    "Aliralira": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.05.31",
+        "BOT": false
+    },
+    "TURQUOISESUPERDOG442": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.06.01",
+        "BOT": false
+    },
+    "KNIGHTF3HAVEFUN": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.06.01",
+        "BOT": false
+    },
+    "We_live_in_a_matrix": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.01",
+        "BOT": false
+    },
+    "BigCement": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.06.02",
+        "BOT": false
+    },
+    "bored5644533": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.02",
+        "BOT": false
+    },
+    "vetbaited": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.02",
+        "BOT": false
+    },
+    "zeyueli3": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.02",
+        "BOT": false
+    },
+    "KenulL_76": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.06.03",
+        "BOT": false
+    },
+    "grandpajoe69": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.03",
+        "BOT": false
+    },
+    "DONT_KNOW_chess70": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.04",
+        "BOT": false
+    },
+    "untir_l": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.04",
+        "BOT": false
+    },
+    "P_Dasha": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.04",
+        "BOT": false
+    },
+    "tunmed": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.06.05",
+        "BOT": false
+    },
+    "replekminer": {
+        "rating": 1600,
+        "games": 46,
+        "last_game": "2024.06.05",
+        "BOT": false
+    },
+    "Thiccologist": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.06.06",
+        "BOT": false
+    },
+    "Visheshsrikant": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.06",
+        "BOT": false
+    },
+    "Aunonymos": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.07",
+        "BOT": false
+    },
+    "jackft40": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.07",
+        "BOT": false
+    },
+    "PaVESh123": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.08",
+        "BOT": false
+    },
+    "SamannOyB": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.06.21",
+        "BOT": false
+    },
+    "Sheler": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.10",
+        "BOT": false
+    },
+    "AlvinIzayoi": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.06.14",
+        "BOT": false
+    },
+    "Klipes": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.06.12",
+        "BOT": false
+    },
+    "MakJorkane": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.10",
+        "BOT": false
+    },
+    "Mikku1": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.12",
+        "BOT": false
+    },
+    "wildhacks": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.06.12",
+        "BOT": false
+    },
+    "dpwchess": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.12",
+        "BOT": false
+    },
+    "BluppySlayer": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.13",
+        "BOT": false
+    },
+    "brulargeburp": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.06.13",
+        "BOT": false
+    },
+    "Black_horsey": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.14",
+        "BOT": false
+    },
+    "browni3141": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.06.14",
+        "BOT": false
+    },
+    "Numbat55": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.16",
+        "BOT": false
+    },
+    "AxelMahone": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.16",
+        "BOT": false
+    },
+    "Thegr81-dragondb": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.16",
+        "BOT": false
+    },
+    "ImproveAtChess": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.16",
+        "BOT": false
+    },
+    "VincentXi": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.17",
+        "BOT": false
+    },
+    "GhostDragonLTD": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.06.18",
+        "BOT": false
+    },
+    "Mad_Argie": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.18",
+        "BOT": false
+    },
+    "MarllonTal": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.06.19",
+        "BOT": false
+    },
+    "wertpublicaccount": {
+        "rating": 1600,
+        "games": 17,
+        "last_game": "2024.08.22",
+        "BOT": false
+    },
+    "Ant1": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.21",
+        "BOT": false
+    },
+    "MegaMegaMountain": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.21",
+        "BOT": false
+    },
+    "E_Y_E_S": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.23",
+        "BOT": false
+    },
+    "JievveTheNotable": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.24",
+        "BOT": false
+    },
+    "ColdKlondike": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.06.24",
+        "BOT": false
+    },
+    "O_123456789": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.06.26",
+        "BOT": false
+    },
+    "duckienproc": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.07.02",
+        "BOT": false
+    },
+    "xchesspromax11": {
+        "rating": 1600,
+        "games": 9,
+        "last_game": "2024.07.05",
+        "BOT": false
+    },
+    "UnbelievableShocker": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.01",
+        "BOT": false
+    },
+    "goodnamesaregone": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.01",
+        "BOT": false
+    },
+    "druv09": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.07.01",
+        "BOT": false
+    },
+    "hary_potter": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.07.04",
+        "BOT": false
+    },
+    "aera4": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.02",
+        "BOT": false
+    },
+    "TAiSThuban": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.04",
+        "BOT": false
+    },
+    "CenterchessOfficial": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.05",
+        "BOT": false
+    },
+    "pramakper": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.07.07",
+        "BOT": false
+    },
+    "billbrock": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.07",
+        "BOT": false
+    },
+    "Zackamura": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.07",
+        "BOT": false
+    },
+    "A_Tako": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.09",
+        "BOT": false
+    },
+    "rickstanley": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.07.10",
+        "BOT": false
+    },
+    "Icyapples": {
+        "rating": 1600,
+        "games": 7,
+        "last_game": "2024.10.16",
+        "BOT": false
+    },
+    "Otherwise-Dot-8890": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.12",
+        "BOT": false
+    },
+    "astrofunkswag": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.12",
+        "BOT": false
+    },
+    "Atharv1014": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.13",
+        "BOT": false
+    },
+    "Adrija_rai": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.14",
+        "BOT": false
+    },
+    "Dank-Memer": {
+        "rating": 1600,
+        "games": 7,
+        "last_game": "2024.07.14",
+        "BOT": false
+    },
+    "VladK17": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.15",
+        "BOT": false
+    },
+    "bastartselect": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.15",
+        "BOT": false
+    },
+    "P1XEL5": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.07.15",
+        "BOT": false
+    },
+    "DiblyImp": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.07.30",
+        "BOT": false
+    },
+    "mihirsrinivas224": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.17",
+        "BOT": false
+    },
+    "SnowB3ll": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.07.17",
+        "BOT": false
+    },
+    "rainbom": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.19",
+        "BOT": false
+    },
+    "cedchass25": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.19",
+        "BOT": false
+    },
+    "Jaivin_P": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.20",
+        "BOT": false
+    },
+    "Seezunge": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.23",
+        "BOT": false
+    },
+    "yupe24": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.07.23",
+        "BOT": false
+    },
+    "Stryker305": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.08.19",
+        "BOT": false
+    },
+    "vaibhavgeometer": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.07.31",
+        "BOT": false
+    },
+    "BackToRuleThemAll": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.24",
+        "BOT": false
+    },
+    "eqlibriumsucks": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.07.25",
+        "BOT": false
+    },
+    "b3s23love": {
+        "rating": 1600,
+        "games": 6,
+        "last_game": "2024.07.27",
+        "BOT": false
+    },
+    "HailstormChessPlayer": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.27",
+        "BOT": false
+    },
+    "warxcc": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.28",
+        "BOT": false
+    },
+    "Citizen_0": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.29",
+        "BOT": false
+    },
+    "brofist69": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.07.29",
+        "BOT": false
+    },
+    "Mathematicsenglish12": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.30",
+        "BOT": false
+    },
+    "purplecheese73": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.07.31",
+        "BOT": false
+    },
+    "MischiefMaker": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.08.01",
+        "BOT": false
+    },
+    "KINGMAGNUSISSUPREME": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.02",
+        "BOT": false
+    },
+    "Dmitri11": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.08.02",
+        "BOT": false
+    },
+    "ELIEL77": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.03",
+        "BOT": false
+    },
+    "Wind_River_Ranges": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.04",
+        "BOT": false
+    },
+    "d1j": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.05",
+        "BOT": false
+    },
+    "ghhv": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.06",
+        "BOT": false
+    },
+    "TheChessNerd2010": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.08.08",
+        "BOT": false
+    },
+    "phoenixdownxd": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.08",
+        "BOT": false
+    },
+    "Entharex": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.08.10",
+        "BOT": false
+    },
+    "MainlyEtcetera": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.08.11",
+        "BOT": false
+    },
+    "fFjH": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.11",
+        "BOT": false
+    },
+    "mk_14HH": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.11",
+        "BOT": false
+    },
+    "GCDC223": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.08.11",
+        "BOT": false
+    },
+    "AmoghPradeep": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.12",
+        "BOT": false
+    },
+    "SmackDownOnUPN": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.12",
+        "BOT": false
+    },
+    "Astru09": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.13",
+        "BOT": false
+    },
+    "ShrekLover": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.08.13",
+        "BOT": false
+    },
+    "Evil_Eddy": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.08.14",
+        "BOT": false
+    },
+    "randomspicy": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.15",
+        "BOT": false
+    },
+    "ABCD41": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.08.16",
+        "BOT": false
+    },
+    "ApShiSh_Jr": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.17",
+        "BOT": false
+    },
+    "bela-b": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.10.13",
+        "BOT": false
+    },
+    "ProwlingTiger": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.20",
+        "BOT": false
+    },
+    "UnderpromotionK": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.08.20",
+        "BOT": false
+    },
+    "StevenEmily": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.10.01",
+        "BOT": false
+    },
+    "AaravBiju": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.08.21",
+        "BOT": false
+    },
+    "Aryan_34": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.09.08",
+        "BOT": false
+    },
+    "Gestninsner": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.25",
+        "BOT": false
+    },
+    "Maxentius9": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.08.26",
+        "BOT": false
+    },
+    "Hello_chess_2001": {
+        "rating": 1600,
+        "games": 79,
+        "last_game": "2024.09.30",
+        "BOT": false
+    },
+    "thecrusher64": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.09.01",
+        "BOT": false
+    },
+    "Sheld00r": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.08.29",
+        "BOT": false
+    },
+    "Sasha-Zh2008": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.29",
+        "BOT": false
+    },
+    "Rosimo1337": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.29",
+        "BOT": false
+    },
+    "rotkehlchen97": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.31",
+        "BOT": false
+    },
+    "RockHardOnix": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.08.31",
+        "BOT": false
+    },
+    "realPangu": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.02",
+        "BOT": false
+    },
+    "Liamdabezt": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.02",
+        "BOT": false
+    },
+    "venter4971": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.09.14",
+        "BOT": false
+    },
+    "Aadi08": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.09.03",
+        "BOT": false
+    },
+    "KapitanCebula11": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.03",
+        "BOT": false
+    },
+    "Talhaborafirat": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.04",
+        "BOT": false
+    },
+    "larfeuiljulia": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.04",
+        "BOT": false
+    },
+    "JohnAnthony795": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.05",
+        "BOT": false
+    },
+    "aneczpal": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.05",
+        "BOT": false
+    },
+    "NekoChess5": {
+        "rating": 1600,
+        "games": 5,
+        "last_game": "2024.09.05",
+        "BOT": false
+    },
+    "AlphaHuman008": {
+        "rating": 1600,
+        "games": 11,
+        "last_game": "2024.09.06",
+        "BOT": false
+    },
+    "the2europeans": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.06",
+        "BOT": false
+    },
+    "StonedPapageno": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.09.06",
+        "BOT": false
+    },
+    "Not_A_Proplayer": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.06",
+        "BOT": false
+    },
+    "feliziann": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.06",
+        "BOT": false
+    },
+    "zukertortopening": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.07",
+        "BOT": false
+    },
+    "GSpan": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.09.09",
+        "BOT": false
+    },
+    "thanosmav": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.09",
+        "BOT": false
+    },
+    "Qualitychess4ever": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.10",
+        "BOT": false
+    },
+    "braneb": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.11",
+        "BOT": false
+    },
+    "Dodekafonos": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.11",
+        "BOT": false
+    },
+    "Cloudsgaming": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.12",
+        "BOT": false
+    },
+    "shatraininggames": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.12",
+        "BOT": false
+    },
+    "Etelex": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.13",
+        "BOT": false
+    },
+    "Jerziquix": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.16",
+        "BOT": false
+    },
+    "DrXenon_07": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.16",
+        "BOT": false
+    },
+    "Sparsh_Batra1": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.17",
+        "BOT": false
+    },
+    "Freedpower": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.09.20",
+        "BOT": false
+    },
+    "HaydenC11": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.20",
+        "BOT": false
+    },
+    "AprilSilence": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.21",
+        "BOT": false
+    },
+    "Exemplary_Player": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.09.21",
+        "BOT": false
+    },
+    "Isuperyar123I": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.21",
+        "BOT": false
+    },
+    "rschoefbeck": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.21",
+        "BOT": false
+    },
+    "TouchofMagnus": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.23",
+        "BOT": false
+    },
+    "Chaitanya1205": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.23",
+        "BOT": false
+    },
+    "wethrr": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.23",
+        "BOT": false
+    },
+    "kringle_spleepington": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.24",
+        "BOT": false
+    },
+    "BanquosGhosts": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.09.24",
+        "BOT": false
+    },
+    "rinslow": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.09.28",
+        "BOT": false
+    },
+    "Mission-Destruction": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.25",
+        "BOT": false
+    },
+    "Dr-Magnustein7": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.25",
+        "BOT": false
+    },
+    "marcuswan": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.26",
+        "BOT": false
+    },
+    "luke678": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.09.27",
+        "BOT": false
+    },
+    "skarmory2": {
+        "rating": 1600,
+        "games": 158,
+        "last_game": "2024.11.01",
+        "BOT": false
+    },
+    "seIneedYou": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.28",
+        "BOT": false
+    },
+    "yvuvuvy": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.09.28",
+        "BOT": false
+    },
+    "Ruchirjoshi528": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.28",
+        "BOT": false
+    },
+    "MaxArtBS": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.29",
+        "BOT": false
+    },
+    "BerserkEnthusiast": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.30",
+        "BOT": false
+    },
+    "tonylittle": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.09.30",
+        "BOT": false
+    },
+    "Xemen": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.01",
+        "BOT": false
+    },
+    "KashyapAlva": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.02",
+        "BOT": false
+    },
+    "x_omer_x": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.02",
+        "BOT": false
+    },
+    "xChespin": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.02",
+        "BOT": false
+    },
+    "BizepsBene2": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.10.02",
+        "BOT": false
+    },
+    "le_4TC": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.02",
+        "BOT": false
+    },
+    "scumpucicus": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.02",
+        "BOT": false
+    },
+    "goofysillychess": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.03",
+        "BOT": false
+    },
+    "Super5125": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.03",
+        "BOT": false
+    },
+    "Umeshvkasar": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.03",
+        "BOT": false
+    },
+    "CatspurrovChess": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.04",
+        "BOT": false
+    },
+    "gokturk_2014": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.04",
+        "BOT": false
+    },
+    "kdc6": {
+        "rating": 1600,
+        "games": 13,
+        "last_game": "2024.10.05",
+        "BOT": false
+    },
+    "mchbourk11": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.10.05",
+        "BOT": false
+    },
+    "KudCo": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.10.05",
+        "BOT": false
+    },
+    "waitdarn": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.10.28",
+        "BOT": false
+    },
+    "SY_Khalil": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.06",
+        "BOT": false
+    },
+    "martmrayo": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.06",
+        "BOT": false
+    },
+    "Bcarrieres": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.10.08",
+        "BOT": false
+    },
+    "kost9shka": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.07",
+        "BOT": false
+    },
+    "Mehak05": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.10.10",
+        "BOT": false
+    },
+    "knic": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.07",
+        "BOT": false
+    },
+    "Noah13": {
+        "rating": 1600,
+        "games": 16,
+        "last_game": "2024.10.12",
+        "BOT": false
+    },
+    "Wc3000": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.10.08",
+        "BOT": false
+    },
+    "Nightking02": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.08",
+        "BOT": false
+    },
+    "DARK_KNIGHT_88": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.08",
+        "BOT": false
+    },
+    "Philipp112009": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.08",
+        "BOT": false
+    },
+    "bestchessman1337": {
+        "rating": 1600,
+        "games": 7,
+        "last_game": "2024.10.08",
+        "BOT": false
+    },
+    "riksaaaa": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.10",
+        "BOT": false
+    },
+    "BurstingFacePebble": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.11",
+        "BOT": false
+    },
+    "dorkoblorko": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.10.20",
+        "BOT": false
+    },
+    "INVICTUS_MASTER-2905": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.12",
+        "BOT": false
+    },
+    "kartiks2013": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.10.12",
+        "BOT": false
+    },
+    "Lucario6607": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.10.30",
+        "BOT": false
+    },
+    "Kingofofchess": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.12",
+        "BOT": false
+    },
+    "Sarahkao": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.12",
+        "BOT": false
+    },
+    "OnCeAsTrOnOmEr": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.10.16",
+        "BOT": false
+    },
+    "easelweasel": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.10.24",
+        "BOT": false
+    },
+    "RoyaleTea": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.14",
+        "BOT": false
+    },
+    "alpinerabbit": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.10.14",
+        "BOT": false
+    },
+    "Schwatka": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.14",
+        "BOT": false
+    },
+    "Queenisbroken": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.10.15",
+        "BOT": false
+    },
+    "F1sh_not_Stock": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.15",
+        "BOT": false
+    },
+    "IntenseChessYT": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.15",
+        "BOT": false
+    },
+    "baksteen123": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.15",
+        "BOT": false
+    },
+    "MadeForAmazonTourney": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.10.15",
+        "BOT": false
+    },
+    "tomdembski": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.16",
+        "BOT": false
+    },
+    "thinkerbell123": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.10.18",
+        "BOT": false
+    },
+    "Delucaco": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.18",
+        "BOT": false
+    },
+    "lindawong": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.19",
+        "BOT": false
+    },
+    "grasputin": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.19",
+        "BOT": false
+    },
+    "Romseychess": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.10.20",
+        "BOT": false
+    },
+    "supergamer912": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.20",
+        "BOT": false
+    },
+    "soaringjupiter": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.10.21",
+        "BOT": false
+    },
+    "subham777": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.22",
+        "BOT": false
+    },
+    "ElyneLee": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.23",
+        "BOT": false
+    },
+    "Squanto401k": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.24",
+        "BOT": false
+    },
+    "TitanYuri": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.24",
+        "BOT": false
+    },
+    "ZeusEbisu": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.24",
+        "BOT": false
+    },
+    "Asocia": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.25",
+        "BOT": false
+    },
+    "ColorParrot": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.10.26",
+        "BOT": false
+    },
+    "cghjjhvjhvjgjg2012": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.26",
+        "BOT": false
+    },
+    "GreenZ777": {
+        "rating": 1600,
+        "games": 8,
+        "last_game": "2024.11.02",
+        "BOT": false
+    },
+    "Aziel_Fur": {
+        "rating": 1600,
+        "games": 6,
+        "last_game": "2024.10.26",
+        "BOT": false
+    },
+    "lma24": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.27",
+        "BOT": false
+    },
+    "qpalzm123456": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.10.28",
+        "BOT": false
+    },
+    "professoravocado": {
+        "rating": 1600,
+        "games": 4,
+        "last_game": "2024.10.30",
+        "BOT": false
+    },
+    "mMqGhN80": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.10.31",
+        "BOT": false
+    },
+    "knotted_knights": {
+        "rating": 1600,
+        "games": 3,
+        "last_game": "2024.10.31",
+        "BOT": false
+    },
+    "pasquale_paoli": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.11.01",
+        "BOT": false
+    },
+    "NewOrigin": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.11.01",
+        "BOT": false
+    },
+    "ilTommiz": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.11.02",
+        "BOT": false
+    },
+    "kiudee": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.11.03",
+        "BOT": false
+    },
+    "stegreg": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.11.03",
+        "BOT": false
+    },
+    "Pale_Tortured_Blue": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.11.03",
+        "BOT": false
+    },
+    "metadata": {
+        "rating": 0,
+        "date": 1730722055340,
+        "malus_date": 1730242800000.0
+    }
+}
