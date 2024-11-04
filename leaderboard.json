@@ -66,9 +66,9 @@
         "BOT": true
     },
     "KentGoulding": {
-        "rating": 2080.84173253893,
-        "games": 207,
-        "last_game": "2024.10.30",
+        "rating": 2091.1468035093553,
+        "games": 208,
+        "last_game": "2024.11.04",
         "BOT": false
     },
     "LeelaQueenOdds as black 5+3 (Reference)": {
@@ -4561,7 +4561,7 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730756434775,
+        "date": 1730758257657,
         "malus_date": 1730242800000.0
     }
 }
