@@ -461,12 +461,6 @@
         "last_game": "2024.10.19",
         "BOT": false
     },
-    "SupaMaggie70": {
-        "rating": 1615.2829764389976,
-        "games": 4,
-        "last_game": "2024.10.19",
-        "BOT": false
-    },
     "LordSnek": {
         "rating": 1614.094450605867,
         "games": 1,
@@ -501,6 +495,12 @@
         "rating": 1613.0247130381883,
         "games": 13,
         "last_game": "2024.11.03",
+        "BOT": false
+    },
+    "SupaMaggie70": {
+        "rating": 1612.1147286725993,
+        "games": 5,
+        "last_game": "2024.11.05",
         "BOT": false
     },
     "bruce_willis": {
@@ -4567,7 +4567,7 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730762950975,
+        "date": 1730765356264,
         "malus_date": 1730242800000.0
     }
 }
