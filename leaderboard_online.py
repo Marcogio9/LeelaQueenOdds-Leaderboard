@@ -75,7 +75,6 @@ def update(lead, since, until):
     
     with open('temp.pgn', 'w') as fi:
         fi.write(games.text)
-        print(games.text)
     
     lead['metadata']['date'] = until
     malus_date = lead['metadata']['malus_date'] # for inactivity malus
@@ -88,12 +87,22 @@ def update(lead, since, until):
     s = {'1-0': 0, '1/2-1/2': 0.5, '0-1': 1}
 
     games = []
-
-    while game != None:
-        games.append(game)
-        game = chess.pgn.read_game(fi)
+    
+    while game != None: # remove already downloaded games
+        if game.headers['Site'].split('/')[-1] not in lead['metadata']['prevlinks']:
+            games.append(game)
+            game = chess.pgn.read_game(fi)
+    
+    lead['metadata']['prevlinks'] = []
+    
+    if len(games) == 0:
+        return lead
 
     for game in games[-1::-1]:
+        
+        print(game)
+        
+        lead['metadata']['prevlinks'].append(game.headers['Site'].split('/')[-1])
 
         if game.headers['Black'] == 'LeelaQueenOdds':
             player_color = 'White'
@@ -159,11 +168,6 @@ while 1:
     
     time.sleep(300)
     print('-'*80)
-
-
-
-
-
 
 
 
