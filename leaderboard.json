@@ -126,8 +126,8 @@
         "BOT": false
     },
     "Clydevil": {
-        "rating": 1863.8366493663464,
-        "games": 292,
+        "rating": 1858.7835895874398,
+        "games": 293,
         "last_game": "2024.11.05",
         "BOT": false
     },
@@ -4579,10 +4579,10 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730810298533,
+        "date": 1730810899951,
         "malus_date": 1730242800000.0,
         "prevlinks": [
-            "0gUG46Go"
+            "Y8WQ4TP7"
         ]
     }
 }
