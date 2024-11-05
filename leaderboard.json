@@ -107,12 +107,6 @@
         "last_game": null,
         "BOT": true
     },
-    "BvAR2": {
-        "rating": 1877.2736965359309,
-        "games": 2943,
-        "last_game": "2024.11.05",
-        "BOT": false
-    },
     "Clydevil": {
         "rating": 1874.2864230334903,
         "games": 290,
@@ -129,6 +123,12 @@
         "rating": 1871.1971546901038,
         "games": 274,
         "last_game": "2024.11.02",
+        "BOT": false
+    },
+    "BvAR2": {
+        "rating": 1868.0759692241597,
+        "games": 2944,
+        "last_game": "2024.11.05",
         "BOT": false
     },
     "ltvr": {
@@ -4573,10 +4573,10 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730798872350,
+        "date": 1730799172641,
         "malus_date": 1730242800000.0,
         "prevlinks": [
-            "mIiAQT0s"
+            "LalleRmO"
         ]
     }
 }
