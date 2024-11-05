@@ -125,16 +125,16 @@
         "last_game": "2024.11.02",
         "BOT": false
     },
-    "BvAR2": {
-        "rating": 1859.1406512385126,
-        "games": 2945,
-        "last_game": "2024.11.05",
-        "BOT": false
-    },
     "ltvr": {
         "rating": 1856.656919059411,
         "games": 93,
         "last_game": "2024.06.26",
+        "BOT": false
+    },
+    "BvAR2": {
+        "rating": 1850.4588470833628,
+        "games": 2946,
+        "last_game": "2024.11.05",
         "BOT": false
     },
     "OptimumPrime": {
@@ -4573,10 +4573,10 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730799473041,
+        "date": 1730799773306,
         "malus_date": 1730242800000.0,
         "prevlinks": [
-            "Tb5yWSzg"
+            "UF7Zwryt"
         ]
     }
 }
