@@ -94,13 +94,14 @@ for game in games[-1::-1]:
     lead[player]['games'] += 1
     lead[player]['last_game'] = game.headers['UTCDate']
     
-    
-    
+        
     
 lead['metadata'] = {
     'rating': 0,
     'date': int(datetime(2024, 11, 1).timestamp()*1000),
-    'malus_date': malus_date}
+    'malus_date': malus_date,
+    'prevlinks': []}
+
 
 #%%
 
@@ -138,8 +139,6 @@ fi.close()
 # Save
 with open("leaderboard.json", "w") as file:
     json.dump(lea, file, indent=4)
-
-
 
 
 
