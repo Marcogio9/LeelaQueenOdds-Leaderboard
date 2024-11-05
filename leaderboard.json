@@ -3367,8 +3367,8 @@
     },
     "ChessMarcogio": {
         "rating": 1600,
-        "games": 25,
-        "last_game": "2024.11.04",
+        "games": 26,
+        "last_game": "2024.11.05",
         "BOT": false
     },
     "UnbelievableShocker": {
@@ -4579,14 +4579,10 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730802786543,
+        "date": 1730807592233,
         "malus_date": 1730242800000.0,
         "prevlinks": [
-            "qoA96ctf",
-            "8sUe5E6b",
-            "zTi5LLcM",
-            "0U0IlInH",
-            "BKObn8YT"
+            "v0mKBi8F"
         ]
     }
 }
