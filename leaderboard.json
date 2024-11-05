@@ -108,8 +108,8 @@
         "BOT": true
     },
     "BvAR2": {
-        "rating": 1876.4478104834554,
-        "games": 2942,
+        "rating": 1877.2736965359309,
+        "games": 2943,
         "last_game": "2024.11.05",
         "BOT": false
     },
@@ -4573,12 +4573,10 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730798271661,
+        "date": 1730798872350,
         "malus_date": 1730242800000.0,
         "prevlinks": [
-            "wwwgiwcL",
-            "o8ko2oO7",
-            "8hK5h6Zh"
+            "mIiAQT0s"
         ]
     }
 }
