@@ -107,6 +107,12 @@
         "last_game": null,
         "BOT": true
     },
+    "BvAR2": {
+        "rating": 1876.5337023484394,
+        "games": 2955,
+        "last_game": "2024.11.05",
+        "BOT": false
+    },
     "Traag": {
         "rating": 1873.7276894759057,
         "games": 385,
@@ -117,12 +123,6 @@
         "rating": 1871.1971546901038,
         "games": 274,
         "last_game": "2024.11.02",
-        "BOT": false
-    },
-    "BvAR2": {
-        "rating": 1865.3927301900655,
-        "games": 2954,
-        "last_game": "2024.11.05",
         "BOT": false
     },
     "Clydevil": {
@@ -4579,10 +4579,10 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730810899951,
+        "date": 1730811802459,
         "malus_date": 1730242800000.0,
         "prevlinks": [
-            "Y8WQ4TP7"
+            "C50vxbtE"
         ]
     }
 }
