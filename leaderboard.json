@@ -96,8 +96,8 @@
         "BOT": true
     },
     "Brunetticus": {
-        "rating": 1913.7620361255977,
-        "games": 37,
+        "rating": 1905.8770801027624,
+        "games": 39,
         "last_game": "2024.11.05",
         "BOT": false
     },
@@ -257,6 +257,12 @@
         "last_game": "2024.09.29",
         "BOT": false
     },
+    "SupaMaggie70": {
+        "rating": 1644.7925713838874,
+        "games": 8,
+        "last_game": "2024.11.05",
+        "BOT": false
+    },
     "cid7777": {
         "rating": 1641.3995994821266,
         "games": 6,
@@ -351,12 +357,6 @@
         "rating": 1627.408427137599,
         "games": 7,
         "last_game": "2024.10.29",
-        "BOT": false
-    },
-    "SupaMaggie70": {
-        "rating": 1627.3799349976375,
-        "games": 7,
-        "last_game": "2024.11.05",
         "BOT": false
     },
     "tzar_bomba": {
@@ -4567,7 +4567,7 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730765656721,
+        "date": 1730765957126,
         "malus_date": 1730242800000.0
     }
 }
