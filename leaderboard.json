@@ -96,8 +96,8 @@
         "BOT": true
     },
     "Brunetticus": {
-        "rating": 1905.8770801027624,
-        "games": 39,
+        "rating": 1916.877806566022,
+        "games": 41,
         "last_game": "2024.11.05",
         "BOT": false
     },
@@ -4567,7 +4567,7 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730765957126,
+        "date": 1730766257618,
         "malus_date": 1730242800000.0
     }
 }
