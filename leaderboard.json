@@ -233,6 +233,12 @@
         "last_game": "2024.04.10",
         "BOT": false
     },
+    "thunder_swift": {
+        "rating": 1669.7932210296965,
+        "games": 7,
+        "last_game": "2024.11.05",
+        "BOT": false
+    },
     "yuzuMi": {
         "rating": 1665.5352335977343,
         "games": 3,
@@ -267,6 +273,12 @@
         "rating": 1651.2041226031445,
         "games": 6,
         "last_game": "2024.09.29",
+        "BOT": false
+    },
+    "LiGolem": {
+        "rating": 1645.546850182106,
+        "games": 7,
+        "last_game": "2024.11.05",
         "BOT": false
     },
     "waitdarn": {
@@ -359,12 +371,6 @@
         "last_game": "2024.10.30",
         "BOT": false
     },
-    "cid7777": {
-        "rating": 1632.8110934990034,
-        "games": 17,
-        "last_game": "2024.11.05",
-        "BOT": false
-    },
     "nderaj": {
         "rating": 1628.909911556238,
         "games": 1,
@@ -375,6 +381,12 @@
         "rating": 1627.5677976996512,
         "games": 5,
         "last_game": "2024.10.14",
+        "BOT": false
+    },
+    "cid7777": {
+        "rating": 1627.5208532891158,
+        "games": 19,
+        "last_game": "2024.11.05",
         "BOT": false
     },
     "JkAkrite": {
@@ -753,12 +765,6 @@
         "rating": 1600,
         "games": 3,
         "last_game": "2024.01.29",
-        "BOT": false
-    },
-    "thunder_swift": {
-        "rating": 1600,
-        "games": 1,
-        "last_game": "2024.01.25",
         "BOT": false
     },
     "ARandqmPerson": {
@@ -4595,47 +4601,23 @@
         "last_game": "2024.11.05",
         "BOT": false
     },
-    "LiGolem": {
-        "rating": 1600,
-        "games": 3,
-        "last_game": "2024.11.05",
-        "BOT": false
-    },
     "metadata": {
         "rating": 0,
-        "date": 1730838678572,
+        "date": 1730842312919,
         "malus_date": 1730242800000.0,
         "prevlinks": [
-            "2P6aId2q",
-            "CqQZ8KWW",
-            "5U9Iogun",
-            "4KbzEcN9",
-            "09Dfg4do",
-            "f1TmtQ5r",
-            "ROo7XnDn",
-            "T777dsUY",
-            "Y4dOpvtQ",
-            "iSOFb3TU",
-            "k0eSDq7z",
-            "gYMUOEYP",
-            "hrKtg6ID",
-            "P1NaoUdq",
-            "n4bPsrql",
-            "gRQ8ZU8N",
-            "C7p2QsaJ",
-            "zm3TPoW3",
-            "B52iK2Td",
-            "4DDqdxuC",
-            "PTYvjot5",
-            "JYUFrsv8",
-            "PGsWB4DW",
-            "SPdEOfxJ",
-            "gcakzFn6",
-            "ygYmFfgZ",
-            "hbZyy0Au",
-            "XMpeYdgU",
-            "8Z6P4Knp",
-            "jLtE0wZR"
+            "SbutUChM",
+            "IZL53WQk",
+            "QzRsALnN",
+            "iQhLSmIs",
+            "juWBFnKR",
+            "Rna1IL2j",
+            "9nMGoAOI",
+            "zLtn4zgd",
+            "I3wD2JG4",
+            "TBNUnPgw",
+            "zV4dQHS9",
+            "mkFXmFLG"
         ]
     }
 }
