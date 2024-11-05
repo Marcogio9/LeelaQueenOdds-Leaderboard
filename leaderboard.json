@@ -371,12 +371,6 @@
         "last_game": "2024.11.05",
         "BOT": false
     },
-    "tzar_bomba": {
-        "rating": 1627.30568115513,
-        "games": 32,
-        "last_game": "2024.11.04",
-        "BOT": false
-    },
     "MattLevine": {
         "rating": 1626.9273858074519,
         "games": 2,
@@ -429,6 +423,12 @@
         "rating": 1622.0228273781893,
         "games": 1,
         "last_game": "2024.10.28",
+        "BOT": false
+    },
+    "tzar_bomba": {
+        "rating": 1621.835488265745,
+        "games": 34,
+        "last_game": "2024.11.05",
         "BOT": false
     },
     "Garrett_Thompson": {
@@ -4579,10 +4579,11 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730811802459,
+        "date": 1730812103467,
         "malus_date": 1730242800000.0,
         "prevlinks": [
-            "C50vxbtE"
+            "Adndj5E7",
+            "egu3Oq22"
         ]
     }
 }
