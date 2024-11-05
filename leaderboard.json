@@ -461,6 +461,12 @@
         "last_game": "2024.10.22",
         "BOT": false
     },
+    "ChessMarcogio": {
+        "rating": 1617.0564593617355,
+        "games": 28,
+        "last_game": "2024.11.05",
+        "BOT": false
+    },
     "Virenz": {
         "rating": 1616.6649685235304,
         "games": 1,
@@ -3365,12 +3371,6 @@
         "last_game": "2024.07.05",
         "BOT": false
     },
-    "ChessMarcogio": {
-        "rating": 1600,
-        "games": 27,
-        "last_game": "2024.11.05",
-        "BOT": false
-    },
     "UnbelievableShocker": {
         "rating": 1600,
         "games": 1,
@@ -4579,11 +4579,10 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730809697137,
+        "date": 1730810298533,
         "malus_date": 1730242800000.0,
         "prevlinks": [
-            "Of35oRYC",
-            "Oj2fhbxz"
+            "0gUG46Go"
         ]
     }
 }
