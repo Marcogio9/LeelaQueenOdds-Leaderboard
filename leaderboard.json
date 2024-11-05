@@ -108,8 +108,8 @@
         "BOT": true
     },
     "BvAR2": {
-        "rating": 1885.0365500424718,
-        "games": 2939,
+        "rating": 1876.4478104834554,
+        "games": 2942,
         "last_game": "2024.11.05",
         "BOT": false
     },
@@ -4573,23 +4573,12 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730796385022,
+        "date": 1730798271661,
         "malus_date": 1730242800000.0,
         "prevlinks": [
-            "MpGla51B",
-            "cj5vTj3c",
-            "tm31PAZd",
-            "4vhOz27M",
-            "zlrFKYjp",
-            "RW3tQDof",
-            "3vA5Xfyw",
-            "QcuPO68Z",
-            "Zk2iZyZ8",
-            "mTiqRJjv",
-            "GM8AxXoT",
-            "uzz7CLLB",
-            "hZVa9CrU",
-            "hmlibCFa"
+            "wwwgiwcL",
+            "o8ko2oO7",
+            "8hK5h6Zh"
         ]
     }
 }
