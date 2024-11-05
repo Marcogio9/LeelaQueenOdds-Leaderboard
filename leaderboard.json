@@ -132,8 +132,8 @@
         "BOT": false
     },
     "BvAR2": {
-        "rating": 1830.0001539868003,
-        "games": 2951,
+        "rating": 1842.1316090323605,
+        "games": 2952,
         "last_game": "2024.11.05",
         "BOT": false
     },
@@ -207,6 +207,12 @@
         "rating": 1696.9978175396816,
         "games": 19,
         "last_game": "2024.10.22",
+        "BOT": false
+    },
+    "uriblass": {
+        "rating": 1692.6130328038923,
+        "games": 4,
+        "last_game": "2024.11.05",
         "BOT": false
     },
     "iamqueenup": {
@@ -4573,11 +4579,14 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730800974555,
+        "date": 1730802786543,
         "malus_date": 1730242800000.0,
         "prevlinks": [
-            "2DaWm403",
-            "9UOJIrM2"
+            "qoA96ctf",
+            "8sUe5E6b",
+            "zTi5LLcM",
+            "0U0IlInH",
+            "BKObn8YT"
         ]
     }
 }
