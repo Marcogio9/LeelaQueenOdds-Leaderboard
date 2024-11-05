@@ -132,8 +132,8 @@
         "BOT": false
     },
     "BvAR2": {
-        "rating": 1842.0217263829677,
-        "games": 2947,
+        "rating": 1833.8205720070762,
+        "games": 2948,
         "last_game": "2024.11.05",
         "BOT": false
     },
@@ -4573,10 +4573,10 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730800073604,
+        "date": 1730800373942,
         "malus_date": 1730242800000.0,
         "prevlinks": [
-            "JJ8FALMV"
+            "vPzpsCSv"
         ]
     }
 }
