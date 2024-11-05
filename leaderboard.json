@@ -119,15 +119,15 @@
         "last_game": "2024.11.02",
         "BOT": false
     },
-    "Clydevil": {
-        "rating": 1869.0028389247789,
-        "games": 291,
-        "last_game": "2024.11.05",
-        "BOT": false
-    },
     "BvAR2": {
         "rating": 1865.3927301900655,
         "games": 2954,
+        "last_game": "2024.11.05",
+        "BOT": false
+    },
+    "Clydevil": {
+        "rating": 1863.8366493663464,
+        "games": 292,
         "last_game": "2024.11.05",
         "BOT": false
     },
@@ -3367,7 +3367,7 @@
     },
     "ChessMarcogio": {
         "rating": 1600,
-        "games": 26,
+        "games": 27,
         "last_game": "2024.11.05",
         "BOT": false
     },
@@ -4579,10 +4579,11 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730809095779,
+        "date": 1730809697137,
         "malus_date": 1730242800000.0,
         "prevlinks": [
-            "f30Z0oKr"
+            "Of35oRYC",
+            "Oj2fhbxz"
         ]
     }
 }
