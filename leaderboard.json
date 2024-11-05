@@ -108,8 +108,8 @@
         "BOT": true
     },
     "BvAR2": {
-        "rating": 1876.5337023484394,
-        "games": 2955,
+        "rating": 1889.3373877504753,
+        "games": 2964,
         "last_game": "2024.11.05",
         "BOT": false
     },
@@ -126,8 +126,8 @@
         "BOT": false
     },
     "Clydevil": {
-        "rating": 1858.7835895874398,
-        "games": 293,
+        "rating": 1869.000738719753,
+        "games": 295,
         "last_game": "2024.11.05",
         "BOT": false
     },
@@ -383,6 +383,12 @@
         "last_game": "2024.09.07",
         "BOT": false
     },
+    "tzar_bomba": {
+        "rating": 1625.9246353188323,
+        "games": 44,
+        "last_game": "2024.11.05",
+        "BOT": false
+    },
     "Skorro": {
         "rating": 1625.2829764389976,
         "games": 1,
@@ -425,16 +431,16 @@
         "last_game": "2024.10.28",
         "BOT": false
     },
-    "tzar_bomba": {
-        "rating": 1621.835488265745,
-        "games": 34,
-        "last_game": "2024.11.05",
-        "BOT": false
-    },
     "Garrett_Thompson": {
         "rating": 1621.3808530186075,
         "games": 1,
         "last_game": "2024.10.23",
+        "BOT": false
+    },
+    "spanik": {
+        "rating": 1620.8074026783033,
+        "games": 38,
+        "last_game": "2024.11.05",
         "BOT": false
     },
     "YuriGod9000": {
@@ -463,7 +469,7 @@
     },
     "ChessMarcogio": {
         "rating": 1617.0564593617355,
-        "games": 28,
+        "games": 29,
         "last_game": "2024.11.05",
         "BOT": false
     },
@@ -597,12 +603,6 @@
         "rating": 1607.1653645374918,
         "games": 1,
         "last_game": "2024.10.26",
-        "BOT": false
-    },
-    "spanik": {
-        "rating": 1607.0519568584102,
-        "games": 36,
-        "last_game": "2024.10.30",
         "BOT": false
     },
     "wawawawaa": {
@@ -4579,11 +4579,44 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730812103467,
+        "date": 1730821174421,
         "malus_date": 1730242800000.0,
         "prevlinks": [
+            "v0mKBi8F",
+            "7Peshstv",
+            "HgCnpv9k",
+            "scwCymCV",
+            "f30Z0oKr",
+            "Of35oRYC",
+            "Oj2fhbxz",
+            "niu5NABt",
+            "0gUG46Go",
+            "Y8WQ4TP7",
+            "pUoXPxay",
+            "C50vxbtE",
             "Adndj5E7",
-            "egu3Oq22"
+            "h2UwzxWT",
+            "egu3Oq22",
+            "IjgTsArv",
+            "cFH4bTKV",
+            "JtfD5sCm",
+            "Y9gExKwa",
+            "SRWyyvTg",
+            "YEsuf3ux",
+            "xlWwrjiW",
+            "zhPzryyw",
+            "FfaJG5Ci",
+            "4roHZiuB",
+            "MZhRRY1T",
+            "qZD91grg",
+            "fiKiWCyq",
+            "BpTwKHc3",
+            "gMC0vMKl",
+            "6WMdcgfV",
+            "9IN83POW",
+            "mXUIcxcg",
+            "Wrv5SDls",
+            "CGkfEjOA"
         ]
     }
 }
