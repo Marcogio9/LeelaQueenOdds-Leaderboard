@@ -96,9 +96,9 @@
         "BOT": true
     },
     "Brunetticus": {
-        "rating": 1917.2753338947696,
-        "games": 36,
-        "last_game": "2024.11.04",
+        "rating": 1913.7620361255977,
+        "games": 37,
+        "last_game": "2024.11.05",
         "BOT": false
     },
     "LeelaQueenOdds as black 15+10 (Reference)": {
@@ -353,6 +353,12 @@
         "last_game": "2024.10.29",
         "BOT": false
     },
+    "SupaMaggie70": {
+        "rating": 1627.3799349976375,
+        "games": 7,
+        "last_game": "2024.11.05",
+        "BOT": false
+    },
     "tzar_bomba": {
         "rating": 1627.30568115513,
         "games": 32,
@@ -495,12 +501,6 @@
         "rating": 1613.0247130381883,
         "games": 13,
         "last_game": "2024.11.03",
-        "BOT": false
-    },
-    "SupaMaggie70": {
-        "rating": 1612.1147286725993,
-        "games": 5,
-        "last_game": "2024.11.05",
         "BOT": false
     },
     "bruce_willis": {
@@ -4567,7 +4567,7 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730765356264,
+        "date": 1730765656721,
         "malus_date": 1730242800000.0
     }
 }
