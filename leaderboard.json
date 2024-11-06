@@ -12,9 +12,9 @@
         "BOT": true
     },
     "nn1133": {
-        "rating": 2329.911280022902,
-        "games": 6122,
-        "last_game": "2024.11.05",
+        "rating": 2333.7005004024454,
+        "games": 6126,
+        "last_game": "2024.11.06",
         "BOT": false
     },
     "LeelaQueenOdds as white 1+1 (Reference)": {
@@ -77,15 +77,21 @@
         "last_game": null,
         "BOT": true
     },
+    "uriblass": {
+        "rating": 2026.0434188210963,
+        "games": 25,
+        "last_game": "2024.11.06",
+        "BOT": false
+    },
     "LeelaQueenOdds as white 10+5 (Reference)": {
         "rating": 2000.9392869678304,
         "games": 0,
         "last_game": null,
         "BOT": true
     },
-    "uriblass": {
-        "rating": 1962.0472271077615,
-        "games": 18,
+    "Brunetticus": {
+        "rating": 1971.7693864132036,
+        "games": 77,
         "last_game": "2024.11.06",
         "BOT": false
     },
@@ -101,9 +107,9 @@
         "last_game": null,
         "BOT": true
     },
-    "Brunetticus": {
-        "rating": 1937.8611076524214,
-        "games": 64,
+    "BvAR2": {
+        "rating": 1897.2601119375895,
+        "games": 2981,
         "last_game": "2024.11.06",
         "BOT": false
     },
@@ -112,12 +118,6 @@
         "games": 0,
         "last_game": null,
         "BOT": true
-    },
-    "BvAR2": {
-        "rating": 1885.9230508160756,
-        "games": 2978,
-        "last_game": "2024.11.06",
-        "BOT": false
     },
     "Traag": {
         "rating": 1863.7276894759057,
@@ -131,16 +131,16 @@
         "last_game": "2024.11.06",
         "BOT": false
     },
-    "W3Z2fv4o6ipbnak8u7": {
-        "rating": 1849.0917286279068,
-        "games": 277,
-        "last_game": "2024.11.06",
-        "BOT": false
-    },
     "ltvr": {
         "rating": 1846.656919059411,
         "games": 93,
         "last_game": "2024.06.26",
+        "BOT": false
+    },
+    "W3Z2fv4o6ipbnak8u7": {
+        "rating": 1840.6929718375632,
+        "games": 278,
+        "last_game": "2024.11.06",
         "BOT": false
     },
     "OptimumPrime": {
@@ -389,6 +389,12 @@
         "last_game": "2024.10.30",
         "BOT": false
     },
+    "spanik": {
+        "rating": 1619.6692405985216,
+        "games": 45,
+        "last_game": "2024.11.06",
+        "BOT": false
+    },
     "nderaj": {
         "rating": 1618.909911556238,
         "games": 1,
@@ -506,12 +512,6 @@
     "tzar_bomba": {
         "rating": 1608.0895798547924,
         "games": 47,
-        "last_game": "2024.11.06",
-        "BOT": false
-    },
-    "spanik": {
-        "rating": 1607.758593064738,
-        "games": 39,
         "last_game": "2024.11.06",
         "BOT": false
     },
@@ -4621,15 +4621,43 @@
     },
     "metadata": {
         "rating": -10,
-        "date": 1730904557050,
+        "date": 1730916610795,
         "malus_date": 1730847600000.0,
         "prevlinks": [
-            "2a6UIqzr",
-            "3WDfYpKY",
-            "pvyQpxIY",
-            "Qp3AtJrW",
-            "oJTqUlxo",
-            "cTiQvtO8"
+            "WaSUvSv2",
+            "NMmj1dz8",
+            "6Hv2EpI0",
+            "9jjOL3ac",
+            "9Ph2qbb5",
+            "PgCIgIzA",
+            "bDmcfBKX",
+            "MmWFiHXZ",
+            "Esy6yVJd",
+            "MgTzlnxa",
+            "HBZj5kZk",
+            "grhW2uLh",
+            "fFfDv96Y",
+            "xp6pyvMH",
+            "u4WvN5Ly",
+            "Tf5d4s9f",
+            "E9VOadRj",
+            "e8Hd0gNx",
+            "157k3WPK",
+            "8GeeQcn3",
+            "a7aMuOo1",
+            "AY26laTS",
+            "rfdZPcOf",
+            "53ztG7tD",
+            "JDDZMYrJ",
+            "saoRnjbA",
+            "SpxS9xVi",
+            "f4PaNtMn",
+            "G5W0F5HZ",
+            "s3MTcmA1",
+            "DvoKNpT5",
+            "5WQJscTh",
+            "F2cHQo97",
+            "FVFvMWah"
         ]
     }
 }
