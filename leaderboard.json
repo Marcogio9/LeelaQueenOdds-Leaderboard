@@ -83,6 +83,12 @@
         "last_game": null,
         "BOT": true
     },
+    "uriblass": {
+        "rating": 1962.0472271077615,
+        "games": 18,
+        "last_game": "2024.11.06",
+        "BOT": false
+    },
     "LeelaQueenOdds as black 10+5 (Reference)": {
         "rating": 1950.9392869678304,
         "games": 0,
@@ -98,12 +104,6 @@
     "Brunetticus": {
         "rating": 1937.8611076524214,
         "games": 64,
-        "last_game": "2024.11.06",
-        "BOT": false
-    },
-    "uriblass": {
-        "rating": 1901.7177943416045,
-        "games": 13,
         "last_game": "2024.11.06",
         "BOT": false
     },
@@ -485,12 +485,6 @@
         "last_game": "2024.10.23",
         "BOT": false
     },
-    "spanik": {
-        "rating": 1610.8074026783033,
-        "games": 38,
-        "last_game": "2024.11.05",
-        "BOT": false
-    },
     "YuriGod9000": {
         "rating": 1608.5554145484398,
         "games": 3,
@@ -512,6 +506,12 @@
     "tzar_bomba": {
         "rating": 1608.0895798547924,
         "games": 47,
+        "last_game": "2024.11.06",
+        "BOT": false
+    },
+    "spanik": {
+        "rating": 1607.758593064738,
+        "games": 39,
         "last_game": "2024.11.06",
         "BOT": false
     },
@@ -4621,10 +4621,15 @@
     },
     "metadata": {
         "rating": -10,
-        "date": 1730900117856,
+        "date": 1730904557050,
         "malus_date": 1730847600000.0,
         "prevlinks": [
-            "oWU0QtaX"
+            "2a6UIqzr",
+            "3WDfYpKY",
+            "pvyQpxIY",
+            "Qp3AtJrW",
+            "oJTqUlxo",
+            "cTiQvtO8"
         ]
     }
 }
