@@ -89,12 +89,6 @@
         "last_game": null,
         "BOT": true
     },
-    "Brunetticus": {
-        "rating": 1971.8161182407646,
-        "games": 80,
-        "last_game": "2024.11.06",
-        "BOT": false
-    },
     "LeelaQueenOdds as black 10+5 (Reference)": {
         "rating": 1960.9392869678304,
         "games": 0,
@@ -106,6 +100,12 @@
         "games": 0,
         "last_game": null,
         "BOT": true
+    },
+    "Brunetticus": {
+        "rating": 1954.9939915097866,
+        "games": 89,
+        "last_game": "2024.11.06",
+        "BOT": false
     },
     "LeelaQueenOdds as black 15+10 (Reference)": {
         "rating": 1905.2075391319004,
@@ -289,6 +289,12 @@
     },
     "Respectful_Dave": {
         "rating": 1639.057962051076,
+        "games": 2,
+        "last_game": "2024.11.06",
+        "BOT": false
+    },
+    "T-Ramisu": {
+        "rating": 1636.6649685235304,
         "games": 2,
         "last_game": "2024.11.06",
         "BOT": false
@@ -4633,37 +4639,20 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730931344402,
+        "date": 1730936365240,
         "malus_date": 1730847600000.0,
         "prevlinks": [
-            "FHrrdvbZ",
-            "uoPaVD4W",
-            "BbgISTPB",
-            "ARvF66aZ",
-            "sxbMuUvm",
-            "74nWKukW",
-            "lImV6zKl",
-            "kI8mtjGo",
-            "WHo1hynq",
-            "WORphBfV",
-            "dXY4ljI3",
-            "qFMIoasr",
-            "jEhHnKII",
-            "vgdVqh1v",
-            "9ChpTmV5",
-            "ZB1h16bo",
-            "uAqns5yq",
-            "sgFmOs8a",
-            "TI27KcSv",
-            "cG0hCinO",
-            "DtTC8dHE",
-            "BDBUPuZN",
-            "IMGfDK63",
-            "3FQ20M0Y",
-            "j3fuNfHJ",
-            "VmPbX5t4",
-            "BjbXr2PZ",
-            "HBDWPnOs"
+            "7CpLoY7n",
+            "evKhtf0y",
+            "uAcNfkRx",
+            "DompXQCW",
+            "QTwSQIrO",
+            "CQKkPslX",
+            "JyqHRYOF",
+            "QK6RoDvy",
+            "C5NjvHwm",
+            "EoA1PgRo",
+            "ebC3D6jQ"
         ],
         "BOT": true
     }
