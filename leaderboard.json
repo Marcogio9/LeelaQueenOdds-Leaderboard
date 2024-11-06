@@ -113,6 +113,12 @@
         "last_game": "2024.11.06",
         "BOT": false
     },
+    "uriblass": {
+        "rating": 1868.3322212223086,
+        "games": 12,
+        "last_game": "2024.11.06",
+        "BOT": false
+    },
     "Traag": {
         "rating": 1863.7276894759057,
         "games": 385,
@@ -126,8 +132,8 @@
         "BOT": false
     },
     "W3Z2fv4o6ipbnak8u7": {
-        "rating": 1850.0903265875415,
-        "games": 276,
+        "rating": 1849.0917286279068,
+        "games": 277,
         "last_game": "2024.11.06",
         "BOT": false
     },
@@ -135,12 +141,6 @@
         "rating": 1846.656919059411,
         "games": 93,
         "last_game": "2024.06.26",
-        "BOT": false
-    },
-    "uriblass": {
-        "rating": 1833.9242855918983,
-        "games": 11,
-        "last_game": "2024.11.06",
         "BOT": false
     },
     "OptimumPrime": {
@@ -4621,22 +4621,11 @@
     },
     "metadata": {
         "rating": -10,
-        "date": 1730899310116,
+        "date": 1730899778336,
         "malus_date": 1730847600000.0,
         "prevlinks": [
-            "1UxeLAYL",
-            "fIJPvnxI",
-            "rV0YkMNu",
-            "m04X0f0T",
-            "6uKLUk1o",
-            "3Pe9rnnn",
-            "cbTvvxsq",
-            "Dr9EYha9",
-            "6P3Ra9XS",
-            "ujFYgMwr",
-            "AmLq7roS",
-            "NktRvc2Y",
-            "KGA6RSjo"
+            "PK6KPFu4",
+            "R8ggNHRq"
         ]
     }
 }
