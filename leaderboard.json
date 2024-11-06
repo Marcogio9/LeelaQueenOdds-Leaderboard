@@ -119,16 +119,16 @@
         "last_game": "2024.10.12",
         "BOT": false
     },
-    "W3Z2fv4o6ipbnak8u7": {
-        "rating": 1861.1971546901038,
-        "games": 274,
-        "last_game": "2024.11.02",
+    "Clydevil": {
+        "rating": 1854.0520794768288,
+        "games": 296,
+        "last_game": "2024.11.06",
         "BOT": false
     },
-    "Clydevil": {
-        "rating": 1859.000738719753,
-        "games": 295,
-        "last_game": "2024.11.05",
+    "W3Z2fv4o6ipbnak8u7": {
+        "rating": 1850.0903265875415,
+        "games": 276,
+        "last_game": "2024.11.06",
         "BOT": false
     },
     "ltvr": {
@@ -137,16 +137,16 @@
         "last_game": "2024.06.26",
         "BOT": false
     },
+    "uriblass": {
+        "rating": 1833.9242855918983,
+        "games": 11,
+        "last_game": "2024.11.06",
+        "BOT": false
+    },
     "OptimumPrime": {
         "rating": 1809.5643428125697,
         "games": 136,
         "last_game": "2024.11.05",
-        "BOT": false
-    },
-    "uriblass": {
-        "rating": 1809.4516812086001,
-        "games": 8,
-        "last_game": "2024.11.06",
         "BOT": false
     },
     "baki1989": {
@@ -159,6 +159,12 @@
         "rating": 1803.3001629512978,
         "games": 282,
         "last_game": "2024.08.05",
+        "BOT": false
+    },
+    "LiGolem": {
+        "rating": 1789.3048275968538,
+        "games": 17,
+        "last_game": "2024.11.06",
         "BOT": false
     },
     "CaleaspreVictorie": {
@@ -195,12 +201,6 @@
         "rating": 1704.847756045641,
         "games": 20,
         "last_game": "2024.10.23",
-        "BOT": false
-    },
-    "LiGolem": {
-        "rating": 1688.6479429618803,
-        "games": 14,
-        "last_game": "2024.11.06",
         "BOT": false
     },
     "edwardw21": {
@@ -425,6 +425,12 @@
         "last_game": "2024.09.07",
         "BOT": false
     },
+    "ChessMarcogio": {
+        "rating": 1615.4689294154882,
+        "games": 37,
+        "last_game": "2024.11.06",
+        "BOT": false
+    },
     "Skorro": {
         "rating": 1615.2829764389976,
         "games": 1,
@@ -483,12 +489,6 @@
         "rating": 1610.8074026783033,
         "games": 38,
         "last_game": "2024.11.05",
-        "BOT": false
-    },
-    "ChessMarcogio": {
-        "rating": 1609.0258406012676,
-        "games": 34,
-        "last_game": "2024.11.06",
         "BOT": false
     },
     "YuriGod9000": {
@@ -4613,13 +4613,30 @@
         "last_game": "2024.11.05",
         "BOT": false
     },
+    "xnrg": {
+        "rating": 1600,
+        "games": 1,
+        "last_game": "2024.11.06",
+        "BOT": false
+    },
     "metadata": {
         "rating": -10,
-        "date": 1730889801105,
+        "date": 1730899310116,
         "malus_date": 1730847600000.0,
         "prevlinks": [
-            "XwNna4q3",
-            "JjSmCOIk"
+            "1UxeLAYL",
+            "fIJPvnxI",
+            "rV0YkMNu",
+            "m04X0f0T",
+            "6uKLUk1o",
+            "3Pe9rnnn",
+            "cbTvvxsq",
+            "Dr9EYha9",
+            "6P3Ra9XS",
+            "ujFYgMwr",
+            "AmLq7roS",
+            "NktRvc2Y",
+            "KGA6RSjo"
         ]
     }
 }
