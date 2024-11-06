@@ -101,6 +101,12 @@
         "last_game": "2024.11.06",
         "BOT": false
     },
+    "uriblass": {
+        "rating": 1901.7177943416045,
+        "games": 13,
+        "last_game": "2024.11.06",
+        "BOT": false
+    },
     "LeelaQueenOdds as black 15+10 (Reference)": {
         "rating": 1895.2075391319004,
         "games": 0,
@@ -110,12 +116,6 @@
     "BvAR2": {
         "rating": 1885.9230508160756,
         "games": 2978,
-        "last_game": "2024.11.06",
-        "BOT": false
-    },
-    "uriblass": {
-        "rating": 1868.3322212223086,
-        "games": 12,
         "last_game": "2024.11.06",
         "BOT": false
     },
@@ -4621,11 +4621,10 @@
     },
     "metadata": {
         "rating": -10,
-        "date": 1730899778336,
+        "date": 1730900117856,
         "malus_date": 1730847600000.0,
         "prevlinks": [
-            "PK6KPFu4",
-            "R8ggNHRq"
+            "oWU0QtaX"
         ]
     }
 }
