@@ -96,9 +96,9 @@
         "BOT": true
     },
     "Brunetticus": {
-        "rating": 1935.1782526532631,
-        "games": 61,
-        "last_game": "2024.11.05",
+        "rating": 1937.8611076524214,
+        "games": 64,
+        "last_game": "2024.11.06",
         "BOT": false
     },
     "LeelaQueenOdds as black 15+10 (Reference)": {
@@ -108,8 +108,8 @@
         "BOT": true
     },
     "BvAR2": {
-        "rating": 1888.7740916097011,
-        "games": 2972,
+        "rating": 1885.9230508160756,
+        "games": 2978,
         "last_game": "2024.11.06",
         "BOT": false
     },
@@ -126,8 +126,8 @@
         "BOT": false
     },
     "Clydevil": {
-        "rating": 1848.7835895874398,
-        "games": 293,
+        "rating": 1859.000738719753,
+        "games": 295,
         "last_game": "2024.11.05",
         "BOT": false
     },
@@ -197,6 +197,12 @@
         "last_game": "2024.10.23",
         "BOT": false
     },
+    "LiGolem": {
+        "rating": 1688.6479429618803,
+        "games": 14,
+        "last_game": "2024.11.06",
+        "BOT": false
+    },
     "edwardw21": {
         "rating": 1687.9470208354683,
         "games": 11,
@@ -225,12 +231,6 @@
         "rating": 1667.576901061488,
         "games": 89,
         "last_game": "2024.04.20",
-        "BOT": false
-    },
-    "LiGolem": {
-        "rating": 1662.5490011541672,
-        "games": 10,
-        "last_game": "2024.11.06",
         "BOT": false
     },
     "emouret": {
@@ -279,6 +279,12 @@
         "rating": 1641.2041226031445,
         "games": 6,
         "last_game": "2024.09.29",
+        "BOT": false
+    },
+    "Respectful_Dave": {
+        "rating": 1639.057962051076,
+        "games": 2,
+        "last_game": "2024.11.06",
         "BOT": false
     },
     "waitdarn": {
@@ -395,12 +401,6 @@
         "last_game": "2024.10.14",
         "BOT": false
     },
-    "cid7777": {
-        "rating": 1617.5208532891158,
-        "games": 19,
-        "last_game": "2024.11.05",
-        "BOT": false
-    },
     "JkAkrite": {
         "rating": 1617.408427137599,
         "games": 7,
@@ -431,6 +431,12 @@
         "last_game": "2024.10.29",
         "BOT": false
     },
+    "cid7777": {
+        "rating": 1615.1963212359985,
+        "games": 20,
+        "last_game": "2024.11.05",
+        "BOT": false
+    },
     "Lightlike": {
         "rating": 1614.5394776032692,
         "games": 1,
@@ -441,12 +447,6 @@
         "rating": 1614.100017504668,
         "games": 1,
         "last_game": "2024.10.25",
-        "BOT": false
-    },
-    "tzar_bomba": {
-        "rating": 1613.1896490301954,
-        "games": 45,
-        "last_game": "2024.11.05",
         "BOT": false
     },
     "KDMFan": {
@@ -467,12 +467,6 @@
         "last_game": "2024.11.01",
         "BOT": false
     },
-    "ChessMarcogio": {
-        "rating": 1612.1286870595761,
-        "games": 31,
-        "last_game": "2024.11.05",
-        "BOT": false
-    },
     "Chrill": {
         "rating": 1612.0228273781893,
         "games": 1,
@@ -491,6 +485,12 @@
         "last_game": "2024.11.05",
         "BOT": false
     },
+    "ChessMarcogio": {
+        "rating": 1609.0258406012676,
+        "games": 34,
+        "last_game": "2024.11.06",
+        "BOT": false
+    },
     "YuriGod9000": {
         "rating": 1608.5554145484398,
         "games": 3,
@@ -507,6 +507,12 @@
         "rating": 1608.3840351697215,
         "games": 2,
         "last_game": "2024.10.24",
+        "BOT": false
+    },
+    "tzar_bomba": {
+        "rating": 1608.0895798547924,
+        "games": 47,
+        "last_game": "2024.11.06",
         "BOT": false
     },
     "Es-tactic": {
@@ -4609,26 +4615,11 @@
     },
     "metadata": {
         "rating": -10,
-        "date": 1730881943284,
-        "malus_date": 1730851200000.0,
+        "date": 1730889801105,
+        "malus_date": 1730847600000.0,
         "prevlinks": [
-            "AoeQFqzf",
-            "AH1FI1we",
-            "1M5BzjY4",
-            "URX8svOX",
-            "NAWUEBgk",
-            "hYMf8AuS",
-            "PUJEhVY8",
-            "t8jO0s5S",
-            "s6Vreqf4",
-            "BByFIqnJ",
-            "t9q9QIdt",
-            "Ff7IY1JE",
-            "hkUQg4cf",
-            "Lj6PfZw4",
-            "hRVzcwpz",
-            "9bgWdTbR",
-            "iefd6drD"
+            "XwNna4q3",
+            "JjSmCOIk"
         ]
     }
 }
