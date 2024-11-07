@@ -56,8 +56,10 @@ def k_tresh(games):
 
 def inactivity_malus(lead):
     for player in lead.keys():
+        if lead[player]['BOT']: continue
+        
         lead[player]['rating'] -= 10
-        if 100 < lead[player]['rating'] < 1600: # floor
+        if lead[player]['rating'] < 1600: # floor
             lead[player]['rating'] = 1600
     return lead
 
@@ -156,8 +158,8 @@ while 1:
     with open("leaderboard.json", "r") as fi:
         lead = json.load(fi)
     
-        since_date = int(lead['metadata']['date'])-299000 # -299sec
-        until_date = int(datetime.now().timestamp()*1000)
+        since_date = int(lead['metadata']['date'])-120000 # -120sec
+        until_date = int(datetime.now().timestamp()*1000)+60000 # +60sec
         
         lead = update(lead, since_date, until_date)
         
@@ -165,11 +167,8 @@ while 1:
             json.dump(lead, file, indent=4)
         
        
-    
-    time.sleep(300)
     print('-'*80)
-
-
+    time.sleep(180)
 
 
 
