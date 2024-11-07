@@ -305,6 +305,12 @@
         "last_game": "2024.11.06",
         "BOT": false
     },
+    "UndercoverTactician": {
+        "rating": 1635.67263581166,
+        "games": 1,
+        "last_game": "2024.11.07",
+        "BOT": false
+    },
     "waitdarn": {
         "rating": 1628.7535626541382,
         "games": 11,
@@ -4639,16 +4645,10 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730986690193,
+        "date": 1730987898284,
         "malus_date": 1730847600000.0,
         "prevlinks": [
-            "ahZeLYd9",
-            "OoAssTVH",
-            "Pno6YSsy",
-            "w30neodr",
-            "HMGv8Kzq",
-            "LwufFVQr",
-            "mlEACd4R"
+            "uVcQP2fK"
         ],
         "BOT": true
     }
