@@ -203,6 +203,12 @@
         "last_game": "2024.10.12",
         "BOT": false
     },
+    "UndercoverTactician": {
+        "rating": 1705.7453706924314,
+        "games": 4,
+        "last_game": "2024.11.07",
+        "BOT": false
+    },
     "nonAs": {
         "rating": 1704.847756045641,
         "games": 20,
@@ -231,12 +237,6 @@
         "rating": 1679.861195122204,
         "games": 48,
         "last_game": "2024.04.05",
-        "BOT": false
-    },
-    "UndercoverTactician": {
-        "rating": 1668.1007333316516,
-        "games": 3,
-        "last_game": "2024.11.07",
         "BOT": false
     },
     "haih": {
@@ -4645,10 +4645,10 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730989015353,
+        "date": 1730989452846,
         "malus_date": 1730847600000.0,
         "prevlinks": [
-            "M7AE4JIG"
+            "g57RPAF5"
         ],
         "BOT": true
     }
