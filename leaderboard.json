@@ -233,6 +233,12 @@
         "last_game": "2024.04.05",
         "BOT": false
     },
+    "UndercoverTactician": {
+        "rating": 1670.486726763375,
+        "games": 2,
+        "last_game": "2024.11.07",
+        "BOT": false
+    },
     "haih": {
         "rating": 1667.576901061488,
         "games": 89,
@@ -281,6 +287,12 @@
         "last_game": "2024.11.04",
         "BOT": false
     },
+    "Naphthalin": {
+        "rating": 1645.7911377669564,
+        "games": 194,
+        "last_game": "2024.11.07",
+        "BOT": false
+    },
     "TurTurm": {
         "rating": 1641.2041226031445,
         "games": 6,
@@ -305,22 +317,10 @@
         "last_game": "2024.11.06",
         "BOT": false
     },
-    "UndercoverTactician": {
-        "rating": 1635.67263581166,
-        "games": 1,
-        "last_game": "2024.11.07",
-        "BOT": false
-    },
     "waitdarn": {
         "rating": 1628.7535626541382,
         "games": 11,
         "last_game": "2024.11.04",
-        "BOT": false
-    },
-    "Naphthalin": {
-        "rating": 1628.3834402826449,
-        "games": 192,
-        "last_game": "2024.11.05",
         "BOT": false
     },
     "Siebenschlaf": {
@@ -4645,10 +4645,12 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730987898284,
+        "date": 1730988614190,
         "malus_date": 1730847600000.0,
         "prevlinks": [
-            "uVcQP2fK"
+            "AJyEwR3t",
+            "VvoXzvCF",
+            "79UavsQ9"
         ],
         "BOT": true
     }
