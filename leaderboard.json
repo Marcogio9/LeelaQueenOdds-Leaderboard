@@ -203,16 +203,16 @@
         "last_game": "2024.10.12",
         "BOT": false
     },
-    "UndercoverTactician": {
-        "rating": 1705.7453706924314,
-        "games": 4,
-        "last_game": "2024.11.07",
-        "BOT": false
-    },
     "nonAs": {
         "rating": 1704.847756045641,
         "games": 20,
         "last_game": "2024.10.23",
+        "BOT": false
+    },
+    "UndercoverTactician": {
+        "rating": 1702.8611724740456,
+        "games": 5,
+        "last_game": "2024.11.07",
         "BOT": false
     },
     "edwardw21": {
@@ -4645,10 +4645,10 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730989452846,
+        "date": 1730989571022,
         "malus_date": 1730847600000.0,
         "prevlinks": [
-            "g57RPAF5"
+            "pXMDqbP7"
         ],
         "BOT": true
     }
