@@ -66,9 +66,9 @@
         "BOT": true
     },
     "KentGoulding": {
-        "rating": 2071.1553653870405,
-        "games": 209,
-        "last_game": "2024.11.05",
+        "rating": 2081.738664221804,
+        "games": 210,
+        "last_game": "2024.11.07",
         "BOT": false
     },
     "LeelaQueenOdds as black 5+3 (Reference)": {
@@ -114,9 +114,9 @@
         "BOT": true
     },
     "Clydevil": {
-        "rating": 1864.0890198780194,
-        "games": 300,
-        "last_game": "2024.11.06",
+        "rating": 1879.0304719354629,
+        "games": 301,
+        "last_game": "2024.11.07",
         "BOT": false
     },
     "Traag": {
@@ -162,8 +162,8 @@
         "BOT": false
     },
     "BvAR2": {
-        "rating": 1750.293087765883,
-        "games": 3011,
+        "rating": 1764.478149562884,
+        "games": 3012,
         "last_game": "2024.11.07",
         "BOT": false
     },
@@ -191,6 +191,12 @@
         "last_game": "2024.10.16",
         "BOT": false
     },
+    "spanik": {
+        "rating": 1721.518908186053,
+        "games": 62,
+        "last_game": "2024.11.07",
+        "BOT": false
+    },
     "sandals": {
         "rating": 1711.602260944015,
         "games": 6,
@@ -201,12 +207,6 @@
         "rating": 1704.847756045641,
         "games": 20,
         "last_game": "2024.10.23",
-        "BOT": false
-    },
-    "spanik": {
-        "rating": 1690.2927903868592,
-        "games": 58,
-        "last_game": "2024.11.07",
         "BOT": false
     },
     "edwardw21": {
@@ -4639,54 +4639,16 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730974691315,
+        "date": 1730986690193,
         "malus_date": 1730847600000.0,
         "prevlinks": [
-            "1ojFAWpK",
-            "zX8Lyze9",
-            "UNxDMQAo",
-            "KrxiGKX4",
-            "xQi5JOxb",
-            "kJRsD5TK",
-            "02jfHBKd",
-            "SzDSnRwg",
-            "s711KAhS",
-            "0S6gEu0K",
-            "dlQKn8Ue",
-            "xPBOsyG4",
-            "l6UNq8UT",
-            "goEBDx7Y",
-            "mzzSuCZy",
-            "K5mrdggG",
-            "qTJmGf5B",
-            "nZFmTrm9",
-            "viIBpyez",
-            "6RIsyOVO",
-            "74CDNJ32",
-            "DbZCSA85",
-            "2ChI5ijq",
-            "LISe1KPQ",
-            "iv6pYtUB",
-            "SLoLc466",
-            "3VVw5BeC",
-            "6pcph59S",
-            "SM5lOR2S",
-            "LZCeekD2",
-            "aDtuyql3",
-            "wnPXazis",
-            "qVQ5Mq2l",
-            "JgvZjYPx",
-            "qZJEPdVt",
-            "Mdn3Q45N",
-            "9tAIpb06",
-            "7MlvtNpg",
-            "38wbSAWa",
-            "6WSUHArg",
-            "fS5Xbgns",
-            "BNFiTSRa",
-            "Mh3TXIU1",
-            "SlRpfhxY",
-            "Ot806wrN"
+            "ahZeLYd9",
+            "OoAssTVH",
+            "Pno6YSsy",
+            "w30neodr",
+            "HMGv8Kzq",
+            "LwufFVQr",
+            "mlEACd4R"
         ],
         "BOT": true
     }
