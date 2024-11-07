@@ -83,6 +83,12 @@
         "last_game": "2024.11.06",
         "BOT": false
     },
+    "Brunetticus": {
+        "rating": 2019.5480557566868,
+        "games": 103,
+        "last_game": "2024.11.07",
+        "BOT": false
+    },
     "LeelaQueenOdds as white 10+5 (Reference)": {
         "rating": 2010.9392869678304,
         "games": 0,
@@ -100,12 +106,6 @@
         "games": 0,
         "last_game": null,
         "BOT": true
-    },
-    "Brunetticus": {
-        "rating": 1954.9939915097866,
-        "games": 89,
-        "last_game": "2024.11.06",
-        "BOT": false
     },
     "LeelaQueenOdds as black 15+10 (Reference)": {
         "rating": 1905.2075391319004,
@@ -137,12 +137,6 @@
         "last_game": "2024.06.26",
         "BOT": false
     },
-    "OptimumPrime": {
-        "rating": 1809.5643428125697,
-        "games": 136,
-        "last_game": "2024.11.05",
-        "BOT": false
-    },
     "baki1989": {
         "rating": 1809.3150777347903,
         "games": 28,
@@ -156,14 +150,20 @@
         "BOT": false
     },
     "W3Z2fv4o6ipbnak8u7": {
-        "rating": 1801.3813433078546,
-        "games": 291,
+        "rating": 1785.6833576771548,
+        "games": 296,
         "last_game": "2024.11.07",
         "BOT": false
     },
     "BvAR2": {
-        "rating": 1764.478149562884,
-        "games": 3012,
+        "rating": 1785.4798271414315,
+        "games": 3015,
+        "last_game": "2024.11.07",
+        "BOT": false
+    },
+    "OptimumPrime": {
+        "rating": 1781.842466210716,
+        "games": 154,
         "last_game": "2024.11.07",
         "BOT": false
     },
@@ -171,6 +171,12 @@
         "rating": 1743.0505556955188,
         "games": 54,
         "last_game": "2024.06.18",
+        "BOT": false
+    },
+    "UndercoverTactician": {
+        "rating": 1740.0210927241492,
+        "games": 6,
+        "last_game": "2024.11.07",
         "BOT": false
     },
     "Hissha": {
@@ -185,16 +191,16 @@
         "last_game": "2024.11.03",
         "BOT": false
     },
+    "spanik": {
+        "rating": 1731.0334088984807,
+        "games": 64,
+        "last_game": "2024.11.07",
+        "BOT": false
+    },
     "HUNTERBABA": {
         "rating": 1726.3435908370416,
         "games": 30,
         "last_game": "2024.10.16",
-        "BOT": false
-    },
-    "spanik": {
-        "rating": 1721.518908186053,
-        "games": 62,
-        "last_game": "2024.11.07",
         "BOT": false
     },
     "sandals": {
@@ -207,12 +213,6 @@
         "rating": 1704.847756045641,
         "games": 20,
         "last_game": "2024.10.23",
-        "BOT": false
-    },
-    "UndercoverTactician": {
-        "rating": 1702.8611724740456,
-        "games": 5,
-        "last_game": "2024.11.07",
         "BOT": false
     },
     "edwardw21": {
@@ -303,6 +303,12 @@
         "rating": 1639.057962051076,
         "games": 2,
         "last_game": "2024.11.06",
+        "BOT": false
+    },
+    "dikkebertha": {
+        "rating": 1638.211389192067,
+        "games": 1,
+        "last_game": "2024.11.07",
         "BOT": false
     },
     "T-Ramisu": {
@@ -4645,10 +4651,53 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730989571022,
+        "date": 1731002871440,
         "malus_date": 1730847600000.0,
         "prevlinks": [
-            "pXMDqbP7"
+            "Hph2OI4n",
+            "oACaWjdG",
+            "bJwuQ4Xb",
+            "O8cqkcAv",
+            "FMQcLK8i",
+            "NSjQIj6H",
+            "c7CGCMde",
+            "ouiM6aCm",
+            "D0hHuJlJ",
+            "vDbqpma5",
+            "WIAYDJri",
+            "GFkYcioS",
+            "pUj1FWaa",
+            "EggGooF1",
+            "cYSGlLKS",
+            "4NxITQLR",
+            "MrmPyMxF",
+            "pydOoGCI",
+            "QguIh9ss",
+            "Ua1kXKvD",
+            "t4tGXdkD",
+            "ysicGpZG",
+            "L3fv2FUG",
+            "wu4oylKk",
+            "gQedF2mi",
+            "GAOplK0d",
+            "cAQR8g8M",
+            "R95FW2n4",
+            "ts1GRd8S",
+            "wofehWxs",
+            "eAMydk0T",
+            "FN715IGg",
+            "CQcEwqHM",
+            "Al5dxm9O",
+            "Eagyrgl0",
+            "1aGjRlIe",
+            "zagsL8qA",
+            "hYqsZN9A",
+            "O6CsvuOg",
+            "SLAVvntt",
+            "UKbl6ULc",
+            "ohly0o6W",
+            "SAj6z5SW",
+            "fR8Xc1jt"
         ],
         "BOT": true
     }
