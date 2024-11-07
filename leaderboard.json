@@ -234,8 +234,8 @@
         "BOT": false
     },
     "UndercoverTactician": {
-        "rating": 1670.486726763375,
-        "games": 2,
+        "rating": 1668.1007333316516,
+        "games": 3,
         "last_game": "2024.11.07",
         "BOT": false
     },
@@ -4645,12 +4645,10 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1730988614190,
+        "date": 1730989015353,
         "malus_date": 1730847600000.0,
         "prevlinks": [
-            "AJyEwR3t",
-            "VvoXzvCF",
-            "79UavsQ9"
+            "M7AE4JIG"
         ],
         "BOT": true
     }
