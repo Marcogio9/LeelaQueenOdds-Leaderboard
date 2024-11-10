@@ -57,15 +57,27 @@ while game != None:
     game = chess.pgn.read_game(fi)
 
 
+elo_tresh = [datetime.strptime('2024.11.01', "%Y.%m.%d").timestamp()*1000,
+             datetime.strptime('2024.11.11', "%Y.%m.%d").timestamp()*1000]
+
+
 for game in games[-1::-1]:
     bar.update(1)
-
+    
+    t = datetime.strptime(game.headers['UTCDate'], "%Y.%m.%d").timestamp()*1000
+    
+    if t < elo_tresh[0]:
+        leela_elo = 1950
+    elif t < elo_tresh[1]:
+        leela_elo = 2100
+    else:
+        leela_elo = 2250
+    
     if game.headers['Black'] == 'LeelaQueenOdds':
         player_color = 'White'
-        leela_elo = 1900
+        leela_elo -= 50
     else:
         player_color = 'Black'
-        leela_elo = 1950
     
     player = game.headers[player_color]
     if player not in lead.keys():
@@ -112,7 +124,7 @@ lead['metadata'] = {
 
 time_control = ['1+0', '1+1', '3+0', '3+2', '5+3', '10+5', '15+10']
 
-baseline = 2150
+baseline = 2250
 
 for tc in time_control:
     t, inc = tc.split('+')
