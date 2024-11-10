@@ -99,19 +99,31 @@ def update(lead, since, until):
     
     if len(games) == 0:
         return lead
-
+    
+    elo_tresh = [datetime.strptime('2024.11.01', "%Y.%m.%d").timestamp()*1000,
+                 datetime.strptime('2024.11.11', "%Y.%m.%d").timestamp()*1000]
+    
     for game in games[-1::-1]:
         
         print(game)
         
         lead['metadata']['prevlinks'].append(game.headers['Site'].split('/')[-1])
-
-        if game.headers['Black'] == 'LeelaQueenOdds':
-            player_color = 'White'
+        
+        t = datetime.strptime(game.headers['UTCDate'], "%Y.%m.%d").timestamp()*1000
+        
+        if t < elo_tresh[0]:
+            leela_elo = 1950
+        elif t < elo_tresh[1]:
             leela_elo = 2100
         else:
+            leela_elo = 2250
+
+        
+        if game.headers['Black'] == 'LeelaQueenOdds':
+            player_color = 'White'
+            leela_elo -= 50
+        else:
             player_color = 'Black'
-            leela_elo = 2150
         
         player = game.headers[player_color]
         if player not in lead.keys():
@@ -169,6 +181,13 @@ while 1:
        
     print('-'*80)
     time.sleep(180)
+
+
+
+
+
+
+
 
 
 
