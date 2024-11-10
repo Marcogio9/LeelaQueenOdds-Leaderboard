@@ -37,6 +37,7 @@
                 <th>N<sup>o</sup></th>
                 <th>Player</th>
                 <th>Rating</th>
+                <th>Games</th>
             </tr>
         </thead>
         <tbody></tbody>
@@ -64,14 +65,17 @@
                         const posCell = document.createElement("td");
                         const nomeCell = document.createElement("td");
                         const ratingCell = document.createElement("td");
+                        const ngames = document.createElement("td");
 
                         if (info.BOT) {
                             // Giocatore BOT: cella posizione vuota e riga con sfondo fucsia chiaro
                             posCell.textContent = "";
+                            ngames.textContent = "";
                             row.classList.add("bot-row"); // Aggiungi classe per BOT
                         } else {
                             // Giocatore normale: mostra la posizione e incrementa
                             posCell.textContent = pos;
+                            ngames.textContent = info.games;
                             pos++; // Incrementa posizione solo per i giocatori non-BOT
                         }
 
@@ -81,6 +85,7 @@
                         row.appendChild(posCell);
                         row.appendChild(nomeCell);
                         row.appendChild(ratingCell);
+                        row.appendChild(ngames);
                         tbody.appendChild(row);
                     });
             } catch (error) {
