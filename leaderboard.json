@@ -1,42 +1,12 @@
 {
     "LeelaQueenOdds as white 1+0 (Reference)": {
-        "rating": 2511.848315666685,
+        "rating": 2361.848315666685,
         "games": 0,
         "last_game": null,
         "BOT": true
     },
     "LeelaQueenOdds as black 1+0 (Reference)": {
-        "rating": 2461.848315666685,
-        "games": 0,
-        "last_game": null,
-        "BOT": true
-    },
-    "LeelaQueenOdds as white 1+1 (Reference)": {
-        "rating": 2361.045577253242,
-        "games": 0,
-        "last_game": null,
-        "BOT": true
-    },
-    "LeelaQueenOdds as white 3+0 (Reference)": {
-        "rating": 2347.0564723664684,
-        "games": 0,
-        "last_game": null,
-        "BOT": true
-    },
-    "LeelaQueenOdds as black 1+1 (Reference)": {
-        "rating": 2311.045577253242,
-        "games": 0,
-        "last_game": null,
-        "BOT": true
-    },
-    "LeelaQueenOdds as black 3+0 (Reference)": {
-        "rating": 2297.0564723664684,
-        "games": 0,
-        "last_game": null,
-        "BOT": true
-    },
-    "LeelaQueenOdds as white 3+2 (Reference)": {
-        "rating": 2249.5588676718235,
+        "rating": 2311.848315666685,
         "games": 0,
         "last_game": null,
         "BOT": true
@@ -47,20 +17,26 @@
         "last_game": "2024.11.10",
         "BOT": false
     },
-    "LeelaQueenOdds as black 3+2 (Reference)": {
-        "rating": 2199.5588676718235,
+    "LeelaQueenOdds as white 1+1 (Reference)": {
+        "rating": 2211.045577253242,
         "games": 0,
         "last_game": null,
         "BOT": true
     },
-    "LeelaQueenOdds as white 5+3 (Reference)": {
-        "rating": 2191.444273680713,
+    "LeelaQueenOdds as white 3+0 (Reference)": {
+        "rating": 2197.0564723664684,
         "games": 0,
         "last_game": null,
         "BOT": true
     },
-    "LeelaQueenOdds as black 5+3 (Reference)": {
-        "rating": 2141.444273680713,
+    "LeelaQueenOdds as black 1+1 (Reference)": {
+        "rating": 2161.045577253242,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "LeelaQueenOdds as black 3+0 (Reference)": {
+        "rating": 2147.0564723664684,
         "games": 0,
         "last_game": null,
         "BOT": true
@@ -71,56 +47,86 @@
         "last_game": "2024.11.04",
         "BOT": false
     },
-    "LeelaQueenOdds as white 10+5 (Reference)": {
-        "rating": 2110.9392869678304,
-        "games": 0,
-        "last_game": null,
-        "BOT": true
-    },
-    "KentGoulding": {
-        "rating": 2102.776039285755,
-        "games": 226,
-        "last_game": "2024.11.10",
+    "uriblass": {
+        "rating": 2122.2580034370803,
+        "games": 48,
+        "last_game": "2024.11.11",
         "BOT": false
     },
-    "uriblass": {
-        "rating": 2071.204074831535,
-        "games": 43,
-        "last_game": "2024.11.09",
+    "KentGoulding": {
+        "rating": 2101.0288797835406,
+        "games": 227,
+        "last_game": "2024.11.10",
         "BOT": false
     },
     "Brunetticus": {
-        "rating": 2069.5669386632103,
-        "games": 220,
-        "last_game": "2024.11.10",
+        "rating": 2100.01862118101,
+        "games": 244,
+        "last_game": "2024.11.11",
         "BOT": false
     },
-    "LeelaQueenOdds as black 10+5 (Reference)": {
-        "rating": 2060.9392869678304,
-        "games": 0,
-        "last_game": null,
-        "BOT": true
-    },
-    "LeelaQueenOdds as white 15+10 (Reference)": {
-        "rating": 2055.2075391319004,
+    "LeelaQueenOdds as white 3+2 (Reference)": {
+        "rating": 2099.5588676718235,
         "games": 0,
         "last_game": null,
         "BOT": true
     },
     "Ajktulm": {
-        "rating": 2044.1718062968525,
-        "games": 78,
+        "rating": 2069.9935844260804,
+        "games": 82,
         "last_game": "2024.11.10",
         "BOT": false
     },
     "Hissha": {
-        "rating": 2008.97479311604,
-        "games": 50,
-        "last_game": "2024.11.10",
+        "rating": 2057.1462795890866,
+        "games": 54,
+        "last_game": "2024.11.11",
         "BOT": false
     },
-    "LeelaQueenOdds as black 15+10 (Reference)": {
-        "rating": 2005.2075391319004,
+    "LeelaQueenOdds as black 3+2 (Reference)": {
+        "rating": 2049.5588676718235,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "LeelaQueenOdds as white 5+3 (Reference)": {
+        "rating": 2041.4442736807132,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "LeelaQueenOdds as black 5+3 (Reference)": {
+        "rating": 1991.4442736807132,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "Punypawn315": {
+        "rating": 1961.9758575225617,
+        "games": 19,
+        "last_game": "2024.11.11",
+        "BOT": false
+    },
+    "LeelaQueenOdds as white 10+5 (Reference)": {
+        "rating": 1960.9392869678304,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "Clydevil": {
+        "rating": 1914.14400206241,
+        "games": 331,
+        "last_game": "2024.11.11",
+        "BOT": false
+    },
+    "LeelaQueenOdds as black 10+5 (Reference)": {
+        "rating": 1910.9392869678304,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
+    },
+    "LeelaQueenOdds as white 15+10 (Reference)": {
+        "rating": 1905.2075391319004,
         "games": 0,
         "last_game": null,
         "BOT": true
@@ -131,17 +137,17 @@
         "last_game": "2024.11.09",
         "BOT": false
     },
-    "Clydevil": {
-        "rating": 1871.2932714511428,
-        "games": 327,
-        "last_game": "2024.11.10",
-        "BOT": false
-    },
     "Traag": {
         "rating": 1863.7276894759057,
         "games": 385,
         "last_game": "2024.10.12",
         "BOT": false
+    },
+    "LeelaQueenOdds as black 15+10 (Reference)": {
+        "rating": 1855.2075391319004,
+        "games": 0,
+        "last_game": null,
+        "BOT": true
     },
     "ltvr": {
         "rating": 1846.656919059411,
@@ -167,22 +173,28 @@
         "last_game": "2024.08.05",
         "BOT": false
     },
+    "BvAR2": {
+        "rating": 1796.5145636609848,
+        "games": 3063,
+        "last_game": "2024.11.11",
+        "BOT": false
+    },
     "rxxbxxn": {
         "rating": 1779.1125411198336,
         "games": 16,
         "last_game": "2024.11.10",
         "BOT": false
     },
-    "BvAR2": {
-        "rating": 1763.843219943328,
-        "games": 3047,
-        "last_game": "2024.11.10",
+    "W3Z2fv4o6ipbnak8u7": {
+        "rating": 1757.7176196257456,
+        "games": 355,
+        "last_game": "2024.11.11",
         "BOT": false
     },
     "Plonetheus": {
-        "rating": 1750.7890298637792,
-        "games": 19,
-        "last_game": "2024.11.09",
+        "rating": 1752.4347872369988,
+        "games": 23,
+        "last_game": "2024.11.10",
         "BOT": false
     },
     "CaleaspreVictorie": {
@@ -191,16 +203,16 @@
         "last_game": "2024.06.18",
         "BOT": false
     },
-    "W3Z2fv4o6ipbnak8u7": {
-        "rating": 1741.8035633599998,
-        "games": 344,
-        "last_game": "2024.11.10",
-        "BOT": false
-    },
     "UndercoverTactician": {
         "rating": 1734.4524454558268,
         "games": 6,
         "last_game": "2024.11.07",
+        "BOT": false
+    },
+    "OptimumPrime": {
+        "rating": 1729.714892412138,
+        "games": 163,
+        "last_game": "2024.11.11",
         "BOT": false
     },
     "AsheliaXII": {
@@ -218,12 +230,6 @@
     "thunder_swift": {
         "rating": 1720.5216242181868,
         "games": 10,
-        "last_game": "2024.11.08",
-        "BOT": false
-    },
-    "OptimumPrime": {
-        "rating": 1713.6942546448224,
-        "games": 162,
         "last_game": "2024.11.08",
         "BOT": false
     },
@@ -329,6 +335,18 @@
         "last_game": "2024.11.01",
         "BOT": false
     },
+    "Leek_Wars": {
+        "rating": 1651.4946434758324,
+        "games": 89,
+        "last_game": "2024.11.10",
+        "BOT": false
+    },
+    "ilovejersey": {
+        "rating": 1648.4589325769723,
+        "games": 8,
+        "last_game": "2024.11.11",
+        "BOT": false
+    },
     "Kamel_ohne_Hoecker": {
         "rating": 1648.3550707428656,
         "games": 4,
@@ -351,12 +369,6 @@
         "rating": 1642.385351370127,
         "games": 16,
         "last_game": "2024.11.07",
-        "BOT": false
-    },
-    "ilovejersey": {
-        "rating": 1642.2504970683967,
-        "games": 3,
-        "last_game": "2024.11.09",
         "BOT": false
     },
     "TurTurm": {
@@ -389,6 +401,12 @@
         "last_game": "2024.11.10",
         "BOT": false
     },
+    "ScheveningenSea": {
+        "rating": 1637.8652656477568,
+        "games": 1,
+        "last_game": "2024.11.10",
+        "BOT": false
+    },
     "dikkebertha": {
         "rating": 1637.6498974110298,
         "games": 1,
@@ -407,10 +425,28 @@
         "last_game": "2024.11.10",
         "BOT": false
     },
+    "Nigulasizs": {
+        "rating": 1637.0790887074165,
+        "games": 1,
+        "last_game": "2024.11.11",
+        "BOT": false
+    },
+    "RU_B9": {
+        "rating": 1636.8034054939983,
+        "games": 1,
+        "last_game": "2024.11.11",
+        "BOT": false
+    },
     "Najdorf_Is_The_Best": {
         "rating": 1636.1975105390395,
         "games": 3,
         "last_game": "2024.11.09",
+        "BOT": false
+    },
+    "UnstoppableNoob24": {
+        "rating": 1636.1975105390395,
+        "games": 1,
+        "last_game": "2024.11.10",
         "BOT": false
     },
     "vdbergh": {
@@ -423,12 +459,6 @@
         "rating": 1634.5918030705088,
         "games": 2,
         "last_game": "2024.11.09",
-        "BOT": false
-    },
-    "Leek_Wars": {
-        "rating": 1634.3939732463489,
-        "games": 47,
-        "last_game": "2024.11.10",
         "BOT": false
     },
     "nikodem0": {
@@ -635,12 +665,6 @@
         "last_game": "2024.10.27",
         "BOT": false
     },
-    "EvgeniyZh": {
-        "rating": 1607.6430493587873,
-        "games": 5,
-        "last_game": "2024.11.10",
-        "BOT": false
-    },
     "aggressivemolerat122": {
         "rating": 1607.4918477299966,
         "games": 3,
@@ -717,6 +741,12 @@
         "rating": 1602.0228273781893,
         "games": 1,
         "last_game": "2024.10.20",
+        "BOT": false
+    },
+    "EvgeniyZh": {
+        "rating": 1601.6073145508599,
+        "games": 7,
+        "last_game": "2024.11.11",
         "BOT": false
     },
     "Kanapkozerca": {
@@ -4795,7 +4825,7 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1731263554983,
+        "date": 1731317665504,
         "malus_date": 1730847600000.0,
         "prevlinks": [
             "zbUUjYdR",
@@ -6313,7 +6343,153 @@
             "O736oS1Z",
             "6YxYLxqL",
             "oPx4qY78",
-            "5OLapnzd"
+            "5OLapnzd",
+            "FfuYtM1C",
+            "m7DSb0W7",
+            "cchalVz7",
+            "x26vrqVj",
+            "PorAsZBG",
+            "SBPGDZqQ",
+            "8m7o1dBv",
+            "DhwlF6cx",
+            "DxbzENSb",
+            "LwViNXRB",
+            "XbGuoSQo",
+            "wr94o0NN",
+            "71ML31rO",
+            "paTz89uW",
+            "wR2bWKCf",
+            "fk56Z53K",
+            "hBL2pOLp",
+            "yyIA3yhC",
+            "Y0c5fQ1q",
+            "KaPvuUy5",
+            "klzFOo5T",
+            "BLJM8ciz",
+            "Sn5Fcgs4",
+            "t7nZlnJs",
+            "myVojE9G",
+            "aSQA6hXN",
+            "kWCMIZUD",
+            "rgFApZNP",
+            "TDHqwwD7",
+            "eWC11u4i",
+            "f83JPQ2a",
+            "zYYdetnP",
+            "Q29JvLu6",
+            "gp8UvTDR",
+            "FmgJICAU",
+            "HuGaAMdp",
+            "urV78t8D",
+            "4Q6he1uI",
+            "vnr9K9lu",
+            "hvDWLTD0",
+            "AHGT6tLo",
+            "7oTGw9qO",
+            "m6Asn0Ss",
+            "MrGs4PnY",
+            "orJE50iF",
+            "U07xWxTJ",
+            "3uQ0LsyK",
+            "6e0wclfQ",
+            "pEAX4sxs",
+            "dG3xCWtg",
+            "oKD605zN",
+            "IEwkGV3a",
+            "LJne5OKF",
+            "SB6Zg7pg",
+            "Z4Kd3zf1",
+            "1L9e2qad",
+            "o6nyNlDm",
+            "aLn5HMdu",
+            "9JwCYU5J",
+            "LV8aj4KY",
+            "oCKOdqdY",
+            "JReD6ROh",
+            "NdWLcMrH",
+            "s8NpqgN7",
+            "Wwf9sqf9",
+            "fMLMQO62",
+            "2dD8bDdy",
+            "qaTN87yr",
+            "K6AkmARg",
+            "MJQoN10K",
+            "IVVOmBd5",
+            "OvWrRbUM",
+            "0pYgk1QO",
+            "zmpp483H",
+            "614F1lVy",
+            "VZEq1dUk",
+            "n496ubVQ",
+            "pRNGa8WB",
+            "6jEqTshK",
+            "JyrtoATx",
+            "7MoP7E2G",
+            "wELYACG1",
+            "Rij43nUn",
+            "lJO7drfG",
+            "jWvZ4tJ0",
+            "4JEE8Yp1",
+            "EXWoexf5",
+            "pSeeouL0",
+            "P2PJy99B",
+            "DjbO5Fg1",
+            "xcAA3XLa",
+            "gWbknUAz",
+            "tXp13wml",
+            "LxWFSgGV",
+            "6h6jA04s",
+            "U2VVe5wA",
+            "81GBk570",
+            "Kxz7iOTv",
+            "R2zZvVS3",
+            "1Re12MXG",
+            "o2dTu5t6",
+            "9ZjnFc3o",
+            "c8Avvw1A",
+            "OjLCP40y",
+            "Pk4Ay7eL",
+            "a1L0VRtx",
+            "3dWBC0JA",
+            "WD2lezgE",
+            "t4uCbFVE",
+            "TYGN2HmT",
+            "dELmPs76",
+            "zhbIonXs",
+            "vdb9IcHU",
+            "thVnOOyk",
+            "VVbInMom",
+            "cqpPO248",
+            "vpGaOfXM",
+            "5bCKSx9t",
+            "bOe3y3sy",
+            "9YuHTcxQ",
+            "AvDgmzcA",
+            "SsepmAYO",
+            "opPKbc9m",
+            "DNNWsaM7",
+            "3aFuE03B",
+            "TYoiiCSe",
+            "TWOnW2o5",
+            "YRypEQsR",
+            "8QeebVkf",
+            "oxyfOxgW",
+            "ekZeV1Xl",
+            "KrgUMgJt",
+            "oiDnndZT",
+            "so0pYeQs",
+            "n8rqK87O",
+            "9A00Lb2A",
+            "QD0nWRtP",
+            "cicMLwYA",
+            "9V4BAMbw",
+            "qDNYTdxb",
+            "B2LVDH3g",
+            "wWT5W40a",
+            "JVnh8N9i",
+            "5P3xoF6E",
+            "zb2n0zjK",
+            "j0rxtRal"
         ],
         "BOT": true
     }
