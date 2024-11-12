@@ -71,12 +71,6 @@
         "last_game": null,
         "BOT": true
     },
-    "uriblass": {
-        "rating": 2133.880965814367,
-        "games": 62,
-        "last_game": "2024.11.12",
-        "BOT": false
-    },
     "Catecan": {
         "rating": 2133.0438252245435,
         "games": 272,
@@ -95,9 +89,9 @@
         "last_game": null,
         "BOT": true
     },
-    "Ajktulm": {
-        "rating": 2084.597793050797,
-        "games": 143,
+    "uriblass": {
+        "rating": 2092.228696636929,
+        "games": 69,
         "last_game": "2024.11.12",
         "BOT": false
     },
@@ -107,9 +101,15 @@
         "last_game": "2024.11.12",
         "BOT": false
     },
+    "Ajktulm": {
+        "rating": 2068.7313445315085,
+        "games": 161,
+        "last_game": "2024.11.12",
+        "BOT": false
+    },
     "Brunetticus": {
-        "rating": 2066.3276548844797,
-        "games": 271,
+        "rating": 2060.731331036621,
+        "games": 274,
         "last_game": "2024.11.12",
         "BOT": false
     },
@@ -132,14 +132,14 @@
         "BOT": false
     },
     "Clydevil": {
-        "rating": 1926.675945519738,
-        "games": 336,
-        "last_game": "2024.11.11",
+        "rating": 1916.6441151349018,
+        "games": 339,
+        "last_game": "2024.11.12",
         "BOT": false
     },
     "BvAR2": {
-        "rating": 1923.096115010687,
-        "games": 3156,
+        "rating": 1891.6194362445744,
+        "games": 3163,
         "last_game": "2024.11.12",
         "BOT": false
     },
@@ -599,6 +599,12 @@
         "last_game": "2024.11.10",
         "BOT": false
     },
+    "skarmory2": {
+        "rating": 1618.6432414230028,
+        "games": 159,
+        "last_game": "2024.11.12",
+        "BOT": false
+    },
     "Za4ess": {
         "rating": 1617.5677976996512,
         "games": 5,
@@ -684,8 +690,8 @@
         "BOT": false
     },
     "ChessMarcogio": {
-        "rating": 1609.356976509133,
-        "games": 55,
+        "rating": 1609.2467208593366,
+        "games": 56,
         "last_game": "2024.11.12",
         "BOT": false
     },
@@ -4283,12 +4289,6 @@
         "last_game": "2024.09.27",
         "BOT": false
     },
-    "skarmory2": {
-        "rating": 1600,
-        "games": 158,
-        "last_game": "2024.11.01",
-        "BOT": false
-    },
     "seIneedYou": {
         "rating": 1600,
         "games": 1,
@@ -4453,7 +4453,7 @@
     },
     "Noah13": {
         "rating": 1600,
-        "games": 24,
+        "games": 25,
         "last_game": "2024.11.12",
         "BOT": false
     },
@@ -4837,7 +4837,7 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1731439734523,
+        "date": 1731447750493,
         "malus_date": 1730847600000.0,
         "prevlinks": [
             "dh6wahew",
@@ -4918,7 +4918,48 @@
             "Z4sSdE3g",
             "7EiWhTLJ",
             "bWDfFJNS",
-            "xoVlR7SU"
+            "xoVlR7SU",
+            "sp6trJa0",
+            "nDdY3axU",
+            "E88o2adS",
+            "SJ8w2u61",
+            "sKqn9ZCM",
+            "BWUXQrCk",
+            "Gtn1QRSR",
+            "nBx7n1Z2",
+            "d8scxv70",
+            "iw5cFD2W",
+            "wDPLD6Ba",
+            "YBIOTLAU",
+            "SyvJjBRK",
+            "Wyny98bz",
+            "P9zGGXMu",
+            "APi4Ichc",
+            "sUu76Np6",
+            "aXXiTlnz",
+            "p6ZlbQWB",
+            "esQRXuDQ",
+            "WRlVQtVA",
+            "VsIqLSlx",
+            "6rBs269f",
+            "TQXEbRrt",
+            "0R7CqCIw",
+            "bXTVCso7",
+            "1jGEFbPp",
+            "ZK7ZiZxA",
+            "9Vz81Cex",
+            "Q9VcpBLY",
+            "5omVnhVZ",
+            "fStnTgu3",
+            "GtUvFLfv",
+            "nbQlEMZA",
+            "7WJU3bNw",
+            "MEuxMZaO",
+            "cr8toORA",
+            "ZPm28by5",
+            "8Rf2mfIl",
+            "gxft7UuK",
+            "xTERi2zT"
         ],
         "BOT": true
     }
