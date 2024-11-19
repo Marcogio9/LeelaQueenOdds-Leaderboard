@@ -37,12 +37,19 @@ def get_games(username, since, until):
 def escore(elo): # expected score
     return 1/(1+10**(elo/400))
 
-def adjust(timecontrol):
+def adjust1(timecontrol):
     time, inc = timecontrol.split('+')
     time = int(time)
     inc = int(inc)
     
     return 150*math.log(time + math.log(inc+1)*150)-876
+
+def adjust2(timecontrol):
+    time, inc = timecontrol.split('+')
+    time = int(time)
+    inc = int(inc)
+    
+    return 500*math.log(50 + time + math.log(inc+2)*250)-3178
 
 def k_tresh(games):
     tresh = [20, 100]
@@ -101,7 +108,7 @@ def update(lead, since, until):
         return lead
     
     elo_tresh = [datetime.strptime('2024.11.01', "%Y.%m.%d").timestamp()*1000,
-                 datetime.strptime('2024.11.11', "%Y.%m.%d").timestamp()*1000]
+                 datetime.strptime('2024.11.12', "%Y.%m.%d").timestamp()*1000]
     
     for game in games[-1::-1]:
         
@@ -113,15 +120,17 @@ def update(lead, since, until):
         
         if t < elo_tresh[0]:
             leela_elo = 1950
+            adjust = adjust1
         elif t < elo_tresh[1]:
             leela_elo = 2100
+            adjust = adjust1
         else:
-            leela_elo = 2250
-
+            leela_elo = 2450
+            adjust = adjust2
         
         if game.headers['Black'] == 'LeelaQueenOdds':
             player_color = 'White'
-            leela_elo -= 50
+            leela_elo -= 100
         else:
             player_color = 'Black'
         
@@ -132,6 +141,10 @@ def update(lead, since, until):
                 'games': 0,
                 'last_game': None,
                 'BOT': False}
+            if int(game.headers[player_color + 'Elo']) > 2000:
+                lead[player]['rating'] = 1800
+            elif int(game.headers[player_color + 'Elo']) > 1800:
+                lead[player]['rating'] = int(game.headers[player_color + 'Elo']) - 200
         
         r = s[game.headers['Result']]
         if player_color == 'White':
@@ -181,10 +194,6 @@ while 1:
        
     print('-'*80)
     time.sleep(180)
-
-
-
-
 
 
 
