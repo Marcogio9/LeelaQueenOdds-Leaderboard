@@ -11,12 +11,19 @@ bar = tqdm.tqdm(10)
 def escore(elo): # expected score
     return 1/(1+10**(elo/400))
 
-def adjust(timecontrol):
+def adjust1(timecontrol):
     time, inc = timecontrol.split('+')
     time = int(time)
     inc = int(inc)
     
     return 150*math.log(time + math.log(inc+1)*150)-876
+
+def adjust2(timecontrol):
+    time, inc = timecontrol.split('+')
+    time = int(time)
+    inc = int(inc)
+    
+    return 500*math.log(50 + time + math.log(inc+2)*250)-3178
 
 def k_tresh(games):
     tresh = [20, 100]
@@ -42,7 +49,7 @@ malus_date = 1400000000 # for inactivity malus
 
 K = 40
 
-fi = open('lichess_LeelaQueenOdds_2024-10-31.pgn', 'r')
+fi = open('lichess_LeelaQueenOdds_2024-11-18.pgn', 'r')
 
 game = chess.pgn.read_game(fi)
 
@@ -58,7 +65,7 @@ while game != None:
 
 
 elo_tresh = [datetime.strptime('2024.11.01', "%Y.%m.%d").timestamp()*1000,
-             datetime.strptime('2024.11.11', "%Y.%m.%d").timestamp()*1000]
+             datetime.strptime('2024.11.12', "%Y.%m.%d").timestamp()*1000]
 
 
 for game in games[-1::-1]:
@@ -68,14 +75,17 @@ for game in games[-1::-1]:
     
     if t < elo_tresh[0]:
         leela_elo = 1950
+        adjust = adjust1
     elif t < elo_tresh[1]:
         leela_elo = 2100
+        adjust = adjust1
     else:
-        leela_elo = 2250
+        leela_elo = 2450
+        adjust = adjust2
     
     if game.headers['Black'] == 'LeelaQueenOdds':
         player_color = 'White'
-        leela_elo -= 50
+        leela_elo -= 100
     else:
         player_color = 'Black'
     
@@ -86,6 +96,10 @@ for game in games[-1::-1]:
             'games': 0,
             'last_game': None,
             'BOT': False}
+        if int(game.headers[player_color + 'Elo']) > 2000:
+            lead[player]['rating'] = 1800
+        elif int(game.headers[player_color + 'Elo']) > 1800:
+            lead[player]['rating'] = int(game.headers[player_color + 'Elo']) - 200
     
     r = s[game.headers['Result']]
     if player_color == 'White':
@@ -112,7 +126,7 @@ for game in games[-1::-1]:
     
 lead['metadata'] = {
     'rating': 0,
-    'date': int(datetime(2024, 11, 1).timestamp()*1000),
+    'date': int(datetime(2024, 11, 19).timestamp()*1000),
     'malus_date': malus_date,
     'prevlinks': [],
     'BOT': True}
@@ -124,18 +138,18 @@ lead['metadata'] = {
 
 time_control = ['1+0', '1+1', '3+0', '3+2', '5+3', '10+5', '15+10']
 
-baseline = 2250
+baseline = 2450
 
 for tc in time_control:
     t, inc = tc.split('+')
     lead['LeelaQueenOdds as white ' + tc + ' (Reference)'] = {
-        'rating': baseline - adjust(str(int(t)*60)+'+'+inc),
+        'rating': baseline - adjust2(str(int(t)*60)+'+'+inc),
         'games': 0,
         'last_game': None,
         'BOT': True}
     
     lead['LeelaQueenOdds as black ' + tc + ' (Reference)'] = {
-        'rating': baseline - adjust(str(int(t)*60)+'+'+inc) - 50,
+        'rating': baseline - adjust2(str(int(t)*60)+'+'+inc) - 100,
         'games': 0,
         'last_game': None,
         'BOT': True}
