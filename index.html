@@ -11,6 +11,9 @@
     <meta http-equiv="pragma" content="no-cache">
 
     <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
         table {
             width: 50%;
             margin: 20px auto;
@@ -27,10 +30,63 @@
         .bot-row {
             background-color: #ffccff; /* Sfondo fucsia chiaro per i BOT */
         }
+        .notes {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            width: 20%;
+            background-color: #f9f9f9;
+            border: 1px solid #ccc;
+            padding: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .notes h3 {
+            margin-top: 0;
+            font-size: 1.2em;
+        }
+        .notes ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .notes li {
+            margin-bottom: 8px;
+            font-size: 0.9em;
+        }
     </style>
 </head>
 <body>
     <h2 style="text-align: center;">LeelaQueenOdds Leaderboard - Top 100</h2>
+    
+    <!-- Lista note laterale -->
+<div class="notes">
+    <h3>About this Leaderboard</h3>
+    <ul>
+        <li><strong>How do I earn points?</strong> You can gain or lose points only by playing <a href="https://lichess.org/@/LeelaQueenOdds/all" target="_blank">LeelaQueenOdds</a></li>
+
+        <li><strong>How is the rating computed?</strong> It's based on the same method as the <a href="https://ratings.fide.com/calculator_rtd.phtml" target="_blank">FIDE rating adjustment</a>, using:
+            <ul>
+                <li>K = 40 for the first 30 games</li>
+                <li>K = 20 up to 150 games</li>
+                <li>K = 10 for subsequent games</li>
+            </ul>
+        </li>
+
+        <li><strong>Play at your best Time Control:</strong> This leaderboard adjusts ratings based on Time Control</li>
+
+        <li><strong>How is Leela's rating computed?</strong> A statistical model based on LeelaQueenOdds games normalizes Lichess blitz ratings and time control with the score expected by Elo</li>
+
+        <li><strong>Play for the Win:</strong> Draws have the 'K' factor halved</li>
+
+        <li><strong>Starting rating:</strong> Lichess rating - 200, with a maximum starting rating of 1800</li>
+
+        <li><strong>Update:</strong> In these early stages, the leaderboard is updated occasionally but daily</li>
+
+        <li><strong>Github:</strong> <a href="https://github.com/Marcogio9/LeelaQueenOdds-Leaderboard" target="_blank">https://github.com/Marcogio9/LeelaQueenOdds-Leaderboard</a></li>
+    </ul>
+</div>
+
+
     <table id="classifica">
         <thead>
             <tr>
@@ -59,7 +115,7 @@
                 // Itera sui giocatori ordinati per rating decrescente
                 Object.entries(dati)
                     .sort((a, b) => b[1].rating - a[1].rating)
-                    .slice(0, 114) // Limita alla top 100
+                    .slice(0, 100) // Limita alla top 100
                     .forEach(([nome, info]) => {
                         const row = document.createElement("tr");
                         const posCell = document.createElement("td");
@@ -80,7 +136,7 @@
                         }
 
                         nomeCell.textContent = nome;
-                        ratingCell.textContent = info.rating.toFixed(1); // Limita a 2 decimali
+                        ratingCell.textContent = info.rating.toFixed(1); // Limita a 1 decimale
 
                         row.appendChild(posCell);
                         row.appendChild(nomeCell);
