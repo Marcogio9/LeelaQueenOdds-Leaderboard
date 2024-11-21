@@ -35,20 +35,26 @@
         "last_game": null,
         "BOT": true
     },
+    "Master_Unknown": {
+        "rating": 2463.286475847753,
+        "games": 38,
+        "last_game": "2024.11.17",
+        "BOT": false
+    },
     "LeelaQueenOdds as white 3+2 (Reference)": {
         "rating": 2450.0,
         "games": 0,
         "last_game": null,
         "BOT": true
     },
-    "Master_Unknown": {
-        "rating": 2434.348467804344,
-        "games": 38,
-        "last_game": "2024.11.17",
+    "Omnivor": {
+        "rating": 2395.939174951623,
+        "games": 29,
+        "last_game": "2024.11.20",
         "BOT": false
     },
-    "Omnivor": {
-        "rating": 2362.2055390334435,
+    "Orichess88": {
+        "rating": 2384.1209619900383,
         "games": 29,
         "last_game": "2024.11.20",
         "BOT": false
@@ -65,9 +71,9 @@
         "last_game": null,
         "BOT": true
     },
-    "Orichess88": {
-        "rating": 2329.4445586775673,
-        "games": 29,
+    "Respectful_Dave": {
+        "rating": 2256.8853166641084,
+        "games": 68,
         "last_game": "2024.11.20",
         "BOT": false
     },
@@ -77,12 +83,6 @@
         "last_game": null,
         "BOT": true
     },
-    "Respectful_Dave": {
-        "rating": 2237.375552801015,
-        "games": 68,
-        "last_game": "2024.11.20",
-        "BOT": false
-    },
     "LeelaQueenOdds as white 10+5 (Reference)": {
         "rating": 2220.253598229309,
         "games": 0,
@@ -90,25 +90,25 @@
         "BOT": true
     },
     "Ajktulm": {
-        "rating": 2199.298688502995,
+        "rating": 2198.948203889163,
         "games": 195,
         "last_game": "2024.11.18",
         "BOT": false
     },
     "uriblass": {
-        "rating": 2193.2090971096027,
+        "rating": 2193.8369301396183,
         "games": 136,
         "last_game": "2024.11.21",
         "BOT": false
     },
     "Catecan": {
-        "rating": 2157.506906555958,
+        "rating": 2157.546655223936,
         "games": 372,
         "last_game": "2024.11.21",
         "BOT": false
     },
     "TheLlamaLord": {
-        "rating": 2155.853450851481,
+        "rating": 2153.690471917098,
         "games": 22,
         "last_game": "2024.11.16",
         "BOT": false
@@ -120,14 +120,26 @@
         "BOT": false
     },
     "Forgive1219": {
-        "rating": 2147.174823537921,
+        "rating": 2144.2486107811505,
         "games": 90,
         "last_game": "2024.11.21",
         "BOT": false
     },
     "AxelBoldt": {
-        "rating": 2131.164401837704,
+        "rating": 2143.708767682425,
         "games": 80,
+        "last_game": "2024.11.20",
+        "BOT": false
+    },
+    "mapascual": {
+        "rating": 2140.2790854724385,
+        "games": 42,
+        "last_game": "2024.11.20",
+        "BOT": false
+    },
+    "Jagen": {
+        "rating": 2134.49926597093,
+        "games": 56,
         "last_game": "2024.11.20",
         "BOT": false
     },
@@ -143,20 +155,14 @@
         "last_game": null,
         "BOT": true
     },
-    "Jagen": {
-        "rating": 2091.9396265563582,
+    "Hissha": {
+        "rating": 2119.4267738910007,
         "games": 56,
         "last_game": "2024.11.20",
         "BOT": false
     },
-    "mapascual": {
-        "rating": 2081.603804410976,
-        "games": 42,
-        "last_game": "2024.11.20",
-        "BOT": false
-    },
     "Brunetticus": {
-        "rating": 2070.0820328141,
+        "rating": 2070.2094893388216,
         "games": 434,
         "last_game": "2024.11.20",
         "BOT": false
@@ -167,9 +173,9 @@
         "last_game": "2024.11.11",
         "BOT": false
     },
-    "Hissha": {
-        "rating": 2042.287862311102,
-        "games": 56,
+    "iWannaSeeYouSmile": {
+        "rating": 2058.525995308139,
+        "games": 38,
         "last_game": "2024.11.20",
         "BOT": false
     },
@@ -177,6 +183,18 @@
         "rating": 2035.2004734597065,
         "games": 18,
         "last_game": "2024.11.20",
+        "BOT": false
+    },
+    "Superhond": {
+        "rating": 2032.358427081849,
+        "games": 30,
+        "last_game": "2024.11.20",
+        "BOT": false
+    },
+    "box_boxed": {
+        "rating": 2029.857231129459,
+        "games": 28,
+        "last_game": "2024.11.21",
         "BOT": false
     },
     "LeelaQueenOdds as black 15+10 (Reference)": {
@@ -192,26 +210,20 @@
         "BOT": false
     },
     "KentGoulding": {
-        "rating": 2024.211979513757,
+        "rating": 2024.262156377977,
         "games": 263,
         "last_game": "2024.11.20",
         "BOT": false
     },
-    "iWannaSeeYouSmile": {
-        "rating": 2013.4925887259774,
-        "games": 38,
-        "last_game": "2024.11.20",
-        "BOT": false
-    },
-    "box_boxed": {
-        "rating": 2005.4397713453275,
-        "games": 28,
+    "RhinoTank": {
+        "rating": 2002.372019537466,
+        "games": 33,
         "last_game": "2024.11.21",
         "BOT": false
     },
-    "Superhond": {
-        "rating": 1991.0704166317996,
-        "games": 30,
+    "vital303": {
+        "rating": 1988.5032654918716,
+        "games": 62,
         "last_game": "2024.11.20",
         "BOT": false
     },
@@ -221,22 +233,16 @@
         "last_game": "2024.11.21",
         "BOT": false
     },
+    "raftsiam": {
+        "rating": 1988.0135868419118,
+        "games": 41,
+        "last_game": "2024.11.20",
+        "BOT": false
+    },
     "susiedent": {
         "rating": 1971.5754383772492,
         "games": 14,
         "last_game": "2024.11.16",
-        "BOT": false
-    },
-    "vital303": {
-        "rating": 1961.1857244878051,
-        "games": 62,
-        "last_game": "2024.11.20",
-        "BOT": false
-    },
-    "RhinoTank": {
-        "rating": 1960.1003025414332,
-        "games": 33,
-        "last_game": "2024.11.21",
         "BOT": false
     },
     "SerbianPigeon": {
@@ -245,16 +251,16 @@
         "last_game": "2024.11.19",
         "BOT": false
     },
-    "raftsiam": {
-        "rating": 1954.607643844689,
-        "games": 41,
-        "last_game": "2024.11.20",
-        "BOT": false
-    },
     "SilverMitt": {
         "rating": 1947.5337463219098,
         "games": 13,
         "last_game": "2024.11.19",
+        "BOT": false
+    },
+    "desperado64": {
+        "rating": 1940.0160846722822,
+        "games": 41,
+        "last_game": "2024.11.16",
         "BOT": false
     },
     "OjaiJoao": {
@@ -270,33 +276,45 @@
         "BOT": false
     },
     "Liouville1": {
-        "rating": 1923.1892294872787,
+        "rating": 1937.3393196230618,
         "games": 25,
         "last_game": "2024.11.18",
         "BOT": false
     },
-    "xHadyx": {
-        "rating": 1922.5144517764384,
-        "games": 40,
-        "last_game": "2024.11.21",
-        "BOT": false
-    },
-    "desperado64": {
-        "rating": 1920.4693489984584,
-        "games": 41,
-        "last_game": "2024.11.16",
-        "BOT": false
-    },
     "PedalExtremities": {
-        "rating": 1917.1826947624968,
+        "rating": 1929.9203491330898,
         "games": 125,
         "last_game": "2024.11.20",
         "BOT": false
     },
+    "j_h_n": {
+        "rating": 1929.1912919156352,
+        "games": 63,
+        "last_game": "2024.11.21",
+        "BOT": false
+    },
     "wael96": {
-        "rating": 1910.2360211416562,
+        "rating": 1928.9384941015014,
         "games": 25,
         "last_game": "2024.11.20",
+        "BOT": false
+    },
+    "xHadyx": {
+        "rating": 1925.4528240209077,
+        "games": 40,
+        "last_game": "2024.11.21",
+        "BOT": false
+    },
+    "fuyukara": {
+        "rating": 1916.4490961354554,
+        "games": 26,
+        "last_game": "2024.11.21",
+        "BOT": false
+    },
+    "Rawnsdale": {
+        "rating": 1909.0382437441112,
+        "games": 25,
+        "last_game": "2024.11.16",
         "BOT": false
     },
     "MrGaye": {
@@ -323,16 +341,16 @@
         "last_game": "2024.11.19",
         "BOT": false
     },
-    "Rawnsdale": {
-        "rating": 1884.392937763074,
-        "games": 25,
-        "last_game": "2024.11.16",
+    "lookingforyuri": {
+        "rating": 1886.2138455866498,
+        "games": 43,
+        "last_game": "2024.11.19",
         "BOT": false
     },
-    "j_h_n": {
-        "rating": 1883.49562738269,
-        "games": 61,
-        "last_game": "2024.11.21",
+    "ericfromlux": {
+        "rating": 1885.760166194086,
+        "games": 105,
+        "last_game": "2024.11.20",
         "BOT": false
     },
     "Nechto37": {
@@ -371,22 +389,22 @@
         "last_game": "2024.11.15",
         "BOT": false
     },
-    "ericfromlux": {
-        "rating": 1874.859720046358,
-        "games": 105,
-        "last_game": "2024.11.20",
-        "BOT": false
-    },
     "TheFullFlavour": {
         "rating": 1873.5526703957742,
         "games": 20,
         "last_game": "2024.11.20",
         "BOT": false
     },
-    "lookingforyuri": {
-        "rating": 1872.0585872168122,
-        "games": 43,
-        "last_game": "2024.11.19",
+    "EvilNalu": {
+        "rating": 1870.457164905514,
+        "games": 51,
+        "last_game": "2024.11.18",
+        "BOT": false
+    },
+    "rxxbxxn": {
+        "rating": 1869.5152844179895,
+        "games": 86,
+        "last_game": "2024.11.21",
         "BOT": false
     },
     "ycw77092": {
@@ -407,10 +425,10 @@
         "last_game": "2024.11.19",
         "BOT": false
     },
-    "rxxbxxn": {
-        "rating": 1861.8080480060064,
-        "games": 85,
-        "last_game": "2024.11.21",
+    "Larsenupin": {
+        "rating": 1859.717047102759,
+        "games": 28,
+        "last_game": "2024.11.19",
         "BOT": false
     },
     "almoks": {
@@ -419,21 +437,9 @@
         "last_game": "2024.11.20",
         "BOT": false
     },
-    "EvilNalu": {
-        "rating": 1855.2152570140581,
-        "games": 51,
-        "last_game": "2024.11.18",
-        "BOT": false
-    },
-    "Larsenupin": {
-        "rating": 1854.429140204125,
+    "weirdexperiment": {
+        "rating": 1852.6132652489637,
         "games": 28,
-        "last_game": "2024.11.19",
-        "BOT": false
-    },
-    "fuyukara": {
-        "rating": 1850.2079944476914,
-        "games": 26,
         "last_game": "2024.11.21",
         "BOT": false
     },
@@ -459,6 +465,12 @@
         "rating": 1847.2475119910807,
         "games": 10,
         "last_game": "2024.11.18",
+        "BOT": false
+    },
+    "ltvr": {
+        "rating": 1847.1163869964566,
+        "games": 93,
+        "last_game": "2024.06.26",
         "BOT": false
     },
     "NeverCoisini": {
@@ -498,7 +510,7 @@
         "BOT": false
     },
     "Clydevil": {
-        "rating": 1839.0367841164991,
+        "rating": 1839.0364520421633,
         "games": 371,
         "last_game": "2024.11.20",
         "BOT": false
@@ -543,12 +555,6 @@
         "rating": 1829.8703980343284,
         "games": 1,
         "last_game": "2024.11.19",
-        "BOT": false
-    },
-    "ltvr": {
-        "rating": 1829.723167954413,
-        "games": 93,
-        "last_game": "2024.06.26",
         "BOT": false
     },
     "Bathilda_Bagshot": {
@@ -629,6 +635,12 @@
         "last_game": "2024.11.16",
         "BOT": false
     },
+    "nebulosastella": {
+        "rating": 1825.9506437684392,
+        "games": 22,
+        "last_game": "2024.11.18",
+        "BOT": false
+    },
     "Glaukon": {
         "rating": 1825.9114724198812,
         "games": 1,
@@ -677,33 +689,33 @@
         "last_game": "2024.11.19",
         "BOT": false
     },
-    "LiGolem": {
-        "rating": 1822.184956018544,
-        "games": 39,
-        "last_game": "2024.11.13",
-        "BOT": false
-    },
-    "elatedjuvenile": {
-        "rating": 1821.418158510176,
-        "games": 53,
-        "last_game": "2024.11.19",
-        "BOT": false
-    },
     "penztaroslorinc": {
         "rating": 1820.3596441012046,
         "games": 3,
         "last_game": "2024.11.16",
         "BOT": false
     },
-    "weirdexperiment": {
-        "rating": 1819.7364217503537,
-        "games": 28,
-        "last_game": "2024.11.21",
+    "Pneosis": {
+        "rating": 1819.3809113988914,
+        "games": 31,
+        "last_game": "2024.11.20",
+        "BOT": false
+    },
+    "LiGolem": {
+        "rating": 1818.3518394189912,
+        "games": 39,
+        "last_game": "2024.11.13",
         "BOT": false
     },
     "TreacherousFiend": {
         "rating": 1817.1775417953502,
         "games": 9,
+        "last_game": "2024.11.19",
+        "BOT": false
+    },
+    "elatedjuvenile": {
+        "rating": 1816.6459755278424,
+        "games": 53,
         "last_game": "2024.11.19",
         "BOT": false
     },
@@ -767,12 +779,6 @@
         "last_game": "2024.11.20",
         "BOT": false
     },
-    "nebulosastella": {
-        "rating": 1808.605572259998,
-        "games": 22,
-        "last_game": "2024.11.18",
-        "BOT": false
-    },
     "AdmiralHabibi": {
         "rating": 1808.0977312756136,
         "games": 2,
@@ -803,6 +809,12 @@
         "last_game": "2024.11.17",
         "BOT": false
     },
+    "CaleaspreVictorie": {
+        "rating": 1805.11399464585,
+        "games": 55,
+        "last_game": "2024.11.13",
+        "BOT": false
+    },
     "Maj_Zeitnot": {
         "rating": 1804.7927290249977,
         "games": 1,
@@ -815,16 +827,16 @@
         "last_game": "2024.11.09",
         "BOT": false
     },
+    "HUNTERBABA": {
+        "rating": 1802.6713564584143,
+        "games": 30,
+        "last_game": "2024.10.16",
+        "BOT": false
+    },
     "yuzuMi": {
         "rating": 1802.0069805056098,
         "games": 3,
         "last_game": "2024.11.01",
-        "BOT": false
-    },
-    "Pneosis": {
-        "rating": 1801.120704852046,
-        "games": 31,
-        "last_game": "2024.11.20",
         "BOT": false
     },
     "ChaiChai1": {
@@ -855,6 +867,12 @@
         "rating": 1797.4793154280133,
         "games": 4,
         "last_game": "2024.11.19",
+        "BOT": false
+    },
+    "eknotiak": {
+        "rating": 1797.2637382842784,
+        "games": 1,
+        "last_game": "2024.11.21",
         "BOT": false
     },
     "drakpete": {
@@ -1253,16 +1271,10 @@
         "last_game": "2024.10.15",
         "BOT": false
     },
-    "HUNTERBABA": {
-        "rating": 1764.5247869189827,
-        "games": 30,
-        "last_game": "2024.10.16",
-        "BOT": false
-    },
-    "CaleaspreVictorie": {
-        "rating": 1764.0199248831625,
-        "games": 55,
-        "last_game": "2024.11.13",
+    "baki1989": {
+        "rating": 1763.9926636636653,
+        "games": 29,
+        "last_game": "2024.11.08",
         "BOT": false
     },
     "ThePhenomenalOne_777": {
@@ -1319,22 +1331,10 @@
         "last_game": "2024.10.08",
         "BOT": false
     },
-    "WanderingWinder": {
-        "rating": 1755.8540328821189,
-        "games": 50,
-        "last_game": "2024.11.20",
-        "BOT": false
-    },
     "Kesavar": {
         "rating": 1755.0241094779942,
         "games": 2,
         "last_game": "2024.09.29",
-        "BOT": false
-    },
-    "baki1989": {
-        "rating": 1754.8430141694892,
-        "games": 29,
-        "last_game": "2024.11.08",
         "BOT": false
     },
     "BerserkEnthusiast": {
@@ -1367,6 +1367,24 @@
         "last_game": "2024.09.29",
         "BOT": false
     },
+    "Plonetheus": {
+        "rating": 1750.723045697083,
+        "games": 93,
+        "last_game": "2024.11.20",
+        "BOT": false
+    },
+    "joekool": {
+        "rating": 1749.6826486338862,
+        "games": 73,
+        "last_game": "2024.11.21",
+        "BOT": false
+    },
+    "WanderingWinder": {
+        "rating": 1749.5493076988257,
+        "games": 50,
+        "last_game": "2024.11.20",
+        "BOT": false
+    },
     "KashyapAlva": {
         "rating": 1749.532971337391,
         "games": 1,
@@ -1391,21 +1409,15 @@
         "last_game": "2024.09.23",
         "BOT": false
     },
-    "GhostDragonLTD": {
-        "rating": 1745.9001413576639,
-        "games": 59,
-        "last_game": "2024.11.20",
-        "BOT": false
-    },
     "luccha1234": {
         "rating": 1745.6400579916235,
         "games": 9,
         "last_game": "2024.11.20",
         "BOT": false
     },
-    "Plonetheus": {
-        "rating": 1744.391463999406,
-        "games": 93,
+    "GhostDragonLTD": {
+        "rating": 1745.6328855919683,
+        "games": 59,
         "last_game": "2024.11.20",
         "BOT": false
     },
@@ -1443,12 +1455,6 @@
         "rating": 1741.5517423681968,
         "games": 1,
         "last_game": "2024.10.26",
-        "BOT": false
-    },
-    "joekool": {
-        "rating": 1740.4832059269943,
-        "games": 73,
-        "last_game": "2024.11.21",
         "BOT": false
     },
     "luke678": {
@@ -1524,7 +1530,7 @@
         "BOT": false
     },
     "Zqf5502l": {
-        "rating": 1728.685856823543,
+        "rating": 1728.6986695404278,
         "games": 282,
         "last_game": "2024.08.05",
         "BOT": false
@@ -1539,12 +1545,6 @@
         "rating": 1726.590830123874,
         "games": 1,
         "last_game": "2024.09.09",
-        "BOT": false
-    },
-    "RankedAnxiety": {
-        "rating": 1726.3616406235126,
-        "games": 35,
-        "last_game": "2024.11.20",
         "BOT": false
     },
     "Exemplary_Player": {
@@ -1613,6 +1613,12 @@
         "last_game": "2024.11.20",
         "BOT": false
     },
+    "RankedAnxiety": {
+        "rating": 1715.0721311295838,
+        "games": 35,
+        "last_game": "2024.11.20",
+        "BOT": false
+    },
     "dms20": {
         "rating": 1713.313175735801,
         "games": 8,
@@ -1641,6 +1647,12 @@
         "rating": 1708.3187163470343,
         "games": 5,
         "last_game": "2024.11.16",
+        "BOT": false
+    },
+    "BerusetAnd": {
+        "rating": 1707.7275180094184,
+        "games": 29,
+        "last_game": "2024.11.19",
         "BOT": false
     },
     "corvusmellori": {
@@ -1685,12 +1697,6 @@
         "last_game": "2024.08.29",
         "BOT": false
     },
-    "millsmess3": {
-        "rating": 1699.5475891856634,
-        "games": 26,
-        "last_game": "2024.11.13",
-        "BOT": false
-    },
     "MagNiels_Carlsen": {
         "rating": 1698.690190434553,
         "games": 11,
@@ -1733,12 +1739,6 @@
         "last_game": "2024.11.08",
         "BOT": false
     },
-    "BerusetAnd": {
-        "rating": 1692.7178945386938,
-        "games": 29,
-        "last_game": "2024.11.19",
-        "BOT": false
-    },
     "davikrehalt": {
         "rating": 1692.148245882113,
         "games": 56,
@@ -1749,6 +1749,18 @@
         "rating": 1691.2342859180947,
         "games": 1,
         "last_game": "2024.10.11",
+        "BOT": false
+    },
+    "millsmess3": {
+        "rating": 1691.0295127094635,
+        "games": 26,
+        "last_game": "2024.11.13",
+        "BOT": false
+    },
+    "iamqueenup": {
+        "rating": 1690.421122305013,
+        "games": 48,
+        "last_game": "2024.04.05",
         "BOT": false
     },
     "Not_A_Proplayer": {
@@ -1788,7 +1800,7 @@
         "BOT": false
     },
     "werdo72": {
-        "rating": 1679.642692240372,
+        "rating": 1680.2238826015525,
         "games": 73,
         "last_game": "2024.11.20",
         "BOT": false
@@ -1805,8 +1817,14 @@
         "last_game": "2024.11.20",
         "BOT": false
     },
+    "Ocean-Madness": {
+        "rating": 1677.930870751266,
+        "games": 23,
+        "last_game": "2024.05.05",
+        "BOT": false
+    },
     "OptimumPrime": {
-        "rating": 1677.450418627573,
+        "rating": 1676.9392117541713,
         "games": 201,
         "last_game": "2024.11.20",
         "BOT": false
@@ -1821,6 +1839,12 @@
         "rating": 1671.2040717647458,
         "games": 11,
         "last_game": "2024.11.17",
+        "BOT": false
+    },
+    "nderaj": {
+        "rating": 1670.7114027895811,
+        "games": 129,
+        "last_game": "2024.11.20",
         "BOT": false
     },
     "avpix": {
@@ -1860,7 +1884,7 @@
         "BOT": false
     },
     "xyxcxyxc": {
-        "rating": 1664.7620554281057,
+        "rating": 1663.9063083064607,
         "games": 22,
         "last_game": "2024.11.19",
         "BOT": false
@@ -1895,12 +1919,6 @@
         "last_game": "2024.11.17",
         "BOT": false
     },
-    "nderaj": {
-        "rating": 1657.9184590555224,
-        "games": 129,
-        "last_game": "2024.11.20",
-        "BOT": false
-    },
     "padrepro": {
         "rating": 1656.100798182582,
         "games": 7,
@@ -1917,6 +1935,12 @@
         "rating": 1655.169386545684,
         "games": 1,
         "last_game": "2024.07.28",
+        "BOT": false
+    },
+    "haih": {
+        "rating": 1654.888809672671,
+        "games": 89,
+        "last_game": "2024.04.20",
         "BOT": false
     },
     "ZenithLevelChess": {
@@ -1973,28 +1997,10 @@
         "last_game": "2024.07.19",
         "BOT": false
     },
-    "iamqueenup": {
-        "rating": 1650.5516890322554,
-        "games": 48,
-        "last_game": "2024.04.05",
-        "BOT": false
-    },
-    "haih": {
-        "rating": 1648.4199776236885,
-        "games": 89,
-        "last_game": "2024.04.20",
-        "BOT": false
-    },
     "P1XEL5": {
         "rating": 1647.694314465933,
         "games": 3,
         "last_game": "2024.07.15",
-        "BOT": false
-    },
-    "Ocean-Madness": {
-        "rating": 1646.1674850682193,
-        "games": 23,
-        "last_game": "2024.05.05",
         "BOT": false
     },
     "ishanLegendsXD": {
@@ -2147,28 +2153,22 @@
         "last_game": "2024.07.15",
         "BOT": false
     },
-    "roosed": {
-        "rating": 1626.4790392209384,
-        "games": 18,
-        "last_game": "2024.11.21",
-        "BOT": false
-    },
     "Chenlh": {
         "rating": 1624.607882856956,
         "games": 2,
         "last_game": "2024.11.19",
         "BOT": false
     },
+    "roosed": {
+        "rating": 1624.3590522149289,
+        "games": 19,
+        "last_game": "2024.11.21",
+        "BOT": false
+    },
     "TitanYuri": {
         "rating": 1623.9547585438745,
         "games": 1,
         "last_game": "2024.10.24",
-        "BOT": false
-    },
-    "emouret": {
-        "rating": 1623.9534419738297,
-        "games": 40,
-        "last_game": "2024.04.10",
         "BOT": false
     },
     "beautiful_berries": {
@@ -2183,6 +2183,12 @@
         "last_game": "2024.07.04",
         "BOT": false
     },
+    "alexjmendelsohn": {
+        "rating": 1621.7418322895396,
+        "games": 68,
+        "last_game": "2024.11.18",
+        "BOT": false
+    },
     "Thisisnobody": {
         "rating": 1618.8749188683942,
         "games": 11,
@@ -2193,6 +2199,12 @@
         "rating": 1618.715567415866,
         "games": 19,
         "last_game": "2024.11.20",
+        "BOT": false
+    },
+    "emouret": {
+        "rating": 1618.346720742756,
+        "games": 40,
+        "last_game": "2024.04.10",
         "BOT": false
     },
     "skrubboi64": {
@@ -2261,12 +2273,6 @@
         "last_game": "2024.09.22",
         "BOT": false
     },
-    "marco32456": {
-        "rating": 1611.1891791445066,
-        "games": 45,
-        "last_game": "2024.11.20",
-        "BOT": false
-    },
     "Narvexx": {
         "rating": 1609.742209464578,
         "games": 1,
@@ -2315,6 +2321,18 @@
         "last_game": "2024.11.16",
         "BOT": false
     },
+    "marco32456": {
+        "rating": 1606.6600574821555,
+        "games": 45,
+        "last_game": "2024.11.20",
+        "BOT": false
+    },
+    "arashXarcher": {
+        "rating": 1606.3876446015247,
+        "games": 98,
+        "last_game": "2024.11.21",
+        "BOT": false
+    },
     "V3Cor": {
         "rating": 1605.8854680075935,
         "games": 3,
@@ -2333,12 +2351,6 @@
         "last_game": "2024.11.04",
         "BOT": false
     },
-    "alexjmendelsohn": {
-        "rating": 1604.2660798554232,
-        "games": 68,
-        "last_game": "2024.11.18",
-        "BOT": false
-    },
     "Entharex": {
         "rating": 1604.2022145302487,
         "games": 2,
@@ -2349,12 +2361,6 @@
         "rating": 1604.0037502788223,
         "games": 3,
         "last_game": "2024.07.07",
-        "BOT": false
-    },
-    "arashXarcher": {
-        "rating": 1603.8564537130326,
-        "games": 98,
-        "last_game": "2024.11.21",
         "BOT": false
     },
     "MarN74": {
@@ -6289,7 +6295,7 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1732184113993,
+        "date": 1732185158461,
         "malus_date": 1732057200000.0,
         "prevlinks": [
             "sy26hZ3c",
@@ -8434,7 +8440,12 @@
             "SQH8ZRxA",
             "LDud3Oro",
             "suzHC6pq",
-            "MTEhGlu8"
+            "yo8xOWWd",
+            "MTEhGlu8",
+            "rO7IKlO5",
+            "8h2t1W02",
+            "phUHJ6bM",
+            "B3aT6qtC"
         ],
         "BOT": true
     }
