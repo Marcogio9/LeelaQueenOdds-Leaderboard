@@ -42,17 +42,46 @@ def adjust1(timecontrol):
     time = int(time)
     inc = int(inc)
     
-    return 150*math.log(time + math.log(inc+1)*150)-876
+    b1 = 150
+    b2 = 150
+    
+    normalized_32 = math.log(180 + math.log(1 + 2)*b1)*b2
+    
+    return math.log(time + math.log(1 + inc)*b1)*b2 - normalized_32
 
-def adjust2(timecontrol):
+def model1(timecontrol):
     time, inc = timecontrol.split('+')
     time = int(time)
     inc = int(inc)
     
-    return 500*math.log(50 + time + math.log(inc+2)*250)-3178
+    b1 = 158
+    b2 = 251
+    #a = -120
+    #c = 0
+    
+    normalized_32 = math.log(180 + math.log(1 + 2)*b1)*b2
+    
+    return math.log(time + math.log(1 + inc)*b1)*b2 - normalized_32
+
+def model2(timecontrol):
+    time, inc = timecontrol.split('+')
+    time = int(time)
+    inc = int(inc)
+    
+    b1 = 406
+    b2 = 390
+    #a = -179
+    #c = -16
+    ba = 45
+    
+    normalized_32 = math.log(ba + 180 + math.log(2 + 2)*b1)*b2
+    
+    return math.log(ba + time + math.log(2 + inc)*b1)*b2 - normalized_32
+
+adjust2 = model1
 
 def k_tresh(games):
-    tresh = [20, 100]
+    tresh = [30, 150]
     K = [40, 20, 10]
     for i in range(len(tresh)):
         if games > tresh[i]:
@@ -153,6 +182,8 @@ def update(lead, since, until):
         leela_elo -= adjust(game.headers['TimeControl'])
         
         K = k_tresh(lead[player]['games'])
+        if r == 0.5: K = K/2 # Halving 'K' for Draws
+        
         adj = (r - escore(leela_elo - lead[player]['rating'])) * K
         
         lead[player]['rating'] += adj
@@ -194,8 +225,6 @@ while 1:
        
     print('-'*80)
     time.sleep(180)
-
-
 
 
 
