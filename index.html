@@ -115,7 +115,7 @@
                 // Itera sui giocatori ordinati per rating decrescente
                 Object.entries(dati)
                     .sort((a, b) => b[1].rating - a[1].rating)
-                    .slice(0, 100) // Limita alla top 100
+                    .slice(0, 114) // Limita alla top 100
                     .forEach(([nome, info]) => {
                         const row = document.createElement("tr");
                         const posCell = document.createElement("td");
