@@ -42,8 +42,8 @@
         "BOT": true
     },
     "Orichess88": {
-        "rating": 2462.0969173995163,
-        "games": 36,
+        "rating": 2481.7460129544406,
+        "games": 41,
         "last_game": "2024.11.25",
         "BOT": false
     },
@@ -78,8 +78,8 @@
         "BOT": true
     },
     "Catecan": {
-        "rating": 2333.95673040335,
-        "games": 1020,
+        "rating": 2331.895623857051,
+        "games": 1030,
         "last_game": "2024.11.25",
         "BOT": false
     },
@@ -131,15 +131,21 @@
         "last_game": "2024.11.23",
         "BOT": false
     },
+    "uriblass": {
+        "rating": 2170.6584195767896,
+        "games": 151,
+        "last_game": "2024.11.25",
+        "BOT": false
+    },
     "lyxsgdzt": {
         "rating": 2164.924736955786,
         "games": 63,
         "last_game": "2024.11.25",
         "BOT": false
     },
-    "uriblass": {
-        "rating": 2164.4117045016255,
-        "games": 150,
+    "nn1133": {
+        "rating": 2158.8213816305442,
+        "games": 6175,
         "last_game": "2024.11.25",
         "BOT": false
     },
@@ -147,12 +153,6 @@
         "rating": 2153.690471917098,
         "games": 22,
         "last_game": "2024.11.16",
-        "BOT": false
-    },
-    "nn1133": {
-        "rating": 2152.2697785077544,
-        "games": 6167,
-        "last_game": "2024.11.14",
         "BOT": false
     },
     "mapascual": {
@@ -179,16 +179,16 @@
         "last_game": null,
         "BOT": true
     },
+    "edgebottle": {
+        "rating": 2110.7268906208806,
+        "games": 89,
+        "last_game": "2024.11.25",
+        "BOT": false
+    },
     "Forgive1219": {
         "rating": 2103.538911495341,
         "games": 167,
         "last_game": "2024.11.24",
-        "BOT": false
-    },
-    "edgebottle": {
-        "rating": 2098.3450523782253,
-        "games": 68,
-        "last_game": "2024.11.23",
         "BOT": false
     },
     "Brunetticus": {
@@ -612,9 +612,9 @@
         "BOT": false
     },
     "Xlsmd": {
-        "rating": 1852.151083345187,
-        "games": 34,
-        "last_game": "2024.11.24",
+        "rating": 1851.9321478101997,
+        "games": 35,
+        "last_game": "2024.11.25",
         "BOT": false
     },
     "darkhorse_98": {
@@ -1043,16 +1043,16 @@
         "last_game": "2024.11.20",
         "BOT": false
     },
-    "jerry2whynot": {
-        "rating": 1819.2218238493142,
-        "games": 31,
-        "last_game": "2024.11.25",
-        "BOT": false
-    },
     "LiGolem": {
         "rating": 1818.3518394189912,
         "games": 39,
         "last_game": "2024.11.13",
+        "BOT": false
+    },
+    "jerry2whynot": {
+        "rating": 1818.322129729788,
+        "games": 32,
+        "last_game": "2024.11.25",
         "BOT": false
     },
     "elatedjuvenile": {
@@ -1185,12 +1185,6 @@
         "rating": 1805.4000282245674,
         "games": 430,
         "last_game": "2024.11.23",
-        "BOT": false
-    },
-    "Clydevil": {
-        "rating": 1805.298976825804,
-        "games": 387,
-        "last_game": "2024.11.25",
         "BOT": false
     },
     "CaleaspreVictorie": {
@@ -1347,6 +1341,12 @@
         "rating": 1797.7419092603366,
         "games": 1,
         "last_game": "2024.11.04",
+        "BOT": false
+    },
+    "Clydevil": {
+        "rating": 1797.714747340534,
+        "games": 391,
+        "last_game": "2024.11.25",
         "BOT": false
     },
     "FciWally": {
@@ -2075,12 +2075,6 @@
         "last_game": "2024.10.15",
         "BOT": false
     },
-    "joekool": {
-        "rating": 1734.0844405983494,
-        "games": 115,
-        "last_game": "2024.11.25",
-        "BOT": false
-    },
     "Stockblunder": {
         "rating": 1733.7975403723356,
         "games": 13,
@@ -2091,6 +2085,12 @@
         "rating": 1732.7592506890917,
         "games": 3,
         "last_game": "2024.11.05",
+        "BOT": false
+    },
+    "joekool": {
+        "rating": 1732.4888521447103,
+        "games": 117,
+        "last_game": "2024.11.25",
         "BOT": false
     },
     "Nightking02": {
@@ -2351,6 +2351,12 @@
         "last_game": "2024.11.13",
         "BOT": false
     },
+    "rchenbq": {
+        "rating": 1690.655528535846,
+        "games": 15,
+        "last_game": "2024.11.25",
+        "BOT": false
+    },
     "iamqueenup": {
         "rating": 1690.421122305013,
         "games": 48,
@@ -2553,12 +2559,6 @@
         "rating": 1659.6897155041568,
         "games": 21,
         "last_game": "2024.11.23",
-        "BOT": false
-    },
-    "rchenbq": {
-        "rating": 1658.5716992501345,
-        "games": 12,
-        "last_game": "2024.11.25",
         "BOT": false
     },
     "DavidMoscoe": {
@@ -3023,18 +3023,6 @@
         "last_game": "2024.11.24",
         "BOT": false
     },
-    "marco32456": {
-        "rating": 1608.7846898187515,
-        "games": 161,
-        "last_game": "2024.11.25",
-        "BOT": false
-    },
-    "Dhoom721": {
-        "rating": 1608.6540605278558,
-        "games": 6,
-        "last_game": "2024.11.25",
-        "BOT": false
-    },
     "vdbergh": {
         "rating": 1608.3267850552497,
         "games": 2,
@@ -3129,6 +3117,18 @@
         "rating": 1604.0037502788223,
         "games": 3,
         "last_game": "2024.07.07",
+        "BOT": false
+    },
+    "marco32456": {
+        "rating": 1603.855136783635,
+        "games": 194,
+        "last_game": "2024.11.25",
+        "BOT": false
+    },
+    "Dhoom721": {
+        "rating": 1603.5626366254396,
+        "games": 14,
+        "last_game": "2024.11.25",
         "BOT": false
     },
     "exy5J": {
@@ -7409,113 +7409,116 @@
         "last_game": "2024.11.25",
         "BOT": false
     },
+    "RamonCuerda": {
+        "rating": 1600,
+        "games": 2,
+        "last_game": "2024.11.25",
+        "BOT": false
+    },
     "metadata": {
         "rating": 0,
-        "date": 1732550222912,
+        "date": 1732561225349,
         "malus_date": 1732057200000.0,
         "prevlinks": [
-            "2E6Q6Epi",
-            "WR8M0uix",
-            "8I8A5HnW",
-            "BcRlDQKO",
-            "sDZU49r2",
-            "uJbnjK9Z",
-            "BQj0nEPn",
-            "TXncJqIU",
-            "Ce1t2gEj",
-            "41Co378H",
-            "Z4YQAPpI",
-            "b2VLWlhs",
-            "m1Iwupgt",
-            "jdsSaXNv",
-            "Vf79XgxA",
-            "lohMM4Ir",
-            "57YwKRDb",
-            "VyV1WAZ1",
-            "GBrSGBOg",
-            "kqpJBHar",
-            "D786WazC",
-            "1HR7W7fq",
-            "93N8RQOf",
-            "5vNJpDkH",
-            "CuvG6h6B",
-            "MgyvSvei",
-            "lSE6FCb7",
-            "4ZNEQFqV",
-            "pmNJQKuV",
-            "HWbPKCZj",
-            "3IPVSOJw",
-            "bCGKOZW2",
-            "aSeRFIZC",
-            "NwidFvF5",
-            "irEjgKaO",
-            "Ua7UlpTf",
-            "4kzV7LhR",
-            "Pz71esf3",
-            "OB9ru2RW",
-            "8Xb1BV1C",
-            "oVoPy818",
-            "2vraob1R",
-            "cpaZY9dF",
-            "7lISLuyl",
-            "iSSlQKRI",
-            "xykcnRUh",
-            "fBJskYCn",
-            "XPEe4QHr",
-            "DkRdccjV",
-            "pUV9crdd",
-            "cHZnYGzy",
-            "l8NFzi4z",
-            "Dpr1xQXB",
-            "wd25YgDb",
-            "7qx4lFlI",
-            "80LCfRaz",
-            "pc7kb1nR",
-            "pY8eXZcn",
-            "erFiiZc2",
-            "lIfCx8YX",
-            "JdUY9uCv",
-            "T78opJgn",
-            "AaI6i1ps",
-            "RGxwuKKS",
-            "XpY1vq4z",
-            "YqsGaDrb",
-            "gYWRgEFd",
-            "2J1bOhcV",
-            "B6qlFxof",
-            "WcvhSjuT",
-            "WmfKcbtD",
-            "v5627x0l",
-            "ppyvLlTr",
-            "EYn60RHV",
-            "HG0fwmLd",
-            "3edVaVoV",
-            "dbjgm41f",
-            "k5pQwhWk",
-            "moP8qVyr",
-            "9OnNpcdI",
-            "i1DmB7oL",
-            "MxxGz2bX",
-            "g2aF4zW1",
-            "belMYPnw",
-            "eAE1abkg",
-            "bzglYkCz",
-            "TXNq6COW",
-            "kOelIrAC",
-            "KQbet40Q",
-            "f2wlYkR7",
-            "TW1v4c1w",
-            "SFgNoHQC",
-            "bryAER5h",
-            "9cETil8z",
-            "5ZrRQb1N",
-            "ZP9YRBnX",
-            "5K1DDZ6M",
-            "QP83DJtv",
-            "mToQpMxE",
-            "xWLlBdaU",
-            "gsnqVjy3",
-            "5D8zX8JC"
+            "F7P6m10T",
+            "DrPBQAeJ",
+            "9L6xo698",
+            "s2ZrwxCz",
+            "gQXpw3ST",
+            "9L327q0s",
+            "x9mMK7GH",
+            "6yzhkwkr",
+            "V1YieWMR",
+            "JJtrcJyU",
+            "LtTfrcYp",
+            "wTvaGslX",
+            "dYbPKXYr",
+            "R6IlDDKc",
+            "RlYL5BLU",
+            "xsCxBjLF",
+            "0VmUK205",
+            "wjW5KUNJ",
+            "MfpA2Hcs",
+            "00KpO2C7",
+            "7fH5I14D",
+            "6nGhJ8Sc",
+            "MPkJBU4B",
+            "Loz54FGG",
+            "2rmoqa0r",
+            "XzygC2Ar",
+            "D63Y23sN",
+            "yZYgesUr",
+            "VDEbKuDy",
+            "Ih3GLSV3",
+            "YxQnqdJ2",
+            "sYQ2HOYS",
+            "dOL7sJ1R",
+            "g81221De",
+            "qLY63Qus",
+            "qytBPcYK",
+            "KLYPIhf2",
+            "ZxEQiTAj",
+            "1N0PaYTk",
+            "EPsTkdCh",
+            "CzBk2uXR",
+            "O0sIoLc0",
+            "LAG2YEKe",
+            "NtUL2Exh",
+            "gBHawOCP",
+            "jRVhw471",
+            "eubZaaPV",
+            "AgMKeggU",
+            "0h09QvaP",
+            "Thr0aAEH",
+            "OHjIOXwv",
+            "kl7eCU4R",
+            "iEWQUa4L",
+            "2gsO4pQb",
+            "MGtH40A8",
+            "qZrISZmL",
+            "DvtAPtYI",
+            "msC1mLYP",
+            "vNRivDYO",
+            "cdu8UGnt",
+            "r33BQ4Ad",
+            "BFvYC9jY",
+            "DeWfX9RO",
+            "Mut9kUCR",
+            "7clay8ob",
+            "H9WRhRVK",
+            "XUjOAF29",
+            "RLRisnKM",
+            "TUayLOop",
+            "HSwwxU0B",
+            "FT6OtyLC",
+            "zbtBUGJ0",
+            "Spaeqf01",
+            "2WG3xd0o",
+            "niBE08Ns",
+            "JPeR5mt8",
+            "rVoUm2vK",
+            "Z98eVPR5",
+            "KE6u7sQc",
+            "hM6kj0AA",
+            "OfbKJNHg",
+            "RnGMOa4N",
+            "7dQGiMP0",
+            "pMKzEyoe",
+            "ujUe9jq7",
+            "Z7R8ktDh",
+            "FZY4g9tj",
+            "98B9TxIE",
+            "yAnNJSX3",
+            "kzsW3nym",
+            "tv2R1Pz7",
+            "syZyobdH",
+            "Vf2QFc4Y",
+            "bWlxoXqG",
+            "ehcmf5J9",
+            "IgH6MkOw",
+            "oVWawZuJ",
+            "0ubg4OxQ",
+            "fI9MIsqQ"
         ],
         "BOT": true
     }
