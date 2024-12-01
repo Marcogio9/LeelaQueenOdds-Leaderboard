@@ -30,8 +30,8 @@
         "BOT": true
     },
     "Orichess88": {
-        "rating": 2524.504678233776,
-        "games": 81,
+        "rating": 2524.4502166376124,
+        "games": 73,
         "last_game": "2024.11.30",
         "BOT": false
     },
@@ -192,8 +192,8 @@
         "BOT": false
     },
     "Feofanov_Vladimir": {
-        "rating": 2133.725247469291,
-        "games": 53,
+        "rating": 2136.489539877683,
+        "games": 54,
         "last_game": "2024.12.01",
         "BOT": false
     },
@@ -228,8 +228,8 @@
         "BOT": false
     },
     "edgebottle": {
-        "rating": 2109.4629691158143,
-        "games": 316,
+        "rating": 2103.5049537678515,
+        "games": 314,
         "last_game": "2024.12.01",
         "BOT": false
     },
@@ -240,8 +240,8 @@
         "BOT": false
     },
     "vital303": {
-        "rating": 2065.195759328155,
-        "games": 304,
+        "rating": 2064.6170106423633,
+        "games": 303,
         "last_game": "2024.12.01",
         "BOT": false
     },
@@ -809,6 +809,12 @@
         "last_game": "2024.11.20",
         "BOT": false
     },
+    "MassivePackage": {
+        "rating": 1845.7746080221873,
+        "games": 7,
+        "last_game": "2024.11.30",
+        "BOT": false
+    },
     "Algebra-Guy": {
         "rating": 1845.5955821091304,
         "games": 2,
@@ -825,12 +831,6 @@
         "rating": 1845.1406730053366,
         "games": 14,
         "last_game": "2024.11.23",
-        "BOT": false
-    },
-    "MassivePackage": {
-        "rating": 1843.7345912189649,
-        "games": 8,
-        "last_game": "2024.11.30",
         "BOT": false
     },
     "spike8751": {
@@ -3719,6 +3719,12 @@
         "last_game": "2024.10.23",
         "BOT": false
     },
+    "rennik_beans": {
+        "rating": 1654.0872544479544,
+        "games": 234,
+        "last_game": "2024.12.01",
+        "BOT": false
+    },
     "brofist69": {
         "rating": 1653.0693080208953,
         "games": 3,
@@ -3903,12 +3909,6 @@
         "rating": 1637.694314465933,
         "games": 3,
         "last_game": "2024.07.15",
-        "BOT": false
-    },
-    "rennik_beans": {
-        "rating": 1637.2734863924907,
-        "games": 263,
-        "last_game": "2024.12.01",
         "BOT": false
     },
     "Lucario6607": {
@@ -4145,16 +4145,16 @@
         "last_game": "2024.07.15",
         "BOT": false
     },
+    "letheXisme": {
+        "rating": 1617.172603629964,
+        "games": 101,
+        "last_game": "2024.11.30",
+        "BOT": false
+    },
     "AtomicChessSensei": {
         "rating": 1616.8483860540573,
         "games": 7,
         "last_game": "2024.11.26",
-        "BOT": false
-    },
-    "letheXisme": {
-        "rating": 1616.1390110526377,
-        "games": 109,
-        "last_game": "2024.11.30",
         "BOT": false
     },
     "Roger_2020": {
@@ -4213,7 +4213,7 @@
     },
     "LemonXD": {
         "rating": 1609.7216612658315,
-        "games": 479,
+        "games": 460,
         "last_game": "2024.11.30",
         "BOT": false
     },
@@ -9061,78 +9061,9 @@
     },
     "metadata": {
         "rating": 0,
-        "date": 1733053601046,
+        "date": 1733053897533,
         "malus_date": 1732662000000.0,
         "prevlinks": [
-            "XaF2Ma5D",
-            "DlIYNx9S",
-            "Z8kGSEKg",
-            "cxaL89M2",
-            "AlHM0zqL",
-            "CwF0jPAA",
-            "LyuKObvL",
-            "zUvaAfDX",
-            "FKrCoB0j",
-            "n7iipgch",
-            "o4EohYdu",
-            "tf7NffH3",
-            "43oDX2Tq",
-            "DKXf6xbM",
-            "S6b08yJJ",
-            "3rCq9GlY",
-            "WNFMBDv7",
-            "kWhnd95k",
-            "W3NuAF9z",
-            "G3IIFFUU",
-            "8iYmwBe5",
-            "87CGieZQ",
-            "O3EiI74a",
-            "ipLM1RgI",
-            "x1M9OsMi",
-            "hhtwZa1d",
-            "0zZ9l1NS",
-            "wh0vXJwH",
-            "gxEIBQM8",
-            "QhkqFu4W",
-            "2FHWveQh",
-            "OOTdwYRD",
-            "u8w0V657",
-            "8to9DyaO",
-            "7vuWbc1a",
-            "Gj3TWeFA",
-            "rbllKuUS",
-            "CAaFgHpY",
-            "xIMZaqLz",
-            "E2U9Hjiq",
-            "eYbaDuOd",
-            "jEuZ6PDE",
-            "QoU7FY9y",
-            "LsIRcVdA",
-            "DisFt5NG",
-            "ud4M6YG8",
-            "fMgfTEhm",
-            "EYr7gdz6",
-            "jESsPwYg",
-            "59a1NF1L",
-            "uqz1fEeB",
-            "BcgouRjm",
-            "Rk2SyM2d",
-            "Ksyaf9lK",
-            "IERYKMs5",
-            "N1Xz0o4c",
-            "QOw91rAD",
-            "cfvgmhPK",
-            "FyOz3OZS",
-            "vVbYif6M",
-            "3twZ2xqB",
-            "I1tgOC9T",
-            "X7zLuqkK",
-            "2WMnMNQU",
-            "Fygjj3Mh",
-            "nO1A2KM5",
-            "1rpzzk4p",
-            "S4RXhUOV",
-            "aIeJkq03",
             "9v0b0H7I",
             "YGIm8gUt",
             "waAVPdrF",
@@ -10937,7 +10868,9 @@
             "1ixfYZqe",
             "a6PzHHW6",
             "cyrZeau2",
-            "IT0dYY8B"
+            "IT0dYY8B",
+            "aqaC2zY9",
+            "trfblVan"
         ],
         "BOT": true
     }
